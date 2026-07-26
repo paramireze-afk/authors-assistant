@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "test:openai": "tsx src/test-openai.ts",
-    "revise:sample": "tsx src/index.ts"
+    "revise:sample": "tsx src/index.ts drafts/sample.md output/sample-revised.md",
+    "revise": "tsx src/index.ts"
   },
   "keywords": [],
   "author": "",

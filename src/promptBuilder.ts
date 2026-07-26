@@ -7,16 +7,20 @@ interface PromptParts {
 
 export function buildPrompt(parts: PromptParts): string {
   return [
-    "## Instructions",
+    "<instructions>",
     parts.instruction.trim(),
+    "</instructions>",
     "",
-    "## Writing Style",
+    "<writing_style>",
     parts.style.trim(),
+    "</writing_style>",
     "",
-    "## Editing Rules",
+    "<editing_rules>",
     parts.rules.trim(),
+    "</editing_rules>",
     "",
-    "## Draft",
+    "<draft>",
     parts.draft.trim(),
+    "</draft>",
   ].join("\n");
 }

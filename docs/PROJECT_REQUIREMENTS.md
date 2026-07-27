@@ -17,12 +17,12 @@ preserving his wording, cadence, personality, argument, and formatting.
 
 The first version will:
 
-1. Accept the path to a Markdown file.
+1. Accept the path to a Markdown file, usually under articles/drafts/.
 2. Read the original file.
 3. Read the author's writing style and editing rules.
 4. Read a selected prompt or editing mode.
 5. send the material to the OpenAI API.
-6. Save the result as a separate revised file.
+6. Save the result as a separate revised file, usually under output/.
 7. Never overwrite the original file.
 
 ## Version 1 Non-Goals

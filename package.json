@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "test:openai": "tsx src/test-openai.ts",
-    "revise:sample": "tsx src/index.ts drafts/sample.md output/sample-revised.md",
+    "revise:my-post": "tsx src/index.ts articles/drafts/my-post.md output/my-post-revised.md",
     "revise": "tsx src/index.ts",
     "preview": "tsx src/preview.ts",
     "preview:tv": "tsx src/preview.ts output/2026-07-tv-psychology-revised-v1.md output/2026-07-tv-psychology-revised-v1.html"

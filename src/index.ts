@@ -10,7 +10,7 @@ const [draftPath, outputPath] = process.argv.slice(2);
 
 if (!draftPath || !outputPath) {
   console.error("Usage: tsx src/index.ts <draft-path> <output-path>");
-  console.error("Example: tsx src/index.ts drafts/my-post.md output/my-post-revised.md");
+  console.error("Example: tsx src/index.ts articles/drafts/my-post.md output/my-post-revised.md");
   process.exit(1);
 }
 

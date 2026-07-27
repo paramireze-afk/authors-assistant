@@ -20,7 +20,7 @@ OpenAI API to revise Markdown writing.
 
 ## Current Milestone
 
-The current milestone is only to verify that the application can connect to
-the OpenAI API and return a short response.
+The current milestone is to revise Markdown files locally using the OpenAI API
+and save the result as a separate file.
 
-Do not implement Markdown revision yet.
+Do not overwrite the original draft.

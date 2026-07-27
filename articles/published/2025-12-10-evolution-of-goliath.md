@@ -1,0 +1,18 @@
+Heresy and the Evolution of Goliath
+Thoughts from heretic Paul
+Paul Ramirez
+Dec 10, 2025
+Over the last few years, I have been trying to make sense of the world I see around me, and in the process, I’ve landed in a very strange place, as anyone else who might have if they questioned any of the many narratives being shoved down our throats.
+
+I’m from Wisconsin, and lately, I’m reminded of Aaron Rodgers, how he went from being the most celebrated human being in Wisconsin to basically a heretic for denying the vaccine. If you’re not from Wisconsin, it’s hard to explain just how big Aaron Rodgers was, the guy was bigger than Bret Favre and Vince Lombardi. He could sneeze on a cloth and could auction it off for a lot of $$. Anyways, I remember well being at a usual WhatsApp neighborhood Packer party a few years back, everyone brought homemade food. We had a Covid circle of trust going, where we all agreed to only hang out with each other (covid lockdown loophole) which I’m sure none of us violated :-P. I am a stirfry guy so I brought some fried veggies. Anyways, I remember when I committed social suicide among my friends, and how I was too stupid to realize it. That was when Aaron Rodgers was in the news because someone violated HIPAA/PHI laws and exposed him for not taking the vaccine. And, I was so proud of myself, because I read the articles and listened to his interviews where he explained how there were components in the vaccine that he was afraid of getting Anaphylaxis, and how he went great lengths to prevent being infected using alternative means. At the time, I thought I sounded so smart lol.
+
+Anyways, I recently decided to attend a friends-giving event with my WhatsApp neighborhood crowd and I had someone tell me (seemingly innocently) that they were happy to see me, that they thought I died or committed suicide because I was just gone. Of course I couldn’t help but laugh uncontrollably and change the topic immediately. But yeah, it occurred to me, I think that was how everyone felt about me. Just like Aaron Rodgers, I stopped existing in the minds of those we use to mingle with.
+
+Why I’m telling you this? This has nothing to do with Me, or Aaron Rodgers, or you for that matter, it has to do with stories. There are many stories, sometimes you have a story about Ivermectin, or a story about mRNA, or perhaps a story about Myocarditis. I have a story where my first cousin and her father both had aggressive cancer, and were both dying, at the same time in 2023, one of whom succumbed. Oh! I have a story where my former roommate, during the same time, in her late 30’s got Myocarditis and could barely walk up a flight of stairs without passing out for a month . She went to work everyday anyways, she has an MD and did not hesitate to shame anyone for not getting vaccinated. She doesn’t know this but I silently dubbed her Ms. Jabby McJabberpants.
+
+The reason I bring this up is because we all have stories, and some of those stories cause people to think you are a heretic, that you crossed the line. But a 12 year old that has access to youtube can immediately tell that a .30-6 rifle narrative is garbage, as the hundreds of video’s show. What i think really happened is that Goliath learned that they can’t depend on a Patsy to accurately shoot and kill someone (e.g. Thomas Crooks) so instead, have a Patsy but have someone else take the shot and frame the other guy instead. Boom!
+
+- Heretic Paul
+
+
+P.S. I think it’s a bad time of year to be a Patsy.. just sayin

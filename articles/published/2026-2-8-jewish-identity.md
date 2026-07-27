@@ -1,0 +1,15 @@
+The Hijacking of the American-Jewish Identity
+Paul Ramirez
+Feb 08, 2026
+In many ways, what I see happening across the country right now strongly resembles the dynamics of the BLM riots and activist movement. During the BLM era, white people were told they were inherently racist—that, categorically, they were either racist or anti-racist, leaving no room for the possibility that a white person might not be racist at all. To BLM activists, this was framed as a software problem: white people were said to be running faulty software that produced racism, and the solution was “re-programming”—through schools, institutions, media, and even everyday social interactions.
+
+Those attempts at re-programming created enormous resentment, and eventually the entire BLM activist movement collapsed under its own weight. What went wrong? The movement was hyper-focused on the “software” running inside individual minds while largely ignoring the policies that actually produce socioeconomic hardship—policies like welfare expansion and Great Society programs (which Thomas Sowell has written about extensively), or mass immigration policies that flood job markets with cheap labor. Meaningful reform in these areas is resisted because it would impose real financial costs on powerful institutions.
+
+I think Jewish Americans are now experiencing something very similar. In effect, we are living through a kind of JLM activism—the idea that Europeans, or Western societies more broadly, are inherently antisemitic. The proposed solution is the same: education mandates, hate-speech laws, censorship, and algorithmic control of speech. We are told the First Amendment must be weakened or rewritten, and that organizations like the ADL should be empowered to police discourse in order to prevent antisemitism.
+
+As with BLM activism, this approach will backfire. At its core, it is another attempt to “reprogram” large segments of the population into believing something about themselves that is simply not true. The vast majority of Americans do not wake up hating Jews any more than they wake up hating Black people, Italians, or any other group. But attacks on the First Amendment—on the foundational norms of American life—will generate resentment. And resentment, over time, can curdle into real antisemitism among people who otherwise would never have harbored it, especially if they do not fully grasp the downstream consequences of these policies were they to be enacted.
+
+This is no different from how people can become racist when they are constantly shamed, lectured, and yelled at for being racist—especially when all they are trying to do is work, live their lives, and provide for their families.
+
+Ultimately, the solution to these problems is not legal or technological but spiritual. Fear and paranoia are being exploited to create a self-fulfilling prophecy. Every group must learn how its own vulnerabilities are being used against it—and must learn to police itself accordingly. There is a competitive advantage for the groups that do this well: they immunize themselves against manipulation.
+

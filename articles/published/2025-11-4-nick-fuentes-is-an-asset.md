@@ -1,0 +1,22 @@
+Nick Fluentes was an asset. His cover is blown, he’s re-integrating into society
+Casual observations from an armchair observer
+Paul Ramirez
+Nov 04, 2025
+
+In the Charlie Kirk assassination, debunking the “Lone Gunman” theory, I believe Baron Coleman’s work is a smoking gun. Using raw Google Trends data, Baron shows planning began in earnest right after July 14, 2025, the day Dave Smith debated Josh Hammer on U.S. policy toward Israel at TPUSA. Sudden search spikes: shooter’s full name (Tyler James Robinson), Mauser 98, Losee Center, N888KG, even the medical examiner, judge, lawyer, low-level associates, all before the public knew. Baron would also show that nearly all those searches took place from D.C., Huntsville, AL (FBI cyber hub), and Israel. It would be a nothing burger if only one or two of these searches happened, but over 40 google trend spikes happened in a close period of time, shortly after that event
+
+Watch: https://www.youtube.com/@realbaronpodcast
+
+Whether you love him or hate him, I’ve noticed something very strange with Nick Fluentes over the last few months. Nick went into full Eminem-style beefing with Candace Owens and I found it incredibly strange as it was happening. He started to say some of the meanest, shittiest things I’ve ever heard, calling her an “Uncle Tom token Black,” mocking her interracial marriage, and rants on Black IQ. Anyways, he then was able to get on her show. She’s obviously was rattled by his remarks and asks pointed questions. I thought Nick did a great job responding and seeming sincere, I thought the beef was over. However, the next day on his show, he calls her a “dumb bitch” and doubles down with racist rants. That made very little sense to me too, and I could not understand why he was saying those things unless he is genuinely just evil .
+
+Anyways, two weeks later Candace goes on Tucker (Aug 1, 2025) and the topic of Nick comes up and they say this:
+
+TUCKER: He [Fuentes] is clearly part of a campaign to discredit non-crazy right voices. I’ve been around. I know it when I see it.
+CANDACE: I don’t understand it.
+TUCKER: There’s kind of the angry gay kid thing… or he’s lying to everybody.
+
+Like Candace, I was also confused by Nick’s behavior, it seemed very unnatural to me. Now, fast forward to Post-assassination, Nick then goes onto a podcast tour; the PBD show, Glen Greenwald, Infowars, Full Send, Fresh & Fit, The Deen Show, and he spends a lot of energy attempting to discredit and smear Candace, while not using good tactics mind you, using lies that were easily debunked by anyone who was actually paying attention and repeating talking points used by the usual suspects (e.g. daily wire and Bari Weiss).
+
+Here’s what I think: his obsession wasn’t organic. Both Nick and Candace agree on a lot of things in the past, including things like America First, and making Israel register under the FARA act (just like every other country). I know Nick is smart enough to understand the consequences of the Great Societies politicies from the 60’s. However, his behavior does make a lot of sense to me if he had an agenda of sorts, and working as an asset because the timing of his attacks on Candace matches the timeline when the planning would’ve taken place for Charlie Kirk’s assassination. Because I think it was understood by said planners that she would be a problem, that Charlie had been confiding in her for a long time, including about his fallout with the jewish donors (which she shared screenshots of her messages).
+
+If I’m right (it’s currently my strongest hypothesis), Nick was given the assignment to discredit and hurt Candace leading up, and after the event. Because he spent so much energy into discrediting her, while using obvious lies, he blew his cover. That is why Nick is able to go on the Dave Smith show, or Tuckers show sounding calm, reasonable and no longer the caricature voice of the conservative movements that he once portrayed himself as. He talks about “mellowed with age” on race, calls it a “phase” from Mark Levin types. He claims that your skin color does not matter so long as you are a part of the American project. He seems like a completely different guy and I believe it’s because he’s no longer playing the role.

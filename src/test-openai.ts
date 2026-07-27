@@ -2,7 +2,7 @@ import "dotenv/config";
 import OpenAI from "openai";
 
 const apiKey = process.env.OPENAI_API_KEY;
-const model = process.env.OPENAI_MODEL ?? "gpt-5.4";
+const model = process.env.OPENAI_MODEL ?? "gpt-5.5";
 
 if (!apiKey) {
   console.error("Missing OPENAI_API_KEY in .env");

@@ -5,8 +5,17 @@ import { revise } from "./openai.js";
 const INPUT_INSTRUCTION = "prompts/revise.md";
 const INPUT_STYLE = "docs/WRITING_STYLE.md";
 const INPUT_RULES = "docs/EDITING_RULES.md";
-const INPUT_DRAFT = "drafts/sample.md";
-const OUTPUT_PATH = "output/sample-revised.md";
+
+const [draftPath, outputPath] = process.argv.slice(2);
+
+if (!draftPath || !outputPath) {
+  console.error("Usage: tsx src/index.ts <draft-path> <output-path>");
+  console.error("Example: tsx src/index.ts drafts/my-post.md output/my-post-revised.md");
+  process.exit(1);
+}
+
+const INPUT_DRAFT = draftPath;
+const OUTPUT_PATH = outputPath;
 
 async function main(): Promise<void> {
   const instruction = readFile(INPUT_INSTRUCTION);

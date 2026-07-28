@@ -1,9 +1,17 @@
-# The Aspen Donor Retreat (August 2025)
+---
+title: "The Aspen Donor Retreat (August 2025)"
+category: event
+document_type: research-reference
+status: active-investigation
+last_updated: 2026-07-28
+related_timeline_ids: [20, 23]
+tags: [tpusa, aspen, donor-retreat, succession, charlie-kirk]
+related_people: [charlie-kirk, erika-kirk, tyler-bowyer, robert-shillman, andrew-kolvet, bill-ackman]
+related_organizations: [turning-point-usa, american-freedom-alliance]
+related_events: [hamptons-meeting, tpusa-student-action-summit-july-2025, tpusa-doge-audit]
+---
 
-Document type: Research reference  
-Status: Active investigation  
-Last updated: 2026-07-28  
-Related timeline IDs: [20], [23]
+# The Aspen Donor Retreat (August 2025)
 
 ## Overview
 

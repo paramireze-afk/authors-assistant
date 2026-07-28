@@ -1,173 +1,53 @@
+---
+type: person
+aliases:
+  - Tyler James Robinson
+organizations: []
+roles:
+  - Criminal defendant (charged)
+related_people:
+  - Lance Twiggs
+  - Charlie Kirk
+related_organizations:
+  - ATF
+  - FBI
+related_events:
+  - Charlie Kirk assassination (September 10, 2025)
+related_topics:
+  - Ballistics mismatch
+  - text-message evidence chain
+  - PCA version anomalies
+status: draft
+---
+
 # Tyler James Robinson
 
-## Basic Profile
+## At a Glance
 
-- **Full name:** Tyler James Robinson
-- **Date of birth:** April 16, 2003
-- **Age at time of shooting:** 22
-- **Home address at time of arrest:** 894 W Cimarron Dr, Washington, UT 84780
-- **Occupation:** Not publicly established
-- **Education:** Reported 99th percentile ACT score; described by acquaintances as highly intelligent
-- **Relationship:** Romantic relationship with roommate Lance Twiggs, a biological male
-  transitioning genders
-- **Family:** Parents in Washington County, Utah; grandfather owned the rifle allegedly used
+Tyler James Robinson is the named defendant in the official narrative of the Charlie Kirk shooting case. He faces multiple felony charges including aggravated murder. This document preserves the official case narrative, defense-relevant anomalies, and unresolved evidentiary questions.
 
-## Arrest and Charges
+## Network Summary
 
-Robinson surrendered approximately 33 hours after the shooting at the Washington County
-Sheriff's Office on the evening of September 11, 2025, accompanied by his parents and a
-family friend described as a retired deputy sheriff.
+Robinson is central because he anchors both the prosecution narrative and alternative investigative framing. The case’s most contested nodes—ballistics, text-message provenance, PCA discrepancies, and timeline gaps—are tied directly to claims about his actions.
 
-He was arrested at approximately 4:00 AM on September 12, 2025.
+## Key Relationships
 
-### Charges Filed (Criminal Information, September 16, 2025)
+- Lance Twiggs: roommate/romantic partner and key witness source for text-message evidence.
+- Charlie Kirk: victim in charged offenses.
+- Robinson’s parents and grandfather: central to surrender context and rifle lineage.
 
-1. **Aggravated Murder** (Capital Felony) - carries potential death penalty or life without parole
-2. **Felony Discharge of a Firearm Causing Serious Bodily Injury** (First Degree Felony)
-3. **Obstruction of Justice** (Second Degree Felony) - concealing the rifle
-4. **Obstruction of Justice** (Second Degree Felony) - destroying/concealing clothing
-5. **Tampering with a Witness** (Third Degree Felony) - directing roommate to delete texts
-6. **Tampering with a Witness** (Third Degree Felony) - directing roommate to stay silent
-7. **Violent Offense Committed in the Presence of a Child** (Class A Misdemeanor)
+Related: evidence/text-messages.md
+Related: evidence/ballistics.md
+Related: events/charlie-kirk-shooting.md
 
-A victim targeting enhancement was applied to multiple counts, alleging Robinson selected
-Kirk because of Kirk's political expression.
+## Organizations
 
-## The Official Narrative
+- ATF: cited for inconclusive bullet-to-rifle match claims.
+- FBI: implicated in timeline and document-version controversies.
 
-Per the Probable Cause Affidavit (PCA) and Criminal Information filing:
+## Timeline
 
-- Robinson arrived on UVU campus at approximately 8:29 AM in a grey Dodge Challenger,
-  wearing a maroon shirt and light shorts
-- He re-entered campus at approximately 11:51 AM wearing dark clothing, walking with a
-  stiff right leg consistent with concealing a rifle in his pants
-- He climbed to the Losee Center roof at approximately 12:15 PM
-- He fired a single .30-06 shot at 12:23 PM
-- He fled across the roof, dropped to the ground, and disposed of the rifle wrapped in a
-  towel in a wooded area north of Campus Drive
-- He surrendered 33 hours later after his parents recognized him from surveillance photos
-  and convinced him to turn himself in
-
-## Confession Status
-
-**Robinson has NOT confessed in any independently verifiable way.**
-
-There is no:
-- Video confession
-- Signed written statement
-- Audio recording
-- Transcript of a direct admission
-
-What exists:
-- Parents' account that he "implied" he was the shooter during a family conversation
-- Text messages to roommate Lance Twiggs (photographed off Twiggs' screen, not
-  forensically extracted, no timestamps)
-- A Discord message posted September 11 at 8:57 PM: "Hey guys, I have bad news for you
-  all. it was me at UVU yesterday. im sorry for all of this."
-- Robinson's statements to his parents that he "couldn't go to jail and just wanted to end it"
-  and that "there is too much evil and the guy [Charlie Kirk] spreads too much hate"
-
-Robinson is not cooperating with investigators and has made no public statement.
-
-## Key Evidence Against Him (Official)
-
-### DNA Evidence
-DNA "consistent with Robinson" was found on:
-- The rifle trigger
-- Other parts of the rifle
-- The fired cartridge casing
-- Two of three unfired cartridges
-- The towel wrapped around the rifle
-
-**Caveat:** This is state-reported. No independent lab report has been publicly released.
-Court filings later revealed multiple different DNA profiles were found on items of evidence,
-requiring forensic biologists, geneticists, and statisticians to evaluate whether correct
-scientific procedures were applied.
-
-### Ballistics
-The ATF was unable to match the bullet recovered at autopsy to Robinson's rifle. Defense
-attorneys filed this as exculpatory evidence and indicated the ATF firearms analyst would
-testify accordingly.
-
-### Surveillance Footage
-Campus CCTV captured a suspect on the Losee Center roof. The figure is described in
-independent analysis as too small and indistinct to positively identify. Camera footage loses
-Robinson for approximately eight minutes at the critical time window.
-
-### Text Messages
-See dedicated section below.
-
-### Physical Evidence at Residence
-A shell casing with etchings similar to those found on the rifle was discovered during a
-search warrant execution at Robinson's residence, along with targets with bullet holes.
-
-## The Text Messages: Key Anomalies
-
-The text exchange with Lance Twiggs is the prosecution's most narrative-complete piece of
-evidence. Several anomalies have been identified by independent investigators.
-
-### How They Were Obtained
-Messages were photographed off Twiggs' screen by investigators. They were not
-forensically extracted from Robinson's device. No timestamps appear in any court filing.
-
-### The Keyboard Note Paradox
-Robinson allegedly sent a text directing Twiggs to "look under my keyboard," where Twiggs
-found a note reading: "I had the opportunity to take out Charlie Kirk and I'm going to take it."
-
-The paradox: Robinson's texts also state he "hoped to keep this secret till I died of old age."
-These two facts are irreconcilable. A person planning lifelong secrecy does not pre-plant a
-written confession.
-
-### The OwO/uwu Error
-The bullet casings were engraved "OWO" (the correct internet meme spelling, referencing
-"Oh Wow"). Robinson's texts reference the same bullets but write "uwu," a different meme
-entirely. The author of the texts appears unfamiliar with the physical evidence they are
-describing.
-
-### Vocabulary Inconsistencies
-The messages contain vocabulary patterns inconsistent with a 22-year-old texting a romantic
-partner in crisis:
-- "retrieve" (not "get" or "grab")
-- "vehicle" (not "car"; a 2022 bodycam shows Robinson using the word "my car")
-- "squad car" (not "cop car" or "police car")
-- "drop point" (tactical/law enforcement jargon)
-- "swept that spot" (law enforcement terminology for "searched")
-
-### The MAGA Non-Sequitur
-While his father has allegedly identified him from FBI photos of the murder weapon and is
-calling him, Robinson's response is a casual political observation: "since trump got into
-office [my dad] has been pretty diehard maga." This reads as a talking point inserted into a
-crisis conversation, not organic thought.
-
-### Roommate's Unusual Calm
-Twiggs, upon learning his romantic partner just committed a high-profile assassination, does
-not call. He texts calm, interrogation-style questions: "Why?" and "How long have you been
-planning this?" The exchange reads structurally like an interrogation transcript.
-
-### Platform Finding
-Discord stated they found "no evidence that the suspect planned this incident or promoted
-violence" on their service.
-
-## Robinson's Character and Background (From Acquaintances)
-
-Reporting by Ken Klippenstein (September 16, 2025) based on interviews with a childhood
-friend:
-
-- Generally apolitical; rarely discussed politics
-- A keyword search of all his Discord messages found exactly one mention of Trump (a
-  neutral 2019 impeachment inquiry note) and one mention of Biden (a neutral 2020 election
-  night vote count update)
-- Well-liked, quiet, not a loner or social outcast
-- Loved the outdoors, fishing, camping, gaming (Sea of Thieves, Deep Rock Galactic,
-  Helldivers 2)
-- The "Hey fascist, catch!" bullet casing inscription and the three-arrow symbol are
-  references to Helldivers 2, not Antifa ideology
-- His bisexuality and relationship with Lance Twiggs were not known to his family
-- Described as having a "stone cold poker face" and being "hard to read"
-- His Discord activity consisted of cat memes, weather updates, gaming content, home
-  improvement chat, and Garfield references
-
-## Robinson's Movements on September 10 (What Is Established)
+### September 10–11 Movements (as documented in source material)
 
 | Time | Location | Source |
 |------|----------|--------|
@@ -184,51 +64,146 @@ friend:
 | Sep 11, ~8:57 PM | Discord message: "it was me at UVU yesterday" | Klippenstein / Discord |
 | Sep 11, ~10:00 PM | Robinson surrenders at Washington County Sheriff's Office | Official record |
 
-## Document Anomalies Affecting the Case
+### Arrest and Charging Timeline
 
-### Two Versions of the PCA
-Two materially different versions of the Probable Cause Affidavit exist: a jail copy and a
-DocumentCloud version. The jail copy includes the 8:29 AM campus arrival claim. The
-existence of two versions of a sworn court document is a significant anomaly.
+- Surrendered ~33 hours post-shooting at Washington County Sheriff’s Office.
+- Arrested ~4:00 AM, September 12, 2025.
+- Criminal Information filed September 16, 2025 with multiple felony counts and targeting enhancement.
 
-### 8:29 AM Claim Dropped
-The PCA's claim that Robinson was seen on UVU CCTV arriving at 8:29 AM was dropped
-entirely from the indictment filed four days later. No explanation was provided. The FBI has
-never published the footage that allegedly showed this.
+### Charges Filed (Criminal Information, September 16, 2025)
 
-### Dry Run Timestamp Falsified
-TMZ reported the "dry run" footage was taken at 8:07 AM. Shadow analysis by Gray Hughes
-demonstrated the actual time was approximately 10:00 AM. The FBI/TMZ timestamp was
-incorrect by roughly two hours.
+1. Aggravated Murder (Capital Felony)
+2. Felony Discharge of a Firearm Causing Serious Bodily Injury (First Degree Felony)
+3. Obstruction of Justice (Second Degree Felony) - concealing the rifle
+4. Obstruction of Justice (Second Degree Felony) - destroying/concealing clothing
+5. Tampering with a Witness (Third Degree Felony) - directing roommate to delete texts
+6. Tampering with a Witness (Third Degree Felony) - directing roommate to stay silent
+7. Violent Offense Committed in the Presence of a Child (Class A Misdemeanor)
 
-## Current Legal Status
+## Major Activities
 
-- Preliminary hearing delayed multiple times
-- Defense received approximately 20,000 electronic files as discovery
-- Defense sought at least a six-month delay to properly analyze scientific reports
-- Prosecution provided approximately 4,000 files, with 1,700 arriving 12 hours before a
-  preliminary hearing
-- ATF ballistics finding (bullet does not match rifle) filed as exculpatory evidence by defense
-- Multiple DNA profiles on evidence items flagged for independent forensic review
-- Robinson is not cooperating and has made no public statement
+### Background Profile
 
-## Robinson's Grandfather
+- Full name: Tyler James Robinson
+- DOB: April 16, 2003
+- Age at shooting: 22
+- Home address at arrest: 894 W Cimarron Dr, Washington, UT 84780
+- Occupation: not publicly established
+- Education: reported ACT 99th percentile
+- Relationship: Lance Twiggs (as reported)
+- Family: parents in Washington County; grandfather owned alleged rifle
 
-Robinson's grandfather, whose rifle was allegedly used in the shooting, was present at a
-courtroom break and was recorded expressing belief that Tyler was framed. His background
-includes a father who was a law enforcement officer who discussed ballistics, lending weight
-to his skepticism about the wound profile being consistent with his rifle.
+### Official Narrative (Prosecution Framing)
 
-## Public Opinion Context
+Per PCA and Criminal Information summaries:
 
-A poll of Utah County residents found only 64% believed Tyler Robinson was guilty. For a
-charged defendant in a high-profile murder case, this is a remarkably low figure, attributed
-by analysts to widespread public doubt that a .30-06 rifle could produce the wound observed
-on Charlie Kirk.
+- Alleged campus arrival, clothing changes, rooftop access, single .30-06 shot, disposal of rifle, delayed surrender.
+
+### Confession Status
+
+Robinson has NOT confessed in any independently verifiable way.
+
+There is no:
+
+- Video confession
+- Signed written statement
+- Audio recording
+- Transcript of a direct admission
+
+What exists:
+
+- Parents' account that he "implied" he was the shooter during a family conversation
+- Text messages to roommate Lance Twiggs (photographed off Twiggs' screen, not forensically extracted, no timestamps)
+- A Discord message posted September 11 at 8:57 PM: "Hey guys, I have bad news for you all. it was me at UVU yesterday. im sorry for all of this."
+- Robinson's statements to his parents that he "couldn't go to jail and just wanted to end it" and that "there is too much evil and the guy [Charlie Kirk] spreads too much hate"
+
+Robinson is not cooperating with investigators and has made no public statement.
+
+## Public Statements / Positions
+
+- No formal direct public statement corpus beyond attributed private and Discord messages in public reporting.
+
+## Controversies
+
+### Documented Facts
+
+- Charged under multi-count criminal filing with enhancement claim.
+- Defense filings reference ATF inability to match bullet recovered at autopsy to rifle.
+- Discovery volume and hearing delays documented.
+
+### Public Reporting
+
+Key Evidence Against Him (Official)
+
+DNA Evidence
+
+- DNA "consistent with Robinson" reported on trigger, parts of rifle, casing, two of three unfired cartridges, and towel.
+- Caveat: state-reported; no independent public lab release.
+- Later filings indicate mixed DNA profiles requiring specialist review.
+
+Ballistics
+
+- Defense states ATF unable to match autopsy bullet to Robinson rifle and intends exculpatory testimony use.
+
+Surveillance Footage
+
+- CCTV figure described by independent analysts as too small/indistinct for positive identification; approximately eight-minute gap highlighted.
+
+Physical Evidence at Residence
+
+- Shell casing with similar etchings and targets with bullet holes found during search execution.
+
+### Allegations
+
+The Text Messages: Key Anomalies
+
+How Obtained
+
+- Photographed from Twiggs’s screen; not extracted from Robinson’s device; no timestamps in filings.
+
+Keyboard Note Paradox
+
+- Text claims lifelong secrecy intent but also references pre-planted note under keyboard.
+
+OwO/uwu Error
+
+- Engraving reportedly “OWO” while text references “uwu.”
+
+Vocabulary Inconsistencies
+
+- Terms such as “retrieve,” “vehicle,” “squad car,” “drop point,” “swept that spot” flagged as anomalous by investigators.
+
+MAGA Non-Sequitur and Roommate Register
+
+- Analysts describe tonal and structure anomalies in high-stress exchange context.
+
+Platform Finding
+
+- Discord reportedly found no evidence of planning/promoted violence on its service.
+
+### Speculation
+
+- “Patsy/setup” framing and broader network theories remain hypotheses, not established findings.
+
+## Investigative Hypotheses
+
+- Hypothesis: core prosecution narrative is vulnerable on bullet-to-rifle linkage and message-evidence chain.
+- Hypothesis: timeline/data inconsistencies reflect unresolved evidence-production issues.
+- Hypothesis: discrepancies between behavioral profile and alleged planning pattern warrant deeper forensic review.
+
+## Open Questions
+
+- Why no independently verifiable direct confession format in public record?
+- Why no timestamps in key message filings?
+- Why do PCA versions materially differ?
+- Why was 8:29 AM claim dropped from indictment?
+- How should mixed DNA profiles and ATF mismatch claims be resolved scientifically?
+- Why was note evidence not preserved in stronger forensic form?
 
 ## Related Documents
 
-- `knowledge/events/charlie-kirk-shooting.md`
-- `knowledge/people/lance-twiggs.md` (to be created)
-- `knowledge/evidence/text-messages.md` (to be created)
-- `knowledge/evidence/ballistics.md` (to be created)
+- events/charlie-kirk-shooting.md
+- evidence/text-messages.md
+- evidence/ballistics.md
+- evidence/atf-report-and-forensic-findings.md
+- evidence/pca-document-differences.md

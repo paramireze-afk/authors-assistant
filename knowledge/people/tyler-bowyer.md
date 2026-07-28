@@ -1,3 +1,182 @@
+---
+type: person
+aliases:
+	- Tyler Bowyer
+organizations:
+	- Turning Point USA
+	- Turning Point Action
+	- America's Turning Point
+	- Turning Point Endowment
+roles:
+	- COO (Turning Point USA, disputed timeline)
+	- COO (Turning Point Action)
+related_people:
+	- Charlie Kirk
+	- Erika Kirk
+	- Andrew Kolvet
+	- Jake Hoffman
+	- Crystal Clanton
+	- Austin Smith
+	- Tarrell Farnsworth
+related_organizations:
+	- Turning Point USA
+	- Turning Point Action
+	- America's Turning Point
+	- Turning Point Endowment
+related_events:
+	- Charlie Kirk assassination (September 10, 2025)
+	- DOGE-style audit memo (September 2, 2025)
+related_topics:
+	- Form 990 filing irregularities
+	- 110 LLC payments
+	- organizational control
+status: draft
+---
+
+# Tyler Bowyer
+
+## At a Glance
+
+Tyler Bowyer is a longtime Arizona Republican operative who became one of the most powerful figures inside Turning Point USA without ever being its most visible one. He served as Chief Operating Officer of TPUSA and later of affiliated entities, and is described by investigators as central to infrastructure, staffing, and financial-routing systems around Charlie Kirk.
+
+## Network Summary
+
+His significance to the Kirk assassination investigation is framed as structural rather than direct: investigators focus on patterns of financial irregularities, organizational control, and network relationships that they argue Kirk may have been examining in the days before his death.
+
+Candace Owens has described Bowyer as the “linchpin” who staffed nearly everyone around Charlie Kirk [6].
+
+## Key Relationships
+
+- Charlie Kirk: Bowyer described himself as Kirk’s best friend; credited with relocating TPUSA headquarters to Arizona.
+- Erika Kirk: Bowyer introduced Erika to Charlie; relationship chronology remains contested in reporting.
+- Andrew Kolvet: Post-assassination TPUSA power-structure overlap.
+- Farnsworth network: generational family and operational links, including Tarrell Farnsworth.
+- Jake Hoffman: repeated overlap in entities and Arizona political/business contexts.
+- Crystal Clanton: departure preceded Bowyer’s elevation.
+- Austin Smith: example of TP-linked Arizona political operations in investigator framing.
+
+Related: people/charlie-kirk.md
+Related: people/erika-kirk.md
+Related: people/andrew-kolvet.md
+
+## Organizations
+
+### The Four TPUSA Entities
+
+| Entity | Type | Bowyer’s Role |
+|---|---|---|
+| Turning Point USA | 501(c)(3) | COO until 2022 (disputed), then informal |
+| Turning Point Action | 501(c)(4) | COO (official, from 2022) |
+| America’s Turning Point | 501(c)(3) | Managed directly by Bowyer |
+| Turning Point Endowment | 501(c)(3) | Connected via board overlap |
+
+The key structural point in investigative framing is that America’s Turning Point existed as a separate 501(c)(3) managed by Bowyer, not Kirk [11].
+
+Related: organizations/turning-point-usa.md
+Related: organizations/america-turning-point.md
+
+## Timeline
+
+### Key Career Moments
+
+- Dec 31, 2013: Meets Charlie Kirk (reported in 2014; exact circumstances unclear) [14].
+- Dec 31, 2014: Joins Turning Point USA [3].
+- Dec 31, 2016: Becomes COO of TPUSA (after Crystal Clanton departure period) [3].
+- Jun 30, 2022: Title shifts to Turning Point Action COO (LinkedIn) [5].
+- Sep 1, 2025: Removed from COO role by Kirk memo; memo orders DOGE-style audit [22].
+- Sep 9, 2025: Charlie Kirk assassinated; audit and role change canceled in aftermath.
+- Oct 14, 2025: TPUSA misses tax extension deadline; missing filings include Bowyer-linked entity [23].
+
+## Major Activities
+
+### Career and Politics
+
+- Grew up in Chandler/Gilbert Arizona Mormon community.
+- Majored in Soviet studies; fluent Russian speaker.
+- Involved in Maricopa County GOP politics; became county party chairman.
+- Involved with Ukrainian orphanages prior to TPUSA career.
+- While in college, arranged trip to meet Romanian Parliament members [13].
+
+### Leadership and Operations
+
+- Oversaw major TPUSA field/operations functions over multiple years.
+- Controlled or influenced staffing, relocation to Arizona, and multi-entity structure.
+
+### Business and Finance
+
+The Independent Contractor Arrangement
+
+Bowyer was listed as an independent contractor rather than employee on TPUSA 990s while functioning operationally as COO for years. Investigators argue this may have reduced conflict-of-interest disclosure requirements in contexts involving Super Feed Technologies and Lori Frantzve overlap [4].
+
+The 110 LLC Payments
+
+Turning Point entities reportedly sent $4.7 million total to 110 LLC (UPS store mailbox address), including:
+
+- Turning Point Action: $1.1 million (2021–22)
+- Turning Point Action: $2.1 million (2023–24)
+
+Bowyer has not publicly explained what 110 LLC is or what services it provided [8].
+
+Donor Surge and Activity Framing
+
+Turning Point Action donations reportedly rose from $10.7M (FY23) to $27.2M (FY24). Investigators note tension between legal-letter characterization (“lobbying/political activity during election years”) and 990 reporting percentages [10].
+
+## Public Statements / Positions
+
+Several statements are flagged in investigative reporting as inconsistent:
+
+- Claimed no TPUSA COO role after July 2022, while late-2022 recording reportedly captures “guy that basically runs everything” language about TPUSA [5].
+- Publicly downplayed need for special DOGE-style audit post-Kirk memo.
+- Provided “both are true” framing on contradictory accounts of first contact with Erika.
+- Described himself as highly transparent while not providing detailed 110 LLC explanation [5].
+
+## Controversies
+
+### Documented Facts
+
+- September 2, 2025 Kirk memo replaced COO and ordered separate DOGE-style audit [22].
+- Missing Form 990 filings persisted across entities through extension deadline [21], [23].
+- Bowyer-linked America’s Turning Point was among affected filings and transfer scrutiny.
+
+### Public Reporting
+
+- Post-assassination cancellation of DOGE-style audit.
+- Public allegations of opaque routing via entity structure and contractor classification.
+
+### Allegations
+
+- Alleged redirection of donor money toward entities under Bowyer control.
+- Alleged known internal misconduct claims by former employees.
+- Alleged use of TP-linked nonprofit status for Arizona political patronage channels.
+
+### Speculation
+
+- Hypothesis that Bowyer built parallel financial infrastructure Kirk did not control and that audit sequence reflects emerging internal conflict.
+
+## Investigative Hypotheses
+
+- Hypothesis: Bowyer’s multi-entity control created oversight asymmetries inside TPUSA.
+- Hypothesis: COO replacement + DOGE memo indicate Kirk had discovered serious internal financial risk.
+- Hypothesis: Post-death cancellation of audit is a key marker of organizational control transfer.
+
+## Open Questions
+
+- What is 110 LLC, who owns it, and what services were provided?
+- What happened to the $8.6M transferred to America’s Turning Point?
+- Why were three of four 990 forms never filed and why was audit opinion still clean?
+- How did Erika Frantzve know Tyler Bowyer before meeting Charlie Kirk?
+- What did Kirk discover that prompted COO replacement and DOGE audit?
+- What is relevance of Eastern European connection pattern to TPUSA role?
+- Why has Arizona AG taken no public action on mailbox-payment concerns?
+
+## Related Documents
+
+- people/charlie-kirk.md
+- people/erika-kirk.md
+- people/andrew-kolvet.md
+- organizations/turning-point-usa.md
+- organizations/america-turning-point.md
+- events/charlie-kirk-shooting.md
 Tyler Bowyer: Key Career Moments
 Dec 31, 2013
 Meets Charlie Kirk

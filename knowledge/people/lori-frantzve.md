@@ -1,3 +1,181 @@
+---
+type: person
+aliases:
+	- Lori Frantzve
+	- Lori Abbas
+organizations:
+	- American Center for Freedom
+	- Turning Point USA (indirect)
+	- Turning Point Faith (indirect)
+roles:
+	- Co-founder (American Center for Freedom)
+related_people:
+	- Erika Kirk
+	- Charlie Kirk
+	- Larry Guinta
+	- Erin Scavino
+	- Dan Scavino
+	- Tyler Bowyer
+	- Jaco Booyens
+	- Victor Marx
+related_organizations:
+	- American Center for Freedom
+	- Turning Point USA
+	- Turning Point Faith
+related_events:
+	- 2016 Scottsdale gun patent meeting
+	- Charlie Kirk assassination (September 10, 2025)
+related_topics:
+	- Network mapping
+	- Weapons-adjacent business activity
+	- Nonprofit transparency
+status: draft
+---
+
+# Lori Frantzve
+
+## At a Glance
+
+Lori Frantzve is the mother of Erika Kirk (née Frantzve), who married Charlie Kirk in 2019. She is not a public figure in any conventional sense. She has no significant media presence, no prominent political role, and no widely recognized professional identity.
+
+## Network Summary
+
+Lori Frantzve matters to investigators primarily because of her position in a network: she sits at the intersection of her daughter’s marriage into one of America’s most influential conservative political organizations, a pattern of weapons-adjacent business activity, nonprofit structures with opaque finances, and a web of relationships that researchers have connected to broader trafficking-related networks.
+
+She is, in the language of network analysis, a connector node rather than a hub. She does not appear to lead anything publicly. She appears to facilitate.
+
+Her maiden name, or at least an alternate surname she has used, is Lori Abbas. Investigators have noted that she was operating under the name Lori Abbas at the same time she was involved in founding a charity, suggesting either a legal name change, a divorce, or a deliberate use of a different identity during a specific period. The reasons for this have not been publicly established.
+
+## Key Relationships
+
+| Person | Connection | Significance |
+|---|---|---|
+| Erika Kirk | Daughter | Primary reason for investigative interest |
+| Charlie Kirk | Son-in-law (deceased) | TPUSA founder, assassination victim |
+| Larry Guinta | Stepfather | Co-participant in 2016 gun patent meeting |
+| Erin Scavino | Charity executive director | Now State Dept official, married Dan Scavino |
+| Dan Scavino | Erin Scavino’s husband | Senior Trump aide |
+| Tyler Bowyer | TPUSA operative | Arranged Erika’s introduction to Kirk |
+| Jaco Booyens | Charity co-founder | Anti-trafficking activist, notable absence from investigative spreadsheet |
+| Victor Marx | Structural parallel | FoldAR/IDF weapons deal, Turning Point Faith |
+
+## Organizations
+
+| Organization | Connection | Notes |
+|---|---|---|
+| American Center for Freedom | Co-founder (as Lori Abbas) | Small nonprofit, Erin Scavino as exec director |
+| Turning Point USA | Indirect (through Erika) | Daughter married founder |
+| Turning Point Faith | Indirect (through Erika) | Faith arm of TPUSA, trafficking-adjacent allegations |
+| [Unnamed charity with Jaco Booyens] | Co-founder | Details not fully documented |
+
+- Related: people/erika-kirk.md
+- Related: people/tyler-bowyer.md
+- Related: organizations/turning-point-usa.md
+
+## Timeline
+
+- 2016: Participated in Scottsdale gun patent dinner/meeting with Larry Guinta and patent holders [1].
+- Charity period (date range unresolved): American Center for Freedom formed under name Lori Abbas with documented 990 filings [3].
+- 2018: Erika’s Israel trip and TPUSA headquarters event context enters network-analysis relevance [9], [10], [11].
+- 2019: Erika marries Charlie Kirk.
+- 2025–2026: Lori Frantzve appears primarily in investigative network-mapping material.
+
+## Major Activities
+
+### Business
+
+The 2016 Gun Patent Meeting
+
+In late 2016, Lori Frantzve and her stepfather Larry Guinta pursued a business deal involving a patent-pending convertible revolver, described as a weapon with interchangeable calibers and characterized as the only such approved patent in existence at the time [1].
+
+The structure of the deal:
+
+- They met the patent holders at a dinner in Scottsdale, Arizona.
+- The offer was access to government contracts in exchange for a stake in the company [1].
+- During the dinner, Erika Frantzve arrived unannounced and mentioned political connections [1].
+
+The deal ultimately produced no agreement [1].
+
+### Nonprofit
+
+The American Center for Freedom
+
+One of the most documented organizational connections is Lori Frantzve’s role in founding or co-founding a nonprofit called the American Center for Freedom.
+
+Key facts:
+
+- Charity opened under name Lori Abbas.
+- Approximately $300,000 revenue and ~$171,000 expenses per 990 filings [3].
+- Erin Scavino served as executive director (15 hours/week; $37,500 annual) and was listed as TPUSA contributor [3].
+- Erin Scavino later married Dan Scavino and now serves in a U.S. State Department role [3].
+
+What is not established:
+
+- Whether Lori played active operational role vs nominal founding role.
+- Whether charity activities were substantive or nominal.
+- Why Abbas surname was used during this period.
+
+### Network / Faith-adjacent Context
+
+Connection to the Victor Marx / FoldAR Network
+
+Researchers have drawn a structural parallel between Lori Frantzve’s 2016 gun patent approach and later Victor Marx/FoldAR patterns [Sources 6, 7, 8, 9].
+
+The parallel is not a direct connection but a pattern:
+
+- Weapons patents/manufacturers approached by figures claiming institutional access.
+- Equity/acquisition style deal structures.
+- TPUSA/Turning Point Faith network credibility as context.
+- IDF as potential end customer in Marx/FoldAR case [5].
+
+Investigators characterize this as a recurring operational template while acknowledging no established direct organizational link between Lori’s 2016 activity and later Marx activity [2].
+
+## Public Statements / Positions
+
+No major direct public statement corpus by Lori Frantzve is documented in the harvested material. Most positioning is inferred from records, affiliations, and second-order reporting.
+
+## Controversies
+
+### Documented Facts
+
+- Alternate surname Lori Abbas appears in charity-related context.
+- 2016 gun-patent deal attempt and structure are documented in source material [1].
+- American Center for Freedom tax filing figures are documented [3].
+
+### Public Reporting
+
+- Erin Scavino’s trajectory from charity role to high-level political/government proximity is publicly noted [3].
+- Jaco Booyens absence from specific investigative spreadsheet despite family-org link was flagged by Baron Coleman [8].
+
+### Allegations
+
+- Network-level claims connect Lori-associated patterns to broader trafficking-adjacent frameworks.
+
+### Speculation
+
+- Theories that Lori’s network context may help explain Erika’s introduction to Charlie Kirk are interpretive and unproven.
+
+## Investigative Hypotheses
+
+- Hypothesis: Lori Frantzve functioned as a connector node in overlapping nonprofit, faith, and weapons-adjacent networks.
+- Hypothesis: Erika’s introduction to Charlie Kirk was orchestrated; Lori’s network could be contextually relevant.
+- Hypothesis: Repeated equity-for-access structures represent a recurring operational template rather than isolated coincidence.
+
+## Open Questions
+
+- Why did Lori Frantzve use the name Lori Abbas during the charity-founding period?
+- What was the full activity profile of American Center for Freedom beyond 990 filings?
+- What was the full nature of her relationship with Jaco Booyens and co-founded charity activities?
+- Were the 2016 Scottsdale patent holders ever identified publicly, and what became of the patent?
+- What are Lori Frantzve’s current activities and affiliations as of 2026?
+- Any knowledge or involvement in assassination circumstances remains unestablished.
+
+## Related Documents
+
+- people/erika-kirk.md
+- people/tyler-bowyer.md
+- organizations/turning-point-usa.md
+- people/andrew-kolvet.md
 Lori Frantzve: Investigative Reference Document
 Classification: Network mapping / background reference Scope: Relationships, organizational roles, business interests, and investigative significance Intended use: Pre-research briefing for journalists and analysts working on TPUSA, Charlie Kirk assassination, or related networks Last updated: Based on source material through April 2026
 

@@ -1,3 +1,173 @@
+---
+type: person
+aliases:
+	- Erika Frantzve
+	- Erika Kirk
+organizations:
+	- Turning Point USA
+roles:
+	- CEO of Turning Point USA (post-September 2025)
+	- Chairwoman of Turning Point USA (post-September 2025)
+related_people:
+	- Charlie Kirk
+	- Tyler Bowyer
+	- Andrew Kolvet
+	- JD Vance
+	- Blake Neff
+	- Mitch Snow
+related_organizations:
+	- Turning Point USA
+	- Turning Point Action
+	- Turning Point Endowment
+	- America's Turning Point
+related_events:
+	- Charlie Kirk assassination (September 10, 2025)
+	- Aspen investor retreat
+related_topics:
+	- CEO appointment audio dispute
+	- N560TW flight timeline
+	- TPUSA Form 990 filing irregularities
+status: draft
+---
+
+# Erika Kirk (née Frantzve)
+
+## At a Glance
+
+Erika Frantzve Kirk was Charlie Kirk’s wife and became CEO and Chairman of Turning Point USA on September 18, 2025, eight days after his assassination. This document preserves contested and documented claims around her background, succession, and post-assassination role.
+
+## Network Summary
+
+Erika Kirk is a central node because she assumed control of TPUSA immediately after Charlie Kirk’s death under circumstances that investigators describe as disputed.
+
+She is significant on organizational-control, credibility, and narrative-management dimensions. Investigators distinguish between scrutiny of her claims and accusations of direct culpability.
+
+## Key Relationships
+
+| Person | Relationship | Notes |
+|---|---|---|
+| Charlie Kirk | Husband (2019 to 2025) | Met 2018; circumstances of meeting disputed |
+| Tyler Bowyer | Introduced them | Senior TPUSA figure; claims he wanted to hire her |
+| Andrew Kolvet | TPUSA Chief of Staff | Central to tarmac hug controversy; “man of steel” statement |
+| Blake Neff | TPUSA figure | Challenged to release CEO appointment video |
+| JD Vance | VP; public defender | Defended her from stage at UGA event |
+| Cabot Phillips | Alleged prior relationship | Contradicts her “single for five years” claim |
+| Mitch Snow | Eyewitness | Claims to have seen her at Fort Huachuca, Sept 8 |
+| Baker Tilly | TPUSA auditors | Issued clean audit despite missing 990 forms |
+
+## Organizations
+
+- Turning Point USA: Became CEO and Chairman on September 18, 2025 [23].
+- Related: organizations/turning-point-usa.md
+- Related: people/andrew-kolvet.md
+- Related: people/tyler-bowyer.md
+
+## Timeline
+
+- 2018-05: Traveled to Israel on self-described pilgrimage to find future husband [11].
+- 2018-08: Met Charlie Kirk at TPUSA headquarters grand opening in Phoenix [11], [12].
+- 2019: Married Charlie Kirk.
+- 2025-09-10: Charlie Kirk assassinated.
+- 2025-09-18: Became CEO and Chairman of TPUSA [23].
+- Post-assassination: Public appearances and messaging around succession, security, and operations remain contested.
+
+## Major Activities
+
+### Leadership
+
+Pre-Death Role
+
+Erika Kirk had no formal leadership role at TPUSA prior to Charlie Kirk’s death. She was his wife and made occasional public appearances alongside him.
+
+Post-Death Appointment
+
+She became CEO and Chairman of TPUSA on September 18, 2025, eight days after the assassination [23]. The basis for this appointment is itself disputed (see Controversies).
+
+### Public and Media
+
+Current Public Activities
+
+- Has appeared at TPUSA events, including alongside Vice President JD Vance.
+- Gave a pre-recorded segment described by Baron Coleman as a “disaster” that advisors could have pulled before airing [5].
+- Appeared at White House Correspondents’ Dinner despite previously citing security concerns to cancel a UGA appearance with Vance [5].
+- Confirmed to appear with Vance at Iowa State University in Ames after Georgia cancellation [8].
+- TPUSA continues using a promotional photo of her from 2018 sourced from Corcoran Group profile [7].
+
+## Public Statements / Positions
+
+- Stated she was single for five years before meeting Charlie Kirk.
+- Stated she was raised by a single mother in Megyn Kelly interview.
+- Referenced and introduced succession audio at TPUSA’s AmFest.
+- Publicly claimed she had been accused of murdering her husband (as characterized by investigators) [1].
+
+## Controversies
+
+### Documented Facts
+
+- Multiple versions of how she met Charlie Kirk have been publicly circulated [12].
+- NPR article confirms job interview framing for first date context [11].
+- CEO appointment occurred September 18, 2025 [23].
+- TPUSA missed multiple Form 990 deadlines while she was in leadership [22], [23].
+
+### Public Reporting
+
+Educational Claims (Disputed)
+
+- Claimed double major from ASU in program reportedly not offered at the time [3].
+- Claimed summa or magna cum laude honors not independently verified [3].
+- Claimed doctorate in Christian education leadership; investigators report actual credential appears to be an LLM [3].
+
+“Single Mother” Claim (Contradicted)
+
+- In Megyn Kelly interview stated she was raised by a single mother.
+- Contemporaneous Miss Teen Arizona article reportedly described household including parents, grandparents, and a brother [4].
+
+Relationship History
+
+- Publicly stated single for five years before meeting Kirk.
+- Photos surfaced showing apparent relationship with Cabot Phillips in 2017 [18].
+
+### Allegations
+
+CEO Appointment Audio Dispute
+
+- Audio presented at AmFest allegedly contains splice/jump cut [15].
+- Donors at Aspen retreat reportedly stated the succession statement did not occur as claimed [10].
+- TPUSA claimed to possess supporting video but did not release it [9].
+
+Whereabouts and Timeline
+
+- Contradictory reporting around where and when she learned of Kirk’s death [6], [16], [25].
+- Fort Huachuca sighting by Mitch Snow remains unverified [24].
+
+### Speculation
+
+- Investigative framing that her placement in Kirk’s life may have been orchestrated to stabilize donor alignment [14].
+
+## Investigative Hypotheses
+
+- Hypothesis: Introduction to Charlie Kirk was orchestrated rather than accidental [14].
+- Hypothesis: Succession narrative (audio/video) was post-event narrative management.
+- Hypothesis: Timeline inconsistencies indicate unresolved operational facts around September 8–10, 2025.
+
+## Open Questions
+
+- Where was Erika Kirk on September 8 and September 10, 2025?
+- Does video of the CEO appointment statement exist?
+- Who filmed the casket video and the Correspondents’ Dinner departure, and how did CNN obtain the latter?
+- What is the status of the missing TPUSA Form 990 filings?
+- What is the basis for the Fort Huachuca sighting, and has it been independently corroborated beyond Mitch Snow’s account?
+- Why did TPUSA cancel Charlie Kirk’s bulletproof vest contract in April 2025 [21]?
+- What was the nature of Erika Kirk’s relationship with TPUSA financial backers prior to meeting Charlie Kirk?
+
+## Related Documents
+
+- people/charlie-kirk.md
+- people/andrew-kolvet.md
+- people/tyler-bowyer.md
+- people/lori-frantzve.md
+- organizations/turning-point-usa.md
+- events/charlie-kirk-shooting.md
 Erika Kirk (née Frantzve): Reference Document
 Status: Working reference document for investigative research Scope: Covers background, public role, disputed claims, and investigative significance Note on sourcing: Much of the contested material originates from independent investigators (primarily Candace Owens and Baron Coleman podcasts). Where claims are disputed or unverified, this document labels them as such. Official statements from TPUSA or Erika Kirk herself are labeled accordingly.
 

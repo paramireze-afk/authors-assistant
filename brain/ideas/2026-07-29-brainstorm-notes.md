@@ -8,6 +8,7 @@ These are exploratory ideas captured for later analysis. They are hypotheses/opi
 2. Sneako the streamer is a genius.
 3. I need to learn Miles Davis.
 4. Research the game Myst.
+5. Write about Kruppe from the Malazan series.
 
 ## Notes
 

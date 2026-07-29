@@ -46,45 +46,45 @@ The architecture favors small TypeScript tools and composable workflows over hea
 
 ### Foundations
 
-- [Project Requirements](PROJECT_REQUIREMENTS.md) — vision, principles, current scope, and non-goals.
-- [Architecture](ARCHITECTURE.md) — architectural rationale, tradeoffs, and evolution strategy.
-- [Copilot Context](COPILOT_CONTEXT.md) — implementation and collaboration guidance for AI-assisted development.
+- [Project Requirements](docs/PROJECT_REQUIREMENTS.md) — vision, principles, current scope, and non-goals.
+- [Architecture](docs/ARCHITECTURE.md) — architectural rationale, tradeoffs, and evolution strategy.
+- [Copilot Context](docs/COPILOT_CONTEXT.md) — implementation and collaboration guidance for AI-assisted development.
 
 ### Writing Standards
 
-- [Writing Style](WRITING_STYLE.md) — voice, cadence, and stylistic direction.
-- [Editing Rules](EDITING_RULES.md) — editing constraints and quality boundaries.
+- [Writing Style](docs/WRITING_STYLE.md) — voice, cadence, and stylistic direction.
+- [Editing Rules](docs/EDITING_RULES.md) — editing constraints and quality boundaries.
 
 ### Feature Documents
 
-- [Roadmap](features/000-ROADMAP.md)
-- [Personal Knowledge Base](features/001-PERSONAL-KNOWLEDGE-BASE.md)
-- [Knowledge Harvesting Workflow](features/002-KNOWLEDGE-HARVESTING-WORKFLOW.md)
-- [Documentation Refresh](features/003-documentation-refresh.md)
-- [PSYOPS Knowledge Base](features/004-PSYOPS-KNOWLEDGE-BASE.md)
+- [Roadmap](docs/features/000-ROADMAP.md)
+- [Personal Knowledge Base](docs/features/001-PERSONAL-KNOWLEDGE-BASE.md)
+- [Knowledge Harvesting Workflow](docs/features/002-KNOWLEDGE-HARVESTING-WORKFLOW.md)
+- [Documentation Refresh](docs/features/003-documentation-refresh.md)
+- [PSYOPS Knowledge Base](docs/features/004-PSYOPS-KNOWLEDGE-BASE.md)
 
 ### Knowledge Base Links
 
-- [Knowledge README](../knowledge/README.md)
+- [Knowledge README](knowledge/README.md)
 
 **People**
 
-- [Andrew Kolvet](../knowledge/people/andrew-kolvet.md)
-- [Baron Coleman](../knowledge/people/baron-coleman.md)
-- [Blake Neff](../knowledge/people/blake-neff.md)
-- [Candace Owens](../knowledge/people/candace-owens.md)
-- [Erika Kirk](../knowledge/people/erika-kirk.md)
-- [Lori Frantzve](../knowledge/people/lori-frantzve.md)
-- [Tyler Bowyer](../knowledge/people/tyler-bowyer.md)
-- [Tyler Robinson](../knowledge/people/tyler-robinson.md)
+- [Andrew Kolvet](knowledge/people/andrew-kolvet.md)
+- [Baron Coleman](knowledge/people/baron-coleman.md)
+- [Blake Neff](knowledge/people/blake-neff.md)
+- [Candace Owens](knowledge/people/candace-owens.md)
+- [Erika Kirk](knowledge/people/erika-kirk.md)
+- [Lori Frantzve](knowledge/people/lori-frantzve.md)
+- [Tyler Bowyer](knowledge/people/tyler-bowyer.md)
+- [Tyler Robinson](knowledge/people/tyler-robinson.md)
 
 **Knowledge Domains**
 
-- [Concepts](../knowledge/concepts/)
-- [Events](../knowledge/events/)
-- [Evidence](../knowledge/evidence/)
-- [Organizations](../knowledge/organizations/)
-- [Sources](../knowledge/sources/)
+- [Concepts](knowledge/concepts/README.md)
+- [Events](knowledge/events/README.md)
+- [Evidence](knowledge/evidence/README.md)
+- [Organizations](knowledge/organizations/README.md)
+- [Sources](knowledge/sources/README.md)
 
 ## Roadmap
 
@@ -94,7 +94,7 @@ Current direction is incremental and workflow-driven.
 - **Mid-term:** Expand reusable authoring workflows and knowledge synthesis patterns.
 - **Long-term:** Add modular capabilities (search, linking, publishing helpers) without breaking local-first and Markdown-first guarantees.
 
-For detailed sequencing, see the [Roadmap document](features/000-ROADMAP.md).
+For detailed sequencing, see the [Roadmap document](docs/features/000-ROADMAP.md).
 
 ## Repository
 

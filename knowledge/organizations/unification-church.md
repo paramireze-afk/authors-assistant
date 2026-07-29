@@ -1,5 +1,29 @@
-The Unification Church (Moon Inc.) — Investigation Profile
-Overview
+---
+title: The Unification Church (Moon Inc.)
+type: organization
+status: research
+created: 2026-07-29
+updated: 2026-07-29
+tags:
+  - moon-inc
+  - charlie-kirk-investigation
+  - religious-organizations
+  - financial-infrastructure
+  - political-influence
+aliases:
+  - Moon Inc.
+related:
+  - charlie-kirk
+  - rob-mccoy
+  - calvary-chapel
+  - victor-marx
+  - erika-kirk
+sources: []
+---
+
+# The Unification Church (Moon Inc.) — Investigation Profile
+
+## Overview
 The Unification Church, founded by Sun Myung Moon, operated for decades as what investigators have come to call “Moon Inc.” — a sprawling hybrid of religious organization, political influence operation, and financial empire. It is not peripheral to the Kirk investigation. Multiple independent investigators have drawn direct structural parallels between Moon Inc. and Turning Point USA, particularly after TPUSA’s religious pivot in 2021. The theory, articulated most explicitly by Candace Owens [2] and Baron Coleman [10], is that Charlie Kirk was offered the opportunity to become “the next Moon” — and that his refusal or hesitation may have cost him his life.
 
 The Moon Inc. Business Model
@@ -101,19 +125,30 @@ Investigators have raised the question of whether Erika could have been an intel
 
 The revenue correlation is striking: TPUSA’s finances jumped from $55 million to over $80 million in the years after Kirk married Erika and launched TPUSA Faith [19]. Whether that correlation reflects Erika’s network bringing new donors, or something more structural, is an open question.
 
-Recurring Themes Connecting to Moon Inc.
-| Theme | Moon Inc. | TPUSA / Kirk Investigation | |---|---|---| | Faith as financial infrastructure | Core model | TPUSA Faith revenue explosion | | Foreign cash, opaque sourcing | Japan/Korea bags of cash | Egyptian planes, international donors | | Israel loyalty as condition | Documented | Alleged offer to Kirk | | CIA/intelligence infiltration of faith | Alleged | Calvary Chapel theory | | Conservative institution capture | Liberty University | TPUSA, Babylon Bee network | | Arms/trafficking adjacent operations | Documented in Moon network | Victor Marx, FoldAR, Haiti | | Control of legacy after death | Moon’s successors | McCoy’s post-assassination positioning | | Financial audit resistance | Opaque interlocking directorships | DOGE audit cancelled after Kirk’s death |
+## Recurring Themes Connecting to Moon Inc.
 
-Recommended Additional Markdown Files
+| Theme | Moon Inc. | TPUSA / Kirk Investigation |
+|---|---|---|
+| Faith as financial infrastructure | Core model | TPUSA Faith revenue explosion |
+| Foreign cash, opaque sourcing | Japan/Korea bags of cash | Egyptian planes, international donors |
+| Israel loyalty as condition | Documented | Alleged offer to Kirk |
+| CIA/intelligence infiltration of faith | Alleged | Calvary Chapel theory |
+| Conservative institution capture | Liberty University | TPUSA, Babylon Bee network |
+| Arms/trafficking adjacent operations | Documented in Moon network | Victor Marx, FoldAR, Haiti |
+| Control of legacy after death | Moon's successors | McCoy's post-assassination positioning |
+| Financial audit resistance | Opaque interlocking directorships | DOGE audit cancelled after Kirk's death |
+
+## Recommended Additional Research Files
+
 Based on the connections surfaced here, the following profiles would materially strengthen this knowledge base:
 
-Rob McCoy Profile — His Calvary Chapel history, relationship with Kirk, post-assassination positioning, and the “courageous Christianity tour” with Sean Feucht
-Calvary Chapel Network Map — Chuck Smith founding, CIA infiltration allegations, key members connected to the Kirk investigation (McCoy, Marx, Wilkins, Babylon Bee founder)
-Victor Marx Profile — Military background, All Things Possible Ministries, FoldAR/Corby Hall relationship, Haiti operations, TPUSA Faith role, Erika Kirk connection
-Erika Kirk Profile — Israel meeting, TPUSA Faith launch timeline, revenue correlation, China charity work, post-assassination behavior, Egyptian planes
-TPUSA Faith Financial Analysis — Full revenue timeline, fundraising cost explosion, donor network, comparison to Moon Inc. financial structure
-The Tokyo/Korea Trip — Full itinerary, Sanseito meeting, Yoon Bosun arrest, timeline relative to assassination
-The Israel Loyalty Framework — How the condition of unconditional Israel support appears across Moon Inc., the alleged Kirk offer, Calvary Chapel theology, and Christian Zionist donor networks
-Tyler Bowyer and the DOGE Audit — The September 2 memo, Bowyer’s removal and response, what a forensic audit might have found
-Senate Foreign Intelligence Committee Inquiry — What questions were raised, by whom, what was and was not investigated
-Egyptian Planes Flight Pattern Analysis — The SU-BTT and related aircraft, Minot Air Force Base stop [22], TPUSA schedule correlation
+- **Rob McCoy Profile** — His Calvary Chapel history, relationship with Kirk, post-assassination positioning, and the "courageous Christianity tour" with Sean Feucht
+- **Calvary Chapel Network Map** — Chuck Smith founding, CIA infiltration allegations, key members connected to the Kirk investigation (McCoy, Marx, Wilkins, Babylon Bee founder)
+- **Victor Marx Profile** — Military background, All Things Possible Ministries, FoldAR/Corby Hall relationship, Haiti operations, TPUSA Faith role, Erika Kirk connection
+- **Erika Kirk Profile** — Israel meeting, TPUSA Faith launch timeline, revenue correlation, China charity work, post-assassination behavior, Egyptian planes
+- **TPUSA Faith Financial Analysis** — Full revenue timeline, fundraising cost explosion, donor network, comparison to Moon Inc. financial structure
+- **The Tokyo/Korea Trip** — Full itinerary, Sanseito meeting, Yoon Bosun arrest, timeline relative to assassination
+- **The Israel Loyalty Framework** — How the condition of unconditional Israel support appears across Moon Inc., the alleged Kirk offer, Calvary Chapel theology, and Christian Zionist donor networks
+- **Tyler Bowyer and the DOGE Audit** — The September 2 memo, Bowyer's removal and response, what a forensic audit might have found
+- **Senate Foreign Intelligence Committee Inquiry** — What questions were raised, by whom, what was and was not investigated
+- **Egyptian Planes Flight Pattern Analysis** — The SU-BTT and related aircraft, Minot Air Force Base stop [22], TPUSA schedule correlation

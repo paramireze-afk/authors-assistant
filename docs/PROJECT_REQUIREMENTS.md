@@ -1,51 +1,99 @@
-# Author's Assistant
+# Project Requirements
 
-## Purpose
+## Vision
 
-Author's Assistant is a local writing tool designed to reduce the amount of
-copying and pasting required when revising Substack posts with an AI model.
+Author's Assistant is a local-first Markdown knowledge and writing environment.
 
-The application will read Markdown files, apply the author's editing
-instructions, and produce suggested revisions for review.
+Its purpose is to help an author collect research, organize knowledge, draft
+articles, revise writing, and publish higher-quality work while keeping the
+author in control of the creative process.
 
-## Primary Goal
+Markdown files are the project's primary source of truth.
 
-Allow Paul to revise writing directly from his local Markdown files while
-preserving his wording, cadence, personality, argument, and formatting.
+---
 
-## Version 1
+# Core Principles
 
-The first version will:
+- Local-first.
+- Markdown-first.
+- AI assists the author; it does not replace the author.
+- Human review is always required before publication.
+- Prompts remain separate from application code.
+- The project should remain simple, understandable, and easy to maintain.
 
-1. Accept the path to a Markdown file, usually under articles/drafts/.
-2. Read the original file.
-3. Read the author's writing style and editing rules.
-4. Read a selected prompt or editing mode.
-5. send the material to the OpenAI API.
-6. Save the result as a separate revised file, usually under output/.
-7. Never overwrite the original file.
+---
 
-## Version 1 Non-Goals
+# Current Capabilities
 
-The first version will not include:
+The application should support workflows such as:
 
-- A graphical interface
-- A VS Code extension
-- Automatic replacement of text
-- A database
-- User accounts
-- Direct Substack publishing
-- File watching
-- Research or web browsing
-- Automatic fact-checking
+- revising Markdown documents
+- drafting new content
+- organizing research notes
+- maintaining a personal knowledge base
+- reusable prompt templates
+- AI-assisted editing
+- article preparation
 
-## Future Possibilities
+These workflows share the same foundation: local Markdown files, reusable
+prompts, and author-reviewed AI assistance.
 
-- Revise highlighted text from VS Code
-- Display a diff before accepting changes
-- Add multiple editing modes
-- Review an entire article for consistency
-- Suggest titles and subtitles
-- Create Substack excerpts
-- Organize source material
-- Publish to Substack
+---
+
+# Baseline Revision Workflow
+
+The baseline revision workflow should:
+
+1. Accept a Markdown file.
+2. Load the author's writing style.
+3. Load editing rules.
+4. Load the selected prompt.
+5. Send the assembled prompt to an AI model.
+6. Produce a revised Markdown document.
+7. Never overwrite the original document.
+
+This baseline remains important, but it now operates as one workflow inside a
+broader authoring and knowledge system.
+
+---
+
+# Non-Goals
+
+The project intentionally avoids unnecessary complexity.
+
+The application should not require:
+
+- a database
+- user accounts
+- a web server
+- cloud storage
+- a graphical interface
+- automatic publishing
+- automatic editing without review
+
+---
+
+# Future Direction
+
+Possible future capabilities include:
+
+- multiple AI providers
+- multiple editing modes
+- repository-wide knowledge search
+- semantic note linking
+- article generation
+- research assistance
+- citation management
+- fact-checking workflows
+- source attribution
+- document comparison (diffs)
+- Substack publishing
+- VS Code integration
+- reusable writing workflows
+- project templates
+
+Future features should remain modular and should not compromise the project's
+local-first philosophy.
+
+Development should remain incremental: strengthen existing workflows first,
+then add clearly justified capabilities.

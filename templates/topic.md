@@ -1,6 +1,5 @@
 ---
 title: "{{title}}"
-type: idea
 status: active
 created: "{{date}}"
 updated: "{{date}}"
@@ -10,10 +9,18 @@ related: []
 
 # Summary
 
-# Why It Matters
+# My Current Understanding
 
-# Evidence and Examples
+# Timeline
 
-# Questions
+# Supporting Evidence
 
-# Related Ideas
+# Alternative Perspectives
+
+# Open Questions
+
+# Books
+
+# People
+
+# Related Topics

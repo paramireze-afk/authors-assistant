@@ -1,35 +1,38 @@
+import "dotenv/config";
 import { readFile, writeFile } from "./fileUtils.js";
 import { buildPrompt } from "./promptBuilder.js";
 import { revise } from "./openai.js";
-
-const INPUT_INSTRUCTION = "prompts/revise.md";
-const INPUT_STYLE = "docs/WRITING_STYLE.md";
-const INPUT_RULES = "docs/EDITING_RULES.md";
 
 const [draftPath, outputPath] = process.argv.slice(2);
 
 if (!draftPath || !outputPath) {
   console.error("Usage: tsx src/index.ts <draft-path> <output-path>");
-  console.error("Example: tsx src/index.ts articles/drafts/my-post.md output/my-post-revised.md");
+  console.error("Example: tsx src/index.ts drafts/my-post.md output/my-post-revised.md");
   process.exit(1);
 }
 
-const INPUT_DRAFT = draftPath;
-const OUTPUT_PATH = outputPath;
-
 async function main(): Promise<void> {
-  const instruction = readFile(INPUT_INSTRUCTION);
-  const style = readFile(INPUT_STYLE);
-  const rules = readFile(INPUT_RULES);
-  const draft = readFile(INPUT_DRAFT);
+  // Load documentation and configuration
+  const instruction = readFile("docs/PROJECT_REQUIREMENTS.md");
+  const style = readFile("docs/WRITING_STYLE.md");
+  const rules = readFile("docs/EDITING_RULES.md");
+  const draft = readFile(draftPath);
 
-  const prompt = buildPrompt({ instruction, style, rules, draft });
+  // Build the prompt
+  const prompt = buildPrompt({
+    instruction,
+    style,
+    rules,
+    draft,
+  });
 
-  console.log("Sending draft to OpenAI for revision...");
+  // Send to OpenAI for revision
+  console.error(`Revising ${draftPath}...`);
   const revised = await revise(prompt);
 
-  writeFile(OUTPUT_PATH, revised);
-  console.log(`Revised draft saved to ${OUTPUT_PATH}`);
+  // Write the output
+  writeFile(outputPath, revised);
+  console.error(`✓ Revised version written to ${outputPath}`);
 }
 
 main().catch((error) => {

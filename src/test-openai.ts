@@ -1,32 +1,22 @@
 import "dotenv/config";
 import OpenAI from "openai";
 
-const apiKey = process.env.OPENAI_API_KEY;
-const model = process.env.OPENAI_MODEL ?? "gpt-5.5";
-
-if (!apiKey) {
-  console.error("Missing OPENAI_API_KEY in .env");
-  process.exit(1);
-}
-
-const client = new OpenAI({ apiKey });
-
 async function main(): Promise<void> {
-  try {
-    console.log(`Testing OpenAI connection with ${model}...`);
+  console.log("Key loaded:", Boolean(process.env.OPENAI_API_KEY));
 
-    const response = await client.responses.create({
-      model,
-      input: "Reply with exactly: Author's Assistant is connected.",
-    });
+  const client = new OpenAI({
+    apiKey: process.env.OPENAI_API_KEY,
+  });
 
-    console.log("Response:");
-    console.log(response.output_text);
-  } catch (error) {
-    console.error("OpenAI request failed:");
-    console.error(error);
-    process.exit(1);
-  }
+  const response = await client.responses.create({
+    model: "gpt-5.5",
+    input: "Reply with exactly: Author's Assistant is connected.",
+  });
+
+  console.log(response.output_text);
 }
 
-void main();
+main().catch((error: unknown) => {
+  console.error("OpenAI test failed:", error);
+  process.exitCode = 1;
+});

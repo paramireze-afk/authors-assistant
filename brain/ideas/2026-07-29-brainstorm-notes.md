@@ -7,6 +7,7 @@ These are exploratory ideas captured for later analysis. They are hypotheses/opi
 1. The powers that be are attempting to push their perverted version of Christianity on the public.
 2. Sneako the streamer is a genius.
 3. I need to learn Miles Davis.
+4. Research the game Myst.
 
 ## Notes
 

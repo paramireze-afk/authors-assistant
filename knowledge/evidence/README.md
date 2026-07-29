@@ -2,6 +2,6 @@
 
 ## Entries
 
-- [ATF Report and Forensic Findings]({% link knowledge/evidence/atf-report-and-forensic-findings.md %})
-- [Ballistics]({% link knowledge/evidence/ballistics.md %})
-- [Text Messages]({% link knowledge/evidence/text-messages.md %})
+- [ATF Report and Forensic Findings]({{ site.baseurl }}{% link knowledge/evidence/atf-report-and-forensic-findings.md %})
+- [Ballistics]({{ site.baseurl }}{% link knowledge/evidence/ballistics.md %})
+- [Text Messages]({{ site.baseurl }}{% link knowledge/evidence/text-messages.md %})

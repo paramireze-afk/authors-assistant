@@ -6,12 +6,12 @@ The project helps an author collect research, organize knowledge, draft content,
 
 ## Start Here
 
-- [Documentation Landing Page]({% link index.md %})
-- [Project Requirements]({% link docs/PROJECT_REQUIREMENTS.md %})
-- [Architecture]({% link docs/ARCHITECTURE.md %})
-- [Copilot Context]({% link docs/COPILOT_CONTEXT.md %})
-- [Writing Style]({% link docs/WRITING_STYLE.md %})
-- [Editing Rules]({% link docs/EDITING_RULES.md %})
+- [Documentation Landing Page]({{ site.baseurl }}{% link index.md %})
+- [Project Requirements]({{ site.baseurl }}{% link docs/PROJECT_REQUIREMENTS.md %})
+- [Architecture]({{ site.baseurl }}{% link docs/ARCHITECTURE.md %})
+- [Copilot Context]({{ site.baseurl }}{% link docs/COPILOT_CONTEXT.md %})
+- [Writing Style]({{ site.baseurl }}{% link docs/WRITING_STYLE.md %})
+- [Editing Rules]({{ site.baseurl }}{% link docs/EDITING_RULES.md %})
 
 ## Core Principles
 
@@ -22,9 +22,9 @@ The project helps an author collect research, organize knowledge, draft content,
 
 ## Feature Roadmap
 
-- [Roadmap]({% link docs/features/000-ROADMAP.md %})
-- [Personal Knowledge Base]({% link docs/features/001-PERSONAL-KNOWLEDGE-BASE.md %})
-- [Knowledge Harvesting Workflow]({% link docs/features/002-KNOWLEDGE-HARVESTING-WORKFLOW.md %})
+- [Roadmap]({{ site.baseurl }}{% link docs/features/000-ROADMAP.md %})
+- [Personal Knowledge Base]({{ site.baseurl }}{% link docs/features/001-PERSONAL-KNOWLEDGE-BASE.md %})
+- [Knowledge Harvesting Workflow]({{ site.baseurl }}{% link docs/features/002-KNOWLEDGE-HARVESTING-WORKFLOW.md %})
 
 ## Repository
 

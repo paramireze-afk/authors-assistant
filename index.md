@@ -46,45 +46,45 @@ The architecture favors small TypeScript tools and composable workflows over hea
 
 ### Foundations
 
-- [Project Requirements]({% link docs/PROJECT_REQUIREMENTS.md %}) — vision, principles, current scope, and non-goals.
-- [Architecture]({% link docs/ARCHITECTURE.md %}) — architectural rationale, tradeoffs, and evolution strategy.
-- [Copilot Context]({% link docs/COPILOT_CONTEXT.md %}) — implementation and collaboration guidance for AI-assisted development.
+- [Project Requirements]({{ site.baseurl }}{% link docs/PROJECT_REQUIREMENTS.md %}) — vision, principles, current scope, and non-goals.
+- [Architecture]({{ site.baseurl }}{% link docs/ARCHITECTURE.md %}) — architectural rationale, tradeoffs, and evolution strategy.
+- [Copilot Context]({{ site.baseurl }}{% link docs/COPILOT_CONTEXT.md %}) — implementation and collaboration guidance for AI-assisted development.
 
 ### Writing Standards
 
-- [Writing Style]({% link docs/WRITING_STYLE.md %}) — voice, cadence, and stylistic direction.
-- [Editing Rules]({% link docs/EDITING_RULES.md %}) — editing constraints and quality boundaries.
+- [Writing Style]({{ site.baseurl }}{% link docs/WRITING_STYLE.md %}) — voice, cadence, and stylistic direction.
+- [Editing Rules]({{ site.baseurl }}{% link docs/EDITING_RULES.md %}) — editing constraints and quality boundaries.
 
 ### Feature Documents
 
-- [Roadmap]({% link docs/features/000-ROADMAP.md %})
-- [Personal Knowledge Base]({% link docs/features/001-PERSONAL-KNOWLEDGE-BASE.md %})
-- [Knowledge Harvesting Workflow]({% link docs/features/002-KNOWLEDGE-HARVESTING-WORKFLOW.md %})
-- [Documentation Refresh]({% link docs/features/003-documentation-refresh.md %})
-- [PSYOPS Knowledge Base]({% link docs/features/004-PSYOPS-KNOWLEDGE-BASE.md %})
+- [Roadmap]({{ site.baseurl }}{% link docs/features/000-ROADMAP.md %})
+- [Personal Knowledge Base]({{ site.baseurl }}{% link docs/features/001-PERSONAL-KNOWLEDGE-BASE.md %})
+- [Knowledge Harvesting Workflow]({{ site.baseurl }}{% link docs/features/002-KNOWLEDGE-HARVESTING-WORKFLOW.md %})
+- [Documentation Refresh]({{ site.baseurl }}{% link docs/features/003-documentation-refresh.md %})
+- [PSYOPS Knowledge Base]({{ site.baseurl }}{% link docs/features/004-PSYOPS-KNOWLEDGE-BASE.md %})
 
 ### Knowledge Base Links
 
-- [Knowledge README]({% link knowledge/README.md %})
+- [Knowledge README]({{ site.baseurl }}{% link knowledge/README.md %})
 
 **People**
 
-- [Andrew Kolvet]({% link knowledge/people/andrew-kolvet.md %})
-- [Baron Coleman]({% link knowledge/people/baron-coleman.md %})
-- [Blake Neff]({% link knowledge/people/blake-neff.md %})
-- [Candace Owens]({% link knowledge/people/candace-owens.md %})
-- [Erika Kirk]({% link knowledge/people/erika-kirk.md %})
-- [Lori Frantzve]({% link knowledge/people/lori-frantzve.md %})
-- [Tyler Bowyer]({% link knowledge/people/tyler-bowyer.md %})
-- [Tyler Robinson]({% link knowledge/people/tyler-robinson.md %})
+- [Andrew Kolvet]({{ site.baseurl }}{% link knowledge/people/andrew-kolvet.md %})
+- [Baron Coleman]({{ site.baseurl }}{% link knowledge/people/baron-coleman.md %})
+- [Blake Neff]({{ site.baseurl }}{% link knowledge/people/blake-neff.md %})
+- [Candace Owens]({{ site.baseurl }}{% link knowledge/people/candace-owens.md %})
+- [Erika Kirk]({{ site.baseurl }}{% link knowledge/people/erika-kirk.md %})
+- [Lori Frantzve]({{ site.baseurl }}{% link knowledge/people/lori-frantzve.md %})
+- [Tyler Bowyer]({{ site.baseurl }}{% link knowledge/people/tyler-bowyer.md %})
+- [Tyler Robinson]({{ site.baseurl }}{% link knowledge/people/tyler-robinson.md %})
 
 **Knowledge Domains**
 
-- [Concepts]({% link knowledge/concepts/README.md %})
-- [Events]({% link knowledge/events/README.md %})
-- [Evidence]({% link knowledge/evidence/README.md %})
-- [Organizations]({% link knowledge/organizations/README.md %})
-- [Sources]({% link knowledge/sources/README.md %})
+- [Concepts]({{ site.baseurl }}{% link knowledge/concepts/README.md %})
+- [Events]({{ site.baseurl }}{% link knowledge/events/README.md %})
+- [Evidence]({{ site.baseurl }}{% link knowledge/evidence/README.md %})
+- [Organizations]({{ site.baseurl }}{% link knowledge/organizations/README.md %})
+- [Sources]({{ site.baseurl }}{% link knowledge/sources/README.md %})
 
 ## Roadmap
 
@@ -94,7 +94,7 @@ Current direction is incremental and workflow-driven.
 - **Mid-term:** Expand reusable authoring workflows and knowledge synthesis patterns.
 - **Long-term:** Add modular capabilities (search, linking, publishing helpers) without breaking local-first and Markdown-first guarantees.
 
-For detailed sequencing, see the [Roadmap document]({% link docs/features/000-ROADMAP.md %}).
+For detailed sequencing, see the [Roadmap document]({{ site.baseurl }}{% link docs/features/000-ROADMAP.md %}).
 
 ## Repository
 

@@ -2,7 +2,14 @@
 title: Candace Owens
 type: person
 status: research
+created: 2026-07-29
 updated: 2026-07-29
+tags:
+  - candace-owens
+  - charlie-kirk-investigation
+  - conservative-media
+  - turning-point-usa
+  - daily-wire
 
 aliases:
   - Candace Amber Owens Farmer

@@ -2,7 +2,7 @@
 
 ## Entries
 
-- [Aspen Donor Retreat](aspen-donor-retreat.md)
-- [Charlie Kirk Shooting](charlie-kirk-shooting.md)
-- [Crime Scene Paving](crime-scene-paving.md)
-- [TPUSA DOGE Audit](tpusa-doge-audit.md)
+- [Aspen Donor Retreat]({% link knowledge/events/aspen-donor-retreat.md %})
+- [Charlie Kirk Shooting]({% link knowledge/events/charlie-kirk-shooting.md %})
+- [Crime Scene Paving]({% link knowledge/events/crime-scene-paving.md %})
+- [TPUSA DOGE Audit]({% link knowledge/events/tpusa-doge-audit.md %})

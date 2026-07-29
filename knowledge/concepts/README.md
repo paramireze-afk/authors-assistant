@@ -2,4 +2,4 @@
 
 ## Entries
 
-- [Shaped Charge Theory](shaped-charge-theory.md)
+- [Shaped Charge Theory]({% link knowledge/concepts/shaped-charge-theory.md %})

@@ -6,7 +6,7 @@ The project helps an author collect research, organize knowledge, draft content,
 
 ## Start Here
 
-- [Documentation Landing Page](docs/index.md)
+- [Documentation Landing Page](index.md)
 - [Project Requirements](docs/PROJECT_REQUIREMENTS.md)
 - [Architecture](docs/ARCHITECTURE.md)
 - [Copilot Context](docs/COPILOT_CONTEXT.md)

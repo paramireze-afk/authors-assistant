@@ -434,3 +434,9 @@ The Levi Guidelines are a significant primary source for understanding the post-
   - Why: source transparency; best antidote to overstatement.
 - Historiography and legacy debates (1970s–present)
   - Why: separates evidence, interpretation, activism narratives, and present-day analogies.
+
+## Related Concepts
+
+- [MK-Ultra](mk-ultra.md)
+- [CIA Influence Operations (Operation Mockingbird)](cia-influence-operations-operation-mockingbird.md)
+- [Project BLUEBIRD](project-bluebird.md)

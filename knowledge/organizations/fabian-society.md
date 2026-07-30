@@ -1,3 +1,47 @@
+---
+title: Fabian Society
+
+type: organization
+status: reference
+
+author: Nesta Helen Webster
+
+primary_sources:
+  - The Socialist Network (1926)
+  - World Revolution: The Plot Against Civilization (1921)
+  - Secret Societies and Subversive Movements (1924)
+
+founded: 1884
+
+people:
+  - George Bernard Shaw
+  - Sidney Webb
+  - Beatrice Webb
+  - Graham Wallas
+  - Annie Besant
+  - H. G. Wells
+  - Thomas Davidson
+
+related:
+  - concepts/world-revolution
+  - concepts/permeation
+  - concepts/gradualism
+  - concepts/revolutionary-methodology
+  - concepts/institutional-infiltration
+  - organizations/social-democratic-federation
+  - organizations/fellowship-of-the-new-life
+  - organizations/theosophical-society
+  - organizations/labour-party
+
+tags:
+  - fabian-society
+  - socialism
+  - gradualism
+  - permeation
+  - institutional-infiltration
+  - nesta-webster
+---
+
 # The Fabian Society, per Nesta Webster
 ## 1. The Primary Source: *The Socialist Network* (1926)
 

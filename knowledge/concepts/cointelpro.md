@@ -437,6 +437,6 @@ The Levi Guidelines are a significant primary source for understanding the post-
 
 ## Related Concepts
 
-- [MK-Ultra]({% link brain/concepts/mk-ultra.md %})
-- [CIA Influence Operations (Operation Mockingbird)]({% link brain/concepts/cia-influence-operations-operation-mockingbird.md %})
-- [Project BLUEBIRD]({% link brain/concepts/project-bluebird.md %})
+- [MK-Ultra]({{ site.baseurl }}{% link knowledge/concepts/mk-ultra.md %})
+- [CIA Influence Operations (Operation Mockingbird)]({{ site.baseurl }}{% link knowledge/concepts/cia-influence-operations-operation-mockingbird.md %})
+- [Project BLUEBIRD]({{ site.baseurl }}{% link knowledge/concepts/project-bluebird.md %})

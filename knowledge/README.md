@@ -22,8 +22,20 @@ people/
 organizations/
 events/
 concepts/
+topics/
 evidence/
 sources/
+characters/
+
+**Tier descriptions:**
+- `people/` — individual profiles
+- `organizations/` — institutional and group profiles
+- `events/` — specific historical events
+- `concepts/` — recurring ideas, frameworks, and doctrines
+- `topics/` — deep-dive research notes spanning multiple sources on a focused subject
+- `evidence/` — specific evidence items and forensic records
+- `sources/` — source and reference metadata
+- `characters/` — fictional or composite character studies
 
 ## Relationship Between Files
 

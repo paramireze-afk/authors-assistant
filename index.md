@@ -70,11 +70,16 @@ The architecture favors small TypeScript tools and composable workflows over hea
 **People**
 
 - [Andrew Kolvet]({{ site.baseurl }}{% link knowledge/people/andrew-kolvet.md %})
+- [Anthony Fauci]({{ site.baseurl }}{% link knowledge/people/anthony-fauci.md %})
 - [Baron Coleman]({{ site.baseurl }}{% link knowledge/people/baron-coleman.md %})
 - [Blake Neff]({{ site.baseurl }}{% link knowledge/people/blake-neff.md %})
+- [Bret Weinstein]({{ site.baseurl }}{% link knowledge/people/bret-weinstein.md %})
 - [Candace Owens]({{ site.baseurl }}{% link knowledge/people/candace-owens.md %})
+- [Charlie Kirk]({{ site.baseurl }}{% link knowledge/people/charlie-kirk.md %})
 - [Erika Kirk]({{ site.baseurl }}{% link knowledge/people/erika-kirk.md %})
 - [Lori Frantzve]({{ site.baseurl }}{% link knowledge/people/lori-frantzve.md %})
+- [Nesta Helen Webster]({{ site.baseurl }}{% link knowledge/people/nesta-helen-webster.md %})
+- [Robert F. Kennedy Jr.]({{ site.baseurl }}{% link knowledge/people/robert-f-kennedy-jr.md %})
 - [Tyler Bowyer]({{ site.baseurl }}{% link knowledge/people/tyler-bowyer.md %})
 - [Tyler Robinson]({{ site.baseurl }}{% link knowledge/people/tyler-robinson.md %})
 
@@ -85,6 +90,8 @@ The architecture favors small TypeScript tools and composable workflows over hea
 - [Evidence]({{ site.baseurl }}{% link knowledge/evidence/README.md %})
 - [Organizations]({{ site.baseurl }}{% link knowledge/organizations/README.md %})
 - [Sources]({{ site.baseurl }}{% link knowledge/sources/README.md %})
+- [Topics]({{ site.baseurl }}{% link knowledge/topics/README.md %})
+- [Characters]({{ site.baseurl }}{% link knowledge/characters/README.md %})
 
 ## Roadmap
 

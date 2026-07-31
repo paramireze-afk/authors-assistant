@@ -15,9 +15,6 @@ related: ["The Rothschild Formula", "The Bank of England", "The First and Second
 
 The Rothschild family is the single most recurring named entity in this knowledge base without a page of its own — it shows up as supporting material in *[[The Bank of England]]* (the Napoleon/Waterloo episode), *[[The Rothschild Formula]]* (the family's namesake role), *[[The First and Second Banks of the United States]]* (Griffin's claim of Rothschild control over the First Bank), and *[[The Bolshevik Revolution]]* (via the Rhodes–Milner–Round Table lineage). This page consolidates all of that material into one place and adds substantial content — the George Peabody/J.P. Morgan "concealed agent" narrative, August Belmont's Civil War dealings, and the 1896 gold-rescue episode — that has not appeared in any prior document in this knowledge base.
 
-**A note on the nature of the claims here, up front:** Griffin's own text repeatedly hedges its most dramatic Rothschild claims — he calls one story "doubtful," another dependent on a source that "does not give a reference," and directly states that whether a given relationship was real or a "pragmatic guise" is, in his own words, "of little importance" to his larger argument. This page preserves those hedges faithfully rather than smoothing them into confident assertions. Treat every claim below as **Griffin's documented argument**, sourced to the historians and biographers he cites (chiefly Derek Wilson, Frederic Morton, Niall Ferguson-adjacent sources are not used here, Gustavus Myers, John Kenneth Galbraith, and — for the more speculative claims — Eustace Mullins), not as independently established consensus history.
-
----
 
 ## Origins: Mayer Amschel Rothschild
 

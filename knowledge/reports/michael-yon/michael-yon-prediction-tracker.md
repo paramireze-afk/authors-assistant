@@ -185,9 +185,55 @@ For each entry:
 - **New observation:** in this transcript, Yon presents the same underlying prediction with notably higher asserted confidence ("there's reasons for these. This isn't random") than in the previously logged source, where he explicitly disclaimed evidence ("I have no proof of it," "a feeling on the spiderweb"). The underlying prediction is unchanged, but the confidence framing differs across the two appearances.
 - **Why this matters for the credibility assessment:** if the same claim gets framed as low-confidence intuition in one appearance and near-certain pattern recognition in another, that's worth tracking as its own data point — it suggests confidence levels may fluctuate independent of any new supporting evidence between the two statements, which is relevant to how much weight his stated confidence should carry generally.
 
----
+### 16. Israel's eventual destruction
+- **Date logged:** interview dated ~April 19, 2026.
+- **Claim:** Israel will eventually be destroyed, framed through Yon's "Pinocchio" model (created as a controlled instrument, now believed by Yon to have "overstayed its welcome").
+- **Specificity:** Low — no timeframe, no mechanism specified beyond the general framework.
+- **Status:** Open. **Notable as the single highest-stakes prediction logged so far** — worth tracking with particular care given its scale and the total absence of a timeframe, which will make it very difficult to ever score as clearly "missed" even if decades pass without it occurring.
 
-## Key Epistemic Admissions (Non-Prediction, but Directly Relevant to Credibility)
+### 17. Turkish Straits closure
+- **Date logged:** ~April 2026 interview.
+- **Claim:** Yon states he expects the Turkish Straits to close.
+- **Specificity:** Low — no timeframe or mechanism given.
+- **Status:** Open.
+
+### 18. Danish Strait closure
+- **Date logged:** ~April 2026 interview; stated as the reason for a trip to Denmark/Sweden/Norway.
+- **Claim:** The Danish Strait will close.
+- **Specificity:** Low-Medium — named location, no timeframe.
+- **Status:** Open.
+
+### 19. European port disruption: Hamburg, Rotterdam, Antwerp
+- **Date logged:** ~April 2026 interview.
+- **Claim:** Yon states he expects "something" to happen to Hamburg (Germany's largest port, third largest in Europe per Yon) and expects Rotterdam and Antwerp to also be "targeted."
+- **Specificity:** Low — no mechanism or timeframe specified.
+- **Status:** Open.
+
+### 20. Thailand as a future "center of action"
+- **Date logged:** ~April 2026 interview.
+- **Claim:** Yon states Thailand "is going to be one of the main shows at some point" and "a center of action."
+- **Specificity:** Low — no timeframe or specific mechanism.
+- **Status:** Open.
+
+### 21. Kuwait desalination plant strike
+- **Date logged:** ~April 2026 interview.
+- **Claim:** "I think one in Kuwait just got hit" — stated with explicit uncertainty by Yon himself.
+- **Specificity:** Medium — specific claimed event, but Yon's own hedge ("I think") means this needs independent confirmation before being treated as an established fact even by Yon's own standard.
+- **Status:** Open. **Action item:** verify whether a Kuwaiti desalination plant strike occurred around this date via independent reporting.
+
+### 22. Fifth Fleet headquarters, Bahrain — reported strike
+- **Date logged:** ~April 2026 interview.
+- **Claim:** Yon states this location was struck, "allegedly Iranian" munitions, and explicitly states "I have no idea who's doing it."
+- **Specificity:** Medium — specific, real location; attribution explicitly disclaimed by Yon himself.
+- **Status:** Open. **Note:** this is one of the clearer instances of Yon distinguishing a reported event (which may be independently verifiable) from confident attribution (which he states he does not have) — useful as a model instance for how to log claims where he separates the two.
+
+### 23. Draft age ceiling of 42
+- **Date logged:** ~April 2026 interview.
+- **Claim:** A US draft is being discussed with eligibility up to age 42 (source of this specific figure not stated).
+- **Specificity:** Medium — specific figure given, but sourcing unclear.
+- **Status:** Open. **Action item:** identify where this figure originates, since it's more specific than his general draft claim logged in entry #8.
+
+---
 
 This section tracks direct statements by Yon about the evidentiary basis of his own framework — distinct from specific predictions, but important for assessing how much weight to give his overall confidence level.
 
@@ -202,6 +248,12 @@ This section tracks direct statements by Yon about the evidentiary basis of his 
 ### C. Self-rated confidence varies by claim, sometimes for the same claim across appearances.
 - **Source:** compare Argentina/Brazil framing in entry #3 vs. #15 above.
 - **Significance:** useful reminder to log his own stated confidence level at the time of each claim, not just the claim itself, since it appears to be inconsistent even within a single underlying prediction.
+
+---
+
+### D. "What is a Zionist... it gets quite complex" — definitional evasion under direct questioning.
+- **Source:** Suez/Pinocchio interview, in response to being asked to define the term precisely.
+- **Significance:** Yon compares defining "Zionist" to defining "Arab" or "Catholic," arguing the term resists precise definition, then continues using "the Zionist" as a specific, causally load-bearing actor throughout the rest of the same conversation (including the prediction that this actor will destroy Israel). This is a direct, self-acknowledged tension between an admittedly vague label and the highly specific causal role it's asked to play — worth weighing alongside admission A above as a second instance of Yon disclaiming precision on the central actor in his framework while maintaining high confidence in that actor's actions and intentions.
 
 ---
 

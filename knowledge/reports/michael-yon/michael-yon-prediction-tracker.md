@@ -1,3 +1,69 @@
+---
+title: "Who and Why: Grand Strategy and Depopulation"
+type: report
+status: reference
+
+author:
+  - Michael Yon
+
+source:
+  type: interview-transcript
+  interviewer: Mario Nefal
+  notes: Primary-source reconstruction from a single interview.
+
+topics:
+  - grand-strategy
+  - geopolitics
+  - depopulation
+  - prediction
+  - carver-matrix
+  - information-warfare
+  - migration
+  - food-security
+  - energy
+  - strategic-analysis
+
+tags:
+  - michael-yon
+  - grand-strategy
+  - tactics
+  - strategy
+  - carver
+  - prediction
+  - routes-and-resources
+  - depopulation
+  - thinking-hygiene
+  - information-hygiene
+
+related:
+  - people/michael-yon.md
+  - reports/michael-yon/worldview-and-depopulation-framework.md
+  - reports/michael-yon/morocco-ceuta-and-resource-geography.md
+  - concepts/routes-and-resources.md
+  - concepts/grand-strategy-analysis.md
+  - concepts/carver-matrix.md
+  - concepts/thinking-hygiene.md
+  - concepts/information-hygiene.md
+  - concepts/depopulation.md
+
+scope:
+  source_count: 1
+  coverage: "Single interview"
+  limitations:
+    - Documents Michael Yon's views from this interview only.
+    - Does not represent his complete body of work.
+    - Claims are documented as Yon's perspective rather than independently verified.
+
+claims:
+  contains:
+    - observations
+    - interpretations
+    - predictions
+    - speculation
+  framing: source-documentation
+
+---
+
 # Michael Yon: Prediction Tracking Log
 
 *Purpose: track Michael Yon's specific, checkable claims over time to assess predictive accuracy independent of felt confidence. This log is a companion to the source-documentation files (worldview reference, Morocco/phosphate reference) — those files record what he argues; this file records what he predicts and whether it happened.*

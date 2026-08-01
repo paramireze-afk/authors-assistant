@@ -233,9 +233,34 @@ For each entry:
 - **Specificity:** Medium — specific figure given, but sourcing unclear.
 - **Status:** Open. **Action item:** identify where this figure originates, since it's more specific than his general draft claim logged in entry #8.
 
+### 24. November 2026 US midterm election delay/interference
+- **Date logged:** Financial Rebellion interview, ahead of the November 2026 midterms.
+- **Claim:** Yon states he believes Republicans will attempt to use the ongoing war as a pretext to delay or prevent the November 2026 congressional elections from proceeding as scheduled.
+- **Specificity:** High — specific, dated event, binary outcome (election proceeds on schedule vs. delayed/prevented).
+- **Status:** Open. **This is the single most cleanly falsifiable prediction in the log — flag for direct follow-up in November 2026 regardless of any other developments.**
+
+### 25. Denmark / Danish Strait / Maersk targeting
+- **Date logged:** Financial Rebellion interview.
+- **Claim:** Someone will eventually target Denmark, the Danish Straits, and/or Maersk directly, following the "take their whole fleet" logic Yon describes.
+- **Specificity:** Low-Medium — named actor/target, no timeframe or mechanism.
+- **Status:** Open.
+
+### 26. Targeted reduction of the Chinese population specifically
+- **Date logged:** Financial Rebellion interview.
+- **Claim:** Distinct from the general global depopulation claim already logged — here Yon states directly the goal is to "reduce the number of Chinese on planet Earth" specifically.
+- **Specificity:** Low — no timeframe or mechanism; functionally similar to the broader claim but worth tracking separately since it names a specific target population.
+- **Status:** Open.
+
+### 27. October 7 attribution claim
+- **Date logged:** Financial Rebellion interview.
+- **Claim:** Yon states the October 7, 2023 attack was a "setup" orchestrated by "the Zionists" against Israeli civilians, not an attack genuinely carried out by Hamas alone.
+- **Specificity:** This is not a forward-looking prediction and doesn't fit the Open/Confirmed/Missed structure used elsewhere in this log — it's a claim about a past, extensively and independently documented event.
+- **Status:** Flagged for separate treatment rather than standard tracking. **Given the scale and specificity of what's being claimed (responsibility for a mass-casualty terrorist attack), this deserves its own dedicated comparison against the independently documented factual record of October 7, rather than being tracked alongside forward-looking predictions like the ones above.**
+
 ---
 
-This section tracks direct statements by Yon about the evidentiary basis of his own framework — distinct from specific predictions, but important for assessing how much weight to give his overall confidence level.
+## Key Epistemic Admissions (Non-Prediction, but Directly Relevant to Credibility)
+
 
 ### A. "Actual names, I don't know because they come and go."
 - **Source:** Mario Nefal interview, in direct response to being asked who specifically is responsible for the depopulation framework (companies, billionaires, policymakers).
@@ -248,6 +273,11 @@ This section tracks direct statements by Yon about the evidentiary basis of his 
 ### C. Self-rated confidence varies by claim, sometimes for the same claim across appearances.
 - **Source:** compare Argentina/Brazil framing in entry #3 vs. #15 above.
 - **Significance:** useful reminder to log his own stated confidence level at the time of each claim, not just the claim itself, since it appears to be inconsistent even within a single underlying prediction.
+
+### E. "I don't know what the truth is on that. I just don't know." — declining to extend the framework to a claim raised by his host.
+- **Source:** Financial Rebellion interview, in response to a direct question about whether the destruction of THAAD installations in Iran might be connected to weather modification/rainfall changes there.
+- **Significance:** a clear instance of Yon declining to confirm a specific claim even when it was handed to him by a sympathetic host and would have fit neatly into his broader framework. Worth weighing as a positive data point when assessing whether he's applying any independent judgment versus agreeing with anything framed as consistent with his worldview — this is one of the clearer examples of him not doing that.
+
 
 ---
 

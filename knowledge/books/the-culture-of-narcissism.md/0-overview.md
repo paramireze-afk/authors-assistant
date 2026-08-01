@@ -1,3 +1,8 @@
+---
+layout: default
+title: "0 Overview"
+---
+
 I am building a personal Markdown knowledge base that serves as the foundation for my writing.
 
 Your task is to conduct a deep study of Christopher Lasch's *The Culture of Narcissism*.

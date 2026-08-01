@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Vision"
+---
+
 # Vision
 
 A personal knowledge system built around Markdown.

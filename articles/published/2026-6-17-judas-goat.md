@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Judas Goat"
+---
+
 Anthony Fauci is what I would call a “Judas Goat.”
 A story how the internet reshaped history
 Paul Ramirez

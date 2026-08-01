@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Andrew Kolvet"
+---
+
 Andrew Kolvet: Reference Document
 Prepared for investigative research purposes. Distinguishes documented facts, public statements, allegations, and unresolved questions throughout.
 ---

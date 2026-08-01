@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Social Media Swamp Monsters"
+---
+
 Social Media Swamp Monsters
 Rantings from a lunny conspiracy theorist! ;-)
 Paul Ramirez

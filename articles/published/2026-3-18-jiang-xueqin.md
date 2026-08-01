@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Jiang Xueqin"
+---
+
 Paul Ramirez
 The Origins of Jiang Xueqin
 Paul Ramirez

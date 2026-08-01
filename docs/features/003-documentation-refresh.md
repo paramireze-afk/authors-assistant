@@ -1,3 +1,8 @@
+---
+layout: default
+title: "003 — Documentation Refresh"
+---
+
 # 003 — Documentation Refresh
 
 ## Why this update exists

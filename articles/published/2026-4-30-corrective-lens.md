@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Corrective Lens"
+---
+
 Beyond the Corrective Lens: Bret’s Bigger Civilizational Question
 My bonehead intwerpertation on latest “Inside Rail” with Bret Weinstein, Jordan Hall, and Jonathan Pageau
 Paul Ramirez

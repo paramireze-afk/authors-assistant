@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Game Of Thrones"
+---
+
 Game of Thrones
 Early signs of media manipulation
 Paul Ramirez

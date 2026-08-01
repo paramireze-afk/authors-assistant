@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Dislike Blinds Judgement"
+---
+
 When Dislike Blinds Judgment
 Why cheering federal force against “the other side” sets a precedent you won’t like later
 Paul Ramirez

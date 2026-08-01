@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Robert F Kennedy Jr"
+---
+
 I am building a Markdown-based knowledge base for a long-term writing project.
 
 Create a comprehensive Markdown profile of Robert F. Kennedy Jr. using his own body of work as the primary source corpus.

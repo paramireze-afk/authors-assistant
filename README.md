@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Author's Assistant"
+---
+
 # Author's Assistant
 
 Author's Assistant is a local-first, Markdown-first writing and knowledge-management project.

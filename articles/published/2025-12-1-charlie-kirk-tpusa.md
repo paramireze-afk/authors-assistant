@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Charlie Kirk Tpusa"
+---
+
 Charlie Kirk and TPUSA
 I tried to post this on reddit but it got scrubbed out by AI filters
 Paul Ramirez

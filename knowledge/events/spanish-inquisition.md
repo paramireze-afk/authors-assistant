@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Joseph de Maistre's Defense of the Spanish Inquisition: A Beginner's Guide"
+---
+
 # Joseph de Maistre's Defense of the Spanish Inquisition: A Beginner's Guide
 
 *A summary of the "Letters on the Spanish Inquisition," based on the Imperium Press edition in its "Studies in Reaction" series*

@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Color Revolution"
+---
+
 Are we living through a Color Revolution?
 Why this topic matters (which is more than fighting with Crayons)
 Paul Ramirez

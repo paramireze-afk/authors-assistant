@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Where Hve Joe Rogan Gone To"
+---
+
 Where Have All the Joe Rogans Gone?
 Paul Ramirez
 May 11, 2026

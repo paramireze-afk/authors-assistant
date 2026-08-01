@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Operation Gladio"
+---
+
 # Operation Gladio
 
 ## Overview

@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Nick Fuentes Is An Asset"
+---
+
 Nick Fluentes was an asset. His cover is blown, he’s re-integrating into society
 Casual observations from an armchair observer
 Paul Ramirez

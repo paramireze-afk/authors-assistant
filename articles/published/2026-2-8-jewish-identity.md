@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Jewish Identity"
+---
+
 The Hijacking of the American-Jewish Identity
 Paul Ramirez
 Feb 08, 2026

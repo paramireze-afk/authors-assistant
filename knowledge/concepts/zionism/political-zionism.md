@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Political Zionism: A Research Reference"
+---
+
 # Political Zionism: A Research Reference
 
 *Compiled as a knowledge-base reference document. Distinguishes documented historical fact, scholarly interpretation, and contested political claims where relevant. Not an argumentative essay — a map of the terrain for further writing.*

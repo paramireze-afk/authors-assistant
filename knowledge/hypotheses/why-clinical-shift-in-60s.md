@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Hypothesis Report: Institutional Decay and the Betrayal of Dependency"
+---
+
 # Hypothesis Report: Institutional Decay and the Betrayal of Dependency
 ### A Single-Mechanism Explanation for the Mid-Century Shift from Neurotic Symptom Pictures to Pathological Narcissism
 

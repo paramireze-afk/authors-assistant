@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Detecting A New Signal"
+---
+
 Detecting a new Signal
 Rantings of a slightly drunk listener of darkhorse
 Paul Ramirez

@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Lack Of Imagination"
+---
+
 Failure of Imagination
 When zero sum thinking is a mindset
 Paul Ramirez

@@ -1,3 +1,8 @@
+---
+layout: default
+title: "The War in Afghanistan (1979–2021)"
+---
+
 # The War in Afghanistan (1979–2021)
 
 > **Entry type:** Foundational historical/political reference

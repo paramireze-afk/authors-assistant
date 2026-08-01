@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Jordan Peterson"
+---
+
 What i really think happened to Jordan Peterson
 Paul Ramirez
 Mar 13, 2026

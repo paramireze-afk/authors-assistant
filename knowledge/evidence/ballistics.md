@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Ballistics Evidence: Why the .30-06 Wound Is Physically Contested"
+---
+
 # Ballistics Evidence: Why the .30-06 Wound Is Physically Contested
 
 ## Overview

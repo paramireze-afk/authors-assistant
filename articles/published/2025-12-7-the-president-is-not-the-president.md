@@ -1,3 +1,8 @@
+---
+layout: default
+title: "The President Is Not The President"
+---
+
 The President is not the President
 We haven't had one since JFK
 Paul Ramirez

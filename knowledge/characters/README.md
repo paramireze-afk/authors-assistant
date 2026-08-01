@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Characters"
+---
+
 # Characters
 
 Fictional or composite character studies used for narrative and analytical writing.

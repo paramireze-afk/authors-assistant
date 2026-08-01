@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Articles Folder Layout"
+---
+
 # Articles Folder Layout
 
 ## drafts/

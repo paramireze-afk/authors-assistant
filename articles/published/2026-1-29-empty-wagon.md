@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Empty Wagon"
+---
+
 The Empty Wagon
 Book Subtitle: Zionism's Journey from Identity Crisis to identity theft -Rabbi Yaakov Shapiro
 Paul Ramirez

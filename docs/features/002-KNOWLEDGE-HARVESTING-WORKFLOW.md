@@ -1,3 +1,8 @@
+---
+layout: default
+title: "002 – Knowledge Harvesting Workflow"
+---
+
 # 002 – Knowledge Harvesting Workflow
 
 ## Goal

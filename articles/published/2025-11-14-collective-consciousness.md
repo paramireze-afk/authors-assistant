@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Collective Consciousness"
+---
+
 Rise of a Collective Consciousness
 Inside the coordinated media warfare against anti-war voices
 Paul Ramirez

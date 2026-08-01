@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Concepts"
+---
+
 # Concepts
 
 Recurring ideas, analytical frameworks, historical doctrines, and institutional behaviors.

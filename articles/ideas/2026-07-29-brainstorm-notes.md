@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Brainstorm Notes (2026-07-29)"
+---
+
 # Brainstorm Notes (2026-07-29)
 
 These are exploratory ideas captured for later analysis. They are hypotheses/opinions, not verified findings.

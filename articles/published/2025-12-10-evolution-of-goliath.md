@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Evolution Of Goliath"
+---
+
 Heresy and the Evolution of Goliath
 Thoughts from heretic Paul
 Paul Ramirez

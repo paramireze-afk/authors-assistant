@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Sources"
+---
+
 # Sources
 
 This directory is currently empty.

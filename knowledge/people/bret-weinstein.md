@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Bret Weinstein"
+---
+
 # Bret Weinstein
 
 *Synthesized exclusively from attached transcripts (Dark Horse Podcast material: Bret's interviews with Geert Vanden Bossche and Leslie Manookian, and his own monologues). This is a reference document on Bret Weinstein as a thinker — his recurring concepts, reasoning habits, terminology, analogies, and worldview — organized for retrieval rather than chronology. No outside information has been added; everything here is drawn from what he says, argues, or reveals about himself in the source material.*

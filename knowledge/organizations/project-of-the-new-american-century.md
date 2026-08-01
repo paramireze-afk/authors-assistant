@@ -1,3 +1,8 @@
+---
+layout: default
+title: "The Project for the New American Century (PNAC)"
+---
+
 # The Project for the New American Century (PNAC)
 
 > **Entry type:** Institutional/historical-political reference

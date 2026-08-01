@@ -1,0 +1,56 @@
+# GitHub Pages / Jekyll configuration
+#
+# Theme: just-the-docs (loaded via remote_theme — no Gemfile or custom
+# Actions workflow required; GitHub Pages' default build supports the
+# jekyll-remote-theme plugin out of the box).
+#
+# To publish: repo Settings → Pages → Source → Deploy from branch →
+# Branch: main, Folder: / (root).
+
+title: "Author's Assistant"
+description: "A personal, Markdown-first knowledge base, research archive, and writing workspace."
+url: "https://paramireze-afk.github.io"
+baseurl: "/authors-assistant"
+
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+
+# --- just-the-docs settings ---
+color_scheme: dark
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 2
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s/]+/
+  rel_url: true
+  button: false
+
+heading_anchors: true
+back_to_top: true
+back_to_top_text: "Back to top"
+nav_sort: case_insensitive
+enable_copy_code_button: true
+
+footer_content: "A personal, local-first, Markdown-first knowledge base. Built with Jekyll + Just the Docs."
+
+aux_links:
+  "View on GitHub":
+    - "https://github.com/paramireze-afk/authors-assistant"
+aux_links_new_tab: true
+
+# Files/dirs Jekyll should not try to read or copy into the built site.
+exclude:
+  - node_modules/
+  - src/
+  - output/
+  - templates/
+  - prompts/
+  - package.json
+  - package-lock.json
+  - tsconfig.json
+  - .env
+  - .env.example
+  - README_JEKYLL.md

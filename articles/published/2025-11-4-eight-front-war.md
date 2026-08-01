@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Eight Front War"
+---
+
 The Eighth Front: How Influence Became the Real Battlefield
 The strange case of Charlie Kirk, the sudden attacks on Tucker Carlson, and how influence networks keep the public looking the other way
 Paul Ramirez

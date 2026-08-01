@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Goliaths Will Goliath"
+---
+
 Goliaths Will Goliath
 The Quiet Attack on the Dissident Movement
 Paul Ramirez

@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Take Solace"
+---
+
 Take Solace
 
 (authors note: I'm slightly drunk and revised my thnking using chatgpt, but the concept is my own)

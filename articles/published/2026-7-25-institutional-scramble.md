@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Institutional Scramble"
+---
+
 Paul Ramirez
 The Institutional Scramble
 How unsound money keeps recreating the same institutions

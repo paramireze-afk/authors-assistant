@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Melisandre Matters"
+---
+
 Why Melisandre Matters
 How she captured my imagination
 Paul Ramirez

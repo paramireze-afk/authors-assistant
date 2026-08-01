@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Iran War And Clean Break"
+---
+
 Paul Ramirez
 Iran Was Always the Final Domino
 If you think Trump is responsible for the Iran war, then you don’t understand foreign policy for the last 30 years.

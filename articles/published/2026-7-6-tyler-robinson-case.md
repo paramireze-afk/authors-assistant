@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Tyler Robinson Case"
+---
+
 Paul Ramirez
 Why the Tyler Robinson case is the most important thing happening domestically in the US
 Paul Ramirez

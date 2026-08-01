@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Breaking Out The Silo"
+---
+
 Breaking Out of the Silo
 Refactoring the world
 Paul Ramirez

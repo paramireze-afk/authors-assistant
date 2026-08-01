@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Goal"
+---
+
 # Goal
 
 Create a personal encyclopedia that represents my current understanding of important topics.

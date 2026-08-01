@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Chapter Study: 'The Narcissistic Personality of Our Time'"
+---
+
 # Chapter Study: "The Narcissistic Personality of Our Time"
 ### Chapter 2 of Christopher Lasch's *The Culture of Narcissism*
 

@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Hamastizing Dissent"
+---
+
 The “Hamas-tization” of Political Dissent
 A deliberate attempt to shut down discourse
 Paul Ramirez

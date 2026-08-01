@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Military Lab Priests"
+---
+
 Military Uniforms, Lab Coats, and Priest Robes
 How the military, science, and religion are very similar
 Paul Ramirez

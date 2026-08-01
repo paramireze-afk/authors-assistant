@@ -1,3 +1,8 @@
+---
+layout: default
+title: "What Really Happened To Jordan Peterson"
+---
+
 What Really Happened to Jordan Peterson?
 I can't say Jewish Mafia, ChatGPT refuses to revise my grammar.. So I say Italian Mafia
 Paul Ramirez

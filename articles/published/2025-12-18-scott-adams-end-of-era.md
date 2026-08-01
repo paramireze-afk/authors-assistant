@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Scott Adams End Of Era"
+---
+
 Paul Ramirez
 Scott Adams and the End of an Era
 Paul Ramirez

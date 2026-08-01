@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Gay Fake World"
+---
+
 The Gay/Fake world and Jordan Peterson
 A brief summary of my fucked up thoughts
 Paul Ramirez

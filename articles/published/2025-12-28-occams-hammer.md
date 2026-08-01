@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Occams Hammer"
+---
+
 
 Occam’s Hammer
 A game of Hammer, Paper, and Razors

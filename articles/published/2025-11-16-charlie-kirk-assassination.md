@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Charlie Kirk Assassination"
+---
+
 Why you should pay attention to the Charlie Kirk assassination
 Stories that diagnose the system
 Paul Ramirez

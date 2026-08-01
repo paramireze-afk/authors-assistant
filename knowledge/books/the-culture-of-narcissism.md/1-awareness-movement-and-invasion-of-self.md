@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Chapter Study: 'The Awareness Movement and the Social Invasion of the Self'"
+---
+
 # Chapter Study: "The Awareness Movement and the Social Invasion of the Self"
 ### Introduction to Christopher Lasch's *The Culture of Narcissism*
 

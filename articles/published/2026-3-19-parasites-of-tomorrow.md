@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Parasites Of Tomorrow"
+---
+
 The Parasite of Tomorrow
 How history repeats itself
 Paul Ramirez

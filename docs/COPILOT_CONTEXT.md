@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Copilot Context"
+---
+
 # Copilot Context
 
 ## Project

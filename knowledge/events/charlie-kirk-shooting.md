@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Charlie Kirk"
+---
+
 # Charlie Kirk
 
 ## Overview

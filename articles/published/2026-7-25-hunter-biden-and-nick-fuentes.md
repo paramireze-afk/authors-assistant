@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Hunter Biden And Nick Fuentes"
+---
+
 Hunter Biden and Nick Fuentes
 The push to mainstream Hunter into the podcast world
 Paul Ramirez

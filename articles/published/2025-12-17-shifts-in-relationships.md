@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Shifts In Relationships"
+---
+
 Shifts in relationship strategies
 A reflection of lessons learned since 2016
 Paul Ramirez

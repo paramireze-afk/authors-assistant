@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Reading the 2020s Through Mises, Hayek, and Rothbard"
+---
+
 # Reading the 2020s Through Mises, Hayek, and Rothbard
 ### An Applied Report
 

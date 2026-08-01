@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Topics"
+---
+
 # Topics
 
 Deep-dive research notes on specific subjects that span multiple people, organizations, or events. Each file synthesizes primary sources around a single focused topic.

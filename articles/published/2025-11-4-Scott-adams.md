@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Scott Adams"
+---
+
 Scott Adams and the Billion (Trillion?) Dollar Play
 A potential public relations of sorts that Big Medicine has never seen
 Paul Ramirez

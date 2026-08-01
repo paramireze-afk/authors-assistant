@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Original Conspiracy Theory"
+---
+
 My Original Conspiracy "Theory"
 Paul Ramirez
 Dec 23, 2025

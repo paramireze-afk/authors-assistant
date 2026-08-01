@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Eigth Front War"
+---
+
 Paul Ramirez
 The 8th Front of War
 Paul Ramirez

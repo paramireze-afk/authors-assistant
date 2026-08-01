@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Mal Adapted Immune Response"
+---
+
 Leviathan’s Mal-adapted Immune Response
 Social vaccines that caused us to be here
 Paul Ramirez

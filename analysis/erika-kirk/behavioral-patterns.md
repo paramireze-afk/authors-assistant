@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Behavioral Patterns"
+---
+
 # Behavioral Patterns
 
 **Source:** Charlie Kirk Investigation AI Chatbot

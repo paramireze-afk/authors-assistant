@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Vaccine Safety"
+---
+
 Paul Ramirez
 In the Dark Mind of an anti-vaxxer
 :-P *Queue scary music!*

@@ -9,6 +9,10 @@ A personal, local-first knowledge base and writing workspace.
 
 [View Repository on GitHub](https://github.com/paramireze-afk/authors-assistant)
 
+## Featured Article
+
+- [The Gap and the Corridor]({{ site.baseurl }}{% link articles/published/2026-08-01-the-gap-and-the-corridor.md %})
+
 ---
 
 ## Featured Concept: The Pinocchio State

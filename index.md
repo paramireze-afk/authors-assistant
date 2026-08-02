@@ -13,6 +13,10 @@ A personal, local-first knowledge base and writing workspace.
 
 - [The Gap and the Corridor]({{ site.baseurl }}{% link articles/published/2026-08-01-the-gap-and-the-corridor.md %})
 
+An investigative article on the Darién Gap as both a brutal jungle crossing and a corridor shaped by migration systems, institutions, infrastructure, and geopolitics.
+
+*[→ Read the article]({{ site.baseurl }}{% link articles/published/2026-08-01-the-gap-and-the-corridor.md %})*
+
 ---
 
 ## Featured Concept: The Pinocchio State
@@ -59,6 +63,12 @@ The source presents a four-stage progression (structure inferred from his statem
 As presented in this single source, the "Pinocchio State" is Michael Yon's metaphor for a political entity deliberately created by a more powerful external sponsor to serve a specific strategic purpose. The metaphor draws on the children's story in which a carved puppet comes to life and immediately turns on its maker, and Yon uses it to describe a lifecycle in which a created state can remain a useful instrument, grow beyond its creator's original control, and ultimately be deliberately dismantled once judged to have outlived its usefulness. Yon presents this as a common and unremarkable feature of statecraft — though the source itself does not supply named documentary evidence for the specific causal claims.
 
 **Related:** [Grand Strategy]({{ site.baseurl }}{% link knowledge/concepts/grand-strategy.md %}) · [Human Osmotic Pressure]({{ site.baseurl }}{% link knowledge/concepts/osmotic-pressure.md %}) · [Michael Yon: Suez, "Pinocchio," and Grand Strategy]({{ site.baseurl }}{% link knowledge/reports/michael-yon/2026-04-19-suez-pinnocio.md %})
+
+---
+
+## Articles
+
+- [The Gap and the Corridor]({{ site.baseurl }}{% link articles/published/2026-08-01-the-gap-and-the-corridor.md %})
 
 ---
 

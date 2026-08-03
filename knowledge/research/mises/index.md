@@ -7,8 +7,8 @@ title: "Knowledge / Research / Mises"
 
 Browse Mises research notes.
 
-- [Home]({% link index.md %})
-- [Back to Research]({% link knowledge/research/index.md %})
+- [Home]({{ site.baseurl }}{% link index.md %})
+- [Back to Research]({{ site.baseurl }}{% link knowledge/research/index.md %})
 
-- [Economic Calculation]({% link knowledge/research/mises/economic-calculation.md %})
-- [Praxeology]({% link knowledge/research/mises/praxeology.md %})
+- [Economic Calculation]({{ site.baseurl }}{% link knowledge/research/mises/economic-calculation.md %})
+- [Praxeology]({{ site.baseurl }}{% link knowledge/research/mises/praxeology.md %})

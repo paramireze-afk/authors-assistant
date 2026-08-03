@@ -17,6 +17,10 @@ An investigative article on the Darién Gap as both a brutal jungle crossing and
 
 *[→ Read the article]({{ site.baseurl }}{% link articles/published/2026-08-01-the-gap-and-the-corridor.md %})*
 
+### Recent Research
+
+- [The Long Migration: Gold, China, and the Slow Unwinding of the Dollar System]({{ site.baseurl }}{% link knowledge/research/chris-martenson/2026-08-03-gold-discussion.md %})
+
 ---
 
 ## Featured Concept: The Pinocchio State

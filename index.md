@@ -22,7 +22,9 @@ A local-first, Markdown-first writing and knowledge workspace.
 
 - [Books]({{ site.baseurl }}{% link knowledge/books/index.md %})
 - [Syntheses]({{ site.baseurl }}{% link knowledge/syntheses/index.md %})
-- [Concepts]({{ site.baseurl }}{% link knowledge/concepts/pinocchio-state.md %})
+- [Concepts]({{ site.baseurl }}{% link knowledge/concepts/index.md %})
+- [Events]({{ site.baseurl }}{% link knowledge/events/index.md %})
+- [Reports]({{ site.baseurl }}{% link knowledge/reports/index.md %})
 
 ### Research
 

@@ -12,6 +12,6 @@ Browse events and timelines.
 {% assign event_pages = site.pages | where_exp: "p", "p.path contains 'knowledge/events/'" | where_exp: "p", "p.path contains '.md'" | sort: "path" | reverse %}
 {% for page in event_pages %}
 {% unless page.path contains '/index.md' %}
-- [{{ page.title | default: page.name }}]({{ site.baseurl }}{{ page.url }})
+- [{{ page.title | default: page.name }}]({{ page.url | relative_url }})
 {% endunless %}
 {% endfor %}

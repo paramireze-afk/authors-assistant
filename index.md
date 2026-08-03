@@ -47,7 +47,7 @@ A local-first, Markdown-first writing and knowledge workspace.
 {% assign published_pages = site.pages | where_exp: "p", "p.path contains 'articles/published/'" | where_exp: "p", "p.path contains '.md'" | sort: "path" | reverse %}
 {% for page in published_pages limit: 8 %}
 {% unless page.path contains '/index.md' %}
-- [{{ page.title | default: page.name }}]({{ page.url | relative_url }})
+- [{{ page.title | default: page.name }}]({{ page.url | prepend: site.baseurl }})
 {% endunless %}
 {% endfor %}
 
@@ -56,7 +56,7 @@ A local-first, Markdown-first writing and knowledge workspace.
 {% assign ideas_pages = site.pages | where_exp: "p", "p.path contains 'articles/ideas/'" | where_exp: "p", "p.path contains '.md'" | sort: "path" | reverse %}
 {% for page in ideas_pages limit: 6 %}
 {% unless page.path contains '/index.md' %}
-- [{{ page.title | default: page.name }}]({{ page.url | relative_url }})
+- [{{ page.title | default: page.name }}]({{ page.url | prepend: site.baseurl }})
 {% endunless %}
 {% endfor %}
 
@@ -65,7 +65,7 @@ A local-first, Markdown-first writing and knowledge workspace.
 {% assign research_pages = site.pages | where_exp: "p", "p.path contains 'knowledge/research/'" | where_exp: "p", "p.path contains '.md'" | sort: "path" | reverse %}
 {% for page in research_pages limit: 12 %}
 {% unless page.path contains '/index.md' %}
-- [{{ page.title | default: page.name }}]({{ page.url | relative_url }})
+- [{{ page.title | default: page.name }}]({{ page.url | prepend: site.baseurl }})
 {% endunless %}
 {% endfor %}
 
@@ -74,7 +74,7 @@ A local-first, Markdown-first writing and knowledge workspace.
 {% assign synth_pages = site.pages | where_exp: "p", "p.path contains 'knowledge/syntheses/'" | where_exp: "p", "p.path contains '.md'" | sort: "path" | reverse %}
 {% for page in synth_pages limit: 8 %}
 {% unless page.path contains '/index.md' %}
-- [{{ page.title | default: page.name }}]({{ page.url | relative_url }})
+- [{{ page.title | default: page.name }}]({{ page.url | prepend: site.baseurl }})
 {% endunless %}
 {% endfor %}
 
@@ -83,7 +83,7 @@ A local-first, Markdown-first writing and knowledge workspace.
 {% assign concept_pages = site.pages | where_exp: "p", "p.path contains 'knowledge/concepts/'" | where_exp: "p", "p.path contains '.md'" | sort: "path" | reverse %}
 {% for page in concept_pages limit: 10 %}
 {% unless page.path contains '/index.md' %}
-- [{{ page.title | default: page.name }}]({{ page.url | relative_url }})
+- [{{ page.title | default: page.name }}]({{ page.url | prepend: site.baseurl }})
 {% endunless %}
 {% endfor %}
 
@@ -92,7 +92,7 @@ A local-first, Markdown-first writing and knowledge workspace.
 {% assign event_pages = site.pages | where_exp: "p", "p.path contains 'knowledge/events/'" | where_exp: "p", "p.path contains '.md'" | sort: "path" | reverse %}
 {% for page in event_pages limit: 8 %}
 {% unless page.path contains '/index.md' %}
-- [{{ page.title | default: page.name }}]({{ page.url | relative_url }})
+- [{{ page.title | default: page.name }}]({{ page.url | prepend: site.baseurl }})
 {% endunless %}
 {% endfor %}
 
@@ -101,6 +101,6 @@ A local-first, Markdown-first writing and knowledge workspace.
 {% assign report_pages = site.pages | where_exp: "p", "p.path contains 'knowledge/reports/'" | where_exp: "p", "p.path contains '.md'" | sort: "path" | reverse %}
 {% for page in report_pages limit: 10 %}
 {% unless page.path contains '/index.md' %}
-- [{{ page.title | default: page.name }}]({{ page.url | relative_url }})
+- [{{ page.title | default: page.name }}]({{ page.url | prepend: site.baseurl }})
 {% endunless %}
 {% endfor %}

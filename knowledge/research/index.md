@@ -23,6 +23,6 @@ Browse research notes, sorted newest to oldest by filename.
 {% assign research_pages = site.pages | where_exp: "p", "p.path contains 'knowledge/research/'" | where_exp: "p", "p.path contains '.md'" | sort: "path" | reverse %}
 {% for page in research_pages %}
 {% unless page.path contains '/index.md' %}
-- [{{ page.title | default: page.name }}]({{ page.url | relative_url }})
+- [{{ page.title | default: page.name }}]({{ page.url | prepend: site.baseurl }})
 {% endunless %}
 {% endfor %}

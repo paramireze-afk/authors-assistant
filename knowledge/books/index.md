@@ -12,6 +12,6 @@ Browse books and book-related notes.
 {% assign book_pages = site.pages | where_exp: "p", "p.path contains 'knowledge/books/'" | sort: "path" %}
 {% for page in book_pages %}
 {% unless page.path contains '/index.md' %}
-- [{{ page.title | default: page.name }}]({{ page.url | relative_url }})
+- [{{ page.title | default: page.name }}]({{ page.url | prepend: site.baseurl }})
 {% endunless %}
 {% endfor %}

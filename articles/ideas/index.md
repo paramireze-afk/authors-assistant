@@ -12,6 +12,6 @@ Browse working ideas and drafts, sorted newest to oldest by filename.
 {% assign ideas_pages = site.pages | where_exp: "p", "p.path contains 'articles/ideas/'" | where_exp: "p", "p.path contains '.md'" | sort: "path" | reverse %}
 {% for page in ideas_pages %}
 {% unless page.path contains '/index.md' %}
-- [{{ page.title | default: page.name }}]({{ page.url | relative_url }})
+- [{{ page.title | default: page.name }}]({{ page.url | prepend: site.baseurl }})
 {% endunless %}
 {% endfor %}

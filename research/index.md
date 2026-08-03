@@ -15,6 +15,6 @@ This page auto-populates links for all notes under `knowledge/research`.
 
 {% for page in research_pages %}
 {% unless page.path contains '/index.md' %}
-- [{{ page.title | default: page.name }}]({{ page.url | relative_url }})
+- [{{ page.title | default: page.name }}]({{ page.url | prepend: site.baseurl }})
 {% endunless %}
 {% endfor %}

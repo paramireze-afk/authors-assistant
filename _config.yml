@@ -36,6 +36,11 @@ enable_copy_code_button: true
 
 footer_content: "A personal, local-first, Markdown-first knowledge base. Built with Jekyll + Just the Docs."
 
+release:
+  date: "2026-08-03"
+  version: "96089f8"
+  notes: "Navigation and metadata footer update"
+
 aux_links:
   "View on GitHub":
     - "https://github.com/paramireze-afk/authors-assistant"

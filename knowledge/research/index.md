@@ -9,6 +9,16 @@ Browse research notes, sorted from most recently created to oldest.
 
 - [Home]({% link index.md %})
 
+### Browse by area
+
+- [Bret Weinstein]({% link knowledge/research/bret-weinstein/index.md %})
+- [Chris Martenson]({% link knowledge/research/chris-martenson/index.md %})
+- [Jiang Xueqin]({% link knowledge/research/jiang-xueqin/index.md %})
+- [Macroeconomics]({% link knowledge/research/macroeconomics/index.md %})
+- [Michael Yon]({% link knowledge/research/michael-yon/index.md %})
+- [Mises]({% link knowledge/research/mises/index.md %})
+- [Salatin]({% link knowledge/research/salatin/index.md %})
+
 - [Bret Weinstein: 2026-08-01 Darién Gap Migration and China Hypothesis]({% link knowledge/research/bret-weinstein/2026-08-01-darien-gap-migration-and-china-hypothesis.md %})
 - [Chris Martenson: 2026-08-03 Gold Discussion]({% link knowledge/research/chris-martenson/2026-08-03-gold-discussion.md %})
 - [Michael Yon: 2026-07-31 Morocco, Ceuta, and Resource Geography]({% link knowledge/research/michael-yon/2026-07-31-morocco-ceuta-and-resource-geography.md %})

@@ -5,9 +5,13 @@ title: "Articles / Ideas"
 
 # Articles / Ideas
 
-Browse working ideas and drafts in the ideas collection.
+Browse working ideas and drafts, sorted newest to oldest by filename.
 
 - [Home]({% link index.md %})
 
-- [2026-07-29 Brainstorm Notes]({% link articles/ideas/2026-07-29-brainstorm-notes.md %})
-- [Downsides of Covid Lockdowns]({% link articles/ideas/downsides-of-covid-lockdowns.md %})
+{% assign ideas_pages = site.pages | where_exp: "p", "p.path contains 'articles/ideas/' and p.path contains '.md'" | sort: "path" | reverse %}
+{% for page in ideas_pages %}
+{% unless page.path contains '/index.md' %}
+- [{{ page.title | default: page.name }}]({{ site.baseurl }}{{ page.url }})
+{% endunless %}
+{% endfor %}

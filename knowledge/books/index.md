@@ -5,14 +5,13 @@ title: "Knowledge / Books"
 
 # Knowledge / Books
 
-Browse books and book-related notes in the knowledge base.
+Browse books and book-related notes.
 
 - [Home]({% link index.md %})
 
-- [Fools Errand]({% link knowledge/books/fools-errand.md %})
-- [Funding the Enemy]({% link knowledge/books/funding-the-enemy.md %})
-- [Ghost Wars]({% link knowledge/books/ghost-wars.md %})
-- [The Culture of Narcissism]({% link knowledge/books/the-culture-of-narcissism.md %})
-- [The Real Anthony Fauci]({% link knowledge/books/the-real-anthony-fauci.md %})
-- [Usury: A Scriptural Ethic and Economic]({% link knowledge/books/usury-a-scriptual-ethic-and-economic.md %})
-- [Woke Inc]({% link knowledge/books/woke-inc.md %})
+{% assign book_pages = site.pages | where_exp: "p", "p.path contains 'knowledge/books/' and p.path contains '.md'" | sort: "path" %}
+{% for page in book_pages %}
+{% unless page.path contains '/index.md' %}
+- [{{ page.title | default: page.name }}]({{ site.baseurl }}{{ page.url }})
+{% endunless %}
+{% endfor %}

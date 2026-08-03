@@ -1,0 +1,17 @@
+---
+layout: default
+title: "Articles / Published"
+---
+
+# Articles / Published
+
+Browse published articles, sorted newest to oldest by filename.
+
+- [Home]({% link index.md %})
+
+{% assign published_pages = site.pages | where_exp: "p", "p.path contains 'articles/published/' and p.path contains '.md'" | sort: "path" | reverse %}
+{% for page in published_pages %}
+{% unless page.path contains '/index.md' %}
+- [{{ page.title | default: page.name }}]({{ site.baseurl }}{{ page.url }})
+{% endunless %}
+{% endfor %}

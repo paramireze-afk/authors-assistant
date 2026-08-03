@@ -44,7 +44,7 @@ A local-first, Markdown-first writing and knowledge workspace.
 
 ### Recent Published Articles
 
-{% assign published_pages = site.pages | where_exp: "p", "p.path contains 'articles/published/' and p.path contains '.md'" | sort: "path" | reverse %}
+{% assign published_pages = site.pages | where_exp: "p", "p.path contains 'articles/published/'" | where_exp: "p", "p.path contains '.md'" | sort: "path" | reverse %}
 {% for page in published_pages limit: 8 %}
 {% unless page.path contains '/index.md' %}
 - [{{ page.title | default: page.name }}]({{ site.baseurl }}{{ page.url }})
@@ -53,7 +53,7 @@ A local-first, Markdown-first writing and knowledge workspace.
 
 ### Recent Ideas / Drafts
 
-{% assign ideas_pages = site.pages | where_exp: "p", "p.path contains 'articles/ideas/' and p.path contains '.md'" | sort: "path" | reverse %}
+{% assign ideas_pages = site.pages | where_exp: "p", "p.path contains 'articles/ideas/'" | where_exp: "p", "p.path contains '.md'" | sort: "path" | reverse %}
 {% for page in ideas_pages limit: 6 %}
 {% unless page.path contains '/index.md' %}
 - [{{ page.title | default: page.name }}]({{ site.baseurl }}{{ page.url }})
@@ -62,7 +62,7 @@ A local-first, Markdown-first writing and knowledge workspace.
 
 ### Recent Research Notes
 
-{% assign research_pages = site.pages | where_exp: "p", "p.path contains 'knowledge/research/' and p.path contains '.md'" | sort: "path" | reverse %}
+{% assign research_pages = site.pages | where_exp: "p", "p.path contains 'knowledge/research/'" | where_exp: "p", "p.path contains '.md'" | sort: "path" | reverse %}
 {% for page in research_pages limit: 12 %}
 {% unless page.path contains '/index.md' %}
 - [{{ page.title | default: page.name }}]({{ site.baseurl }}{{ page.url }})
@@ -71,7 +71,7 @@ A local-first, Markdown-first writing and knowledge workspace.
 
 ### Recent Syntheses
 
-{% assign synth_pages = site.pages | where_exp: "p", "p.path contains 'knowledge/syntheses/' and p.path contains '.md'" | sort: "path" | reverse %}
+{% assign synth_pages = site.pages | where_exp: "p", "p.path contains 'knowledge/syntheses/'" | where_exp: "p", "p.path contains '.md'" | sort: "path" | reverse %}
 {% for page in synth_pages limit: 8 %}
 {% unless page.path contains '/index.md' %}
 - [{{ page.title | default: page.name }}]({{ site.baseurl }}{{ page.url }})
@@ -80,7 +80,7 @@ A local-first, Markdown-first writing and knowledge workspace.
 
 ### Recent Concepts
 
-{% assign concept_pages = site.pages | where_exp: "p", "p.path contains 'knowledge/concepts/' and p.path contains '.md'" | sort: "path" | reverse %}
+{% assign concept_pages = site.pages | where_exp: "p", "p.path contains 'knowledge/concepts/'" | where_exp: "p", "p.path contains '.md'" | sort: "path" | reverse %}
 {% for page in concept_pages limit: 10 %}
 {% unless page.path contains '/index.md' %}
 - [{{ page.title | default: page.name }}]({{ site.baseurl }}{{ page.url }})
@@ -89,7 +89,7 @@ A local-first, Markdown-first writing and knowledge workspace.
 
 ### Recent Events
 
-{% assign event_pages = site.pages | where_exp: "p", "p.path contains 'knowledge/events/' and p.path contains '.md'" | sort: "path" | reverse %}
+{% assign event_pages = site.pages | where_exp: "p", "p.path contains 'knowledge/events/'" | where_exp: "p", "p.path contains '.md'" | sort: "path" | reverse %}
 {% for page in event_pages limit: 8 %}
 {% unless page.path contains '/index.md' %}
 - [{{ page.title | default: page.name }}]({{ site.baseurl }}{{ page.url }})
@@ -98,7 +98,7 @@ A local-first, Markdown-first writing and knowledge workspace.
 
 ### Recent Reports
 
-{% assign report_pages = site.pages | where_exp: "p", "p.path contains 'knowledge/reports/' and p.path contains '.md'" | sort: "path" | reverse %}
+{% assign report_pages = site.pages | where_exp: "p", "p.path contains 'knowledge/reports/'" | where_exp: "p", "p.path contains '.md'" | sort: "path" | reverse %}
 {% for page in report_pages limit: 10 %}
 {% unless page.path contains '/index.md' %}
 - [{{ page.title | default: page.name }}]({{ site.baseurl }}{{ page.url }})

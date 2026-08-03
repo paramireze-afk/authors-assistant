@@ -19,7 +19,7 @@ Browse research notes, sorted newest to oldest by filename.
 - [Mises]({% link knowledge/research/mises/index.md %})
 - [Salatin]({% link knowledge/research/salatin/index.md %})
 
-{% assign research_pages = site.pages | where_exp: "p", "p.path contains 'knowledge/research/' and p.path contains '.md'" | sort: "path" | reverse %}
+{% assign research_pages = site.pages | where_exp: "p", "p.path contains 'knowledge/research/'" | where_exp: "p", "p.path contains '.md'" | sort: "path" | reverse %}
 {% for page in research_pages %}
 {% unless page.path contains '/index.md' %}
 - [{{ page.title | default: page.name }}]({{ site.baseurl }}{{ page.url }})

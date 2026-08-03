@@ -5,13 +5,66 @@ title: Author's Assistant
 
 # Author's Assistant
 
-A local-first, Markdown-first writing and knowledge workspace.
+A local-first, Markdown-first research and writing workspace.
 
 [View Repository on GitHub](https://github.com/paramireze-afk/authors-assistant)
 
 ---
 
-## Navigation
+## What This Site Is
+
+This site is a working knowledge base for research, synthesis, and long-form writing.
+
+It combines:
+
+- research notes and transcript-based analysis,
+- concept and event pages that turn recurring ideas into reusable references,
+- published essays and draft ideas,
+- a Markdown-first workflow designed to stay readable and durable.
+
+If this is your first visit, the easiest way to explore is to start with a few curated paths below.
+
+## Start Here
+
+### Read a Published Piece
+
+- [Published Articles]({{ site.baseurl }}{% link articles/published/index.md %})
+
+### Browse the Research Archive
+
+- [Research Landing Page]({{ site.baseurl }}{% link research/index.md %})
+- [Research Index]({{ site.baseurl }}{% link knowledge/research/index.md %})
+
+### Explore the Knowledge Base
+
+- [Concepts]({{ site.baseurl }}{% link knowledge/concepts/index.md %})
+- [Events]({{ site.baseurl }}{% link knowledge/events/index.md %})
+- [Reports]({{ site.baseurl }}{% link knowledge/reports/index.md %})
+- [Syntheses]({{ site.baseurl }}{% link knowledge/syntheses/index.md %})
+- [Books]({{ site.baseurl }}{% link knowledge/books/index.md %})
+
+---
+
+## Featured Entry Points
+
+### If You Want Narrative Writing
+
+- Start with [Published Articles]({{ site.baseurl }}{% link articles/published/index.md %}) for finished essays.
+- Visit [Ideas / Drafts]({{ site.baseurl }}{% link articles/ideas/index.md %}) for works in progress and early concepts.
+
+### If You Want Source-Driven Research
+
+- Use [Research]({{ site.baseurl }}{% link research/index.md %}) to scan notes by date.
+- Dive into focused sub-areas like [Michael Yon]({{ site.baseurl }}{% link knowledge/research/michael-yon/index.md %}), [Chris Martenson]({{ site.baseurl }}{% link knowledge/research/chris-martenson/index.md %}), or [Yaakov Shapiro]({{ site.baseurl }}{% link knowledge/research/yaakov-shapiro/index.md %}).
+
+### If You Want Big-Picture Interpretation
+
+- Browse [Concepts]({{ site.baseurl }}{% link knowledge/concepts/index.md %}) for recurring frameworks.
+- Browse [Syntheses]({{ site.baseurl }}{% link knowledge/syntheses/index.md %}) for cross-cutting summaries.
+
+---
+
+## Browse by Area
 
 ### Articles
 
@@ -37,15 +90,36 @@ A local-first, Markdown-first writing and knowledge workspace.
 - [Michael Yon]({{ site.baseurl }}{% link knowledge/research/michael-yon/index.md %})
 - [Mises]({{ site.baseurl }}{% link knowledge/research/mises/index.md %})
 - [Salatin]({{ site.baseurl }}{% link knowledge/research/salatin/index.md %})
+- [Yaakov Shapiro]({{ site.baseurl }}{% link knowledge/research/yaakov-shapiro/index.md %})
 
 ---
 
-## Recent by Category
+## Recently Added
+
+These sections update automatically from the repository so a returning visitor can quickly see what changed.
+
+### Recent Research Notes
+
+{% assign research_pages = site.pages | where_exp: "p", "p.path contains 'knowledge/research/'" | where_exp: "p", "p.path contains '.md'" | sort: "path" | reverse %}
+{% for page in research_pages limit: 8 %}
+{% unless page.path contains '/index.md' %}
+- [{{ page.title | default: page.name }}]({{ page.url | prepend: site.baseurl }})
+{% endunless %}
+{% endfor %}
 
 ### Recent Published Articles
 
 {% assign published_pages = site.pages | where_exp: "p", "p.path contains 'articles/published/'" | where_exp: "p", "p.path contains '.md'" | sort: "path" | reverse %}
 {% for page in published_pages limit: 8 %}
+{% unless page.path contains '/index.md' %}
+- [{{ page.title | default: page.name }}]({{ page.url | prepend: site.baseurl }})
+{% endunless %}
+{% endfor %}
+
+### Recent Concepts
+
+{% assign concept_pages = site.pages | where_exp: "p", "p.path contains 'knowledge/concepts/'" | where_exp: "p", "p.path contains '.md'" | sort: "path" | reverse %}
+{% for page in concept_pages limit: 6 %}
 {% unless page.path contains '/index.md' %}
 - [{{ page.title | default: page.name }}]({{ page.url | prepend: site.baseurl }})
 {% endunless %}
@@ -60,28 +134,10 @@ A local-first, Markdown-first writing and knowledge workspace.
 {% endunless %}
 {% endfor %}
 
-### Recent Research Notes
-
-{% assign research_pages = site.pages | where_exp: "p", "p.path contains 'knowledge/research/'" | where_exp: "p", "p.path contains '.md'" | sort: "path" | reverse %}
-{% for page in research_pages limit: 12 %}
-{% unless page.path contains '/index.md' %}
-- [{{ page.title | default: page.name }}]({{ page.url | prepend: site.baseurl }})
-{% endunless %}
-{% endfor %}
-
 ### Recent Syntheses
 
 {% assign synth_pages = site.pages | where_exp: "p", "p.path contains 'knowledge/syntheses/'" | where_exp: "p", "p.path contains '.md'" | sort: "path" | reverse %}
 {% for page in synth_pages limit: 8 %}
-{% unless page.path contains '/index.md' %}
-- [{{ page.title | default: page.name }}]({{ page.url | prepend: site.baseurl }})
-{% endunless %}
-{% endfor %}
-
-### Recent Concepts
-
-{% assign concept_pages = site.pages | where_exp: "p", "p.path contains 'knowledge/concepts/'" | where_exp: "p", "p.path contains '.md'" | sort: "path" | reverse %}
-{% for page in concept_pages limit: 10 %}
 {% unless page.path contains '/index.md' %}
 - [{{ page.title | default: page.name }}]({{ page.url | prepend: site.baseurl }})
 {% endunless %}

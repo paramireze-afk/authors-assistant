@@ -70,6 +70,13 @@ As presented in this single source, the "Pinocchio State" is Michael Yon's metap
 
 - [The Gap and the Corridor]({{ site.baseurl }}{% link articles/published/2026-08-01-the-gap-and-the-corridor.md %})
 
+### Browse by Area
+
+- [Ideas / Drafts]({{ site.baseurl }}{% link articles/ideas/index.md %})
+- [Books]({{ site.baseurl }}{% link knowledge/books/index.md %})
+- [Research]({{ site.baseurl }}{% link knowledge/research/index.md %})
+- [Syntheses]({{ site.baseurl }}{% link knowledge/syntheses/index.md %})
+
 ---
 
 ## Knowledge Base

@@ -78,7 +78,7 @@ As presented in this single source, the "Pinocchio State" is Michael Yon's metap
 
 - [Ideas / Drafts]({{ site.baseurl }}{% link articles/ideas/index.md %})
 - [Books]({{ site.baseurl }}{% link knowledge/books/index.md %})
-- [Research]({{ site.baseurl }}{% link knowledge/research/index.md %})
+- [Research]({{ site.baseurl }}{% link research/index.md %})
 - [Syntheses]({{ site.baseurl }}{% link knowledge/syntheses/index.md %})
 
 ---

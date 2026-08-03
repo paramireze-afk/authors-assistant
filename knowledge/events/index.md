@@ -7,7 +7,7 @@ title: "Knowledge / Events"
 
 Browse events and timelines.
 
-- [Home]({% link index.md %})
+- [Home]({{ site.baseurl }}{% link index.md %})
 
 {% assign event_pages = site.pages | where_exp: "p", "p.path contains 'knowledge/events/'" | where_exp: "p", "p.path contains '.md'" | sort: "path" | reverse %}
 {% for page in event_pages %}

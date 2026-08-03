@@ -8,8 +8,8 @@ permalink: /research/
 
 This page auto-populates links for all notes under `knowledge/research`.
 
-- [Home]({% link index.md %})
-- [Research Index]({% link knowledge/research/index.md %})
+- [Home]({{ site.baseurl }}{% link index.md %})
+- [Research Index]({{ site.baseurl }}{% link knowledge/research/index.md %})
 
 {% assign research_pages = site.pages | where_exp: "p", "p.path contains 'knowledge/research/'" | where_exp: "p", "p.path contains '.md'" | sort: "path" | reverse %}
 

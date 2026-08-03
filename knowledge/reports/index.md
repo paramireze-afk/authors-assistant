@@ -7,7 +7,7 @@ title: "Knowledge / Reports"
 
 Browse reports and report-style research summaries.
 
-- [Home]({% link index.md %})
+- [Home]({{ site.baseurl }}{% link index.md %})
 
 {% assign report_pages = site.pages | where_exp: "p", "p.path contains 'knowledge/reports/'" | where_exp: "p", "p.path contains '.md'" | sort: "path" | reverse %}
 {% for page in report_pages %}

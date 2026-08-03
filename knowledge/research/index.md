@@ -18,6 +18,7 @@ Browse research notes, sorted newest to oldest by filename.
 - [Michael Yon]({% link knowledge/research/michael-yon/index.md %})
 - [Mises]({% link knowledge/research/mises/index.md %})
 - [Salatin]({% link knowledge/research/salatin/index.md %})
+- [Yaakov Shapiro]({% link knowledge/research/yaakov-shapiro/index.md %})
 
 {% assign research_pages = site.pages | where_exp: "p", "p.path contains 'knowledge/research/'" | where_exp: "p", "p.path contains '.md'" | sort: "path" | reverse %}
 {% for page in research_pages %}

@@ -1,0 +1,13 @@
+---
+layout: default
+title: "Knowledge / Research / Yaakov Shapiro"
+---
+
+# Knowledge / Research / Yaakov Shapiro
+
+Browse Yaakov Shapiro research notes.
+
+- [Home]({% link index.md %})
+- [Back to Research]({% link knowledge/research/index.md %})
+
+- [2026-08-03 Israel Is Not Judism]({% link knowledge/research/yaakov-shapiro/2026-08-03-israel-is-not-judism.md %})

@@ -1,32 +1,32 @@
 ---
 type: person
 aliases:
-	- Erika Frantzve
-	- Erika Kirk
+  - Erika Frantzve
+  - Erika Kirk
 organizations:
-	- Turning Point USA
+  - Turning Point USA
 roles:
-	- CEO of Turning Point USA (post-September 2025)
-	- Chairwoman of Turning Point USA (post-September 2025)
+  - CEO of Turning Point USA (post-September 2025)
+  - Chairwoman of Turning Point USA (post-September 2025)
 related_people:
-	- Charlie Kirk
-	- Tyler Bowyer
-	- Andrew Kolvet
-	- JD Vance
-	- Blake Neff
-	- Mitch Snow
+  - Charlie Kirk
+  - Tyler Bowyer
+  - Andrew Kolvet
+  - JD Vance
+  - Blake Neff
+  - Mitch Snow
 related_organizations:
-	- Turning Point USA
-	- Turning Point Action
-	- Turning Point Endowment
-	- America's Turning Point
+  - Turning Point USA
+  - Turning Point Action
+  - Turning Point Endowment
+  - America's Turning Point
 related_events:
-	- Charlie Kirk assassination (September 10, 2025)
-	- Aspen investor retreat
+  - Charlie Kirk assassination (September 10, 2025)
+  - Aspen investor retreat
 related_topics:
-	- CEO appointment audio dispute
-	- N560TW flight timeline
-	- TPUSA Form 990 filing irregularities
+  - CEO appointment audio dispute
+  - N560TW flight timeline
+  - TPUSA Form 990 filing irregularities
 status: draft
 ---
 

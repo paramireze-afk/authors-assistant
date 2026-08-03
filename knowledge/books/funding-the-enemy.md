@@ -1,5 +1,5 @@
 ---
-title: Funding the Enemy: How US Taxpayers Bankrolled the Taliban
+title: "Funding the Enemy: How US Taxpayers Bankrolled the Taliban"
 
 type: book
 status: reference

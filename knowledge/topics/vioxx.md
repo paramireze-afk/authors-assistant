@@ -1,9 +1,21 @@
 ---
 title: Vioxx (Rofecoxib)
-aliases: [Rofecoxib, Retrovir — see AZT, MK-0966]
+aliases:
+  - "Rofecoxib"
+  - "Retrovir — see AZT, MK-0966"
 type: topic-profile
-domains: [pharmaceutical safety, FDA regulatory history, products liability litigation]
-primary-sources: [[Robert F. Kennedy Jr.]], [[David Graham]], [[Eric Topol]], [[Bruce Psaty]], [[Curt Furberg]], [[Garret FitzGerald]], [[Mark Lanier]]
+domains:
+  - "pharmaceutical safety"
+  - "FDA regulatory history"
+  - "products liability litigation"
+primary-sources:
+  - "[[Robert F. Kennedy Jr.]]"
+  - "[[David Graham]]"
+  - "[[Eric Topol]]"
+  - "[[Bruce Psaty]]"
+  - "[[Curt Furberg]]"
+  - "[[Garret FitzGerald]]"
+  - "[[Mark Lanier]]"
 source-policy: "Reconstructed from congressional testimony, FDA and court documents, peer-reviewed journal articles (including editorials and 'Expression of Concern' notices), depositions, and the public statements of the named critics. No mainstream media profiles, fact-checks, or secondary summaries were used to interpret their positions; news reporting is cited only where it is itself the primary documentary record of a court proceeding or document release (e.g., trial coverage, litigation-discovery reporting), consistent with 'investigative journalism' as an explicitly permitted source category for this document."
 status: living-document
 last-updated: 2026-07-29

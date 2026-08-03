@@ -1,5 +1,5 @@
 ---
-title: Fool's Errand: Time to End the War in Afghanistan
+title: "Fool's Errand: Time to End the War in Afghanistan"
 
 type: book
 source_type: book

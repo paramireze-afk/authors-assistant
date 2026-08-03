@@ -1,9 +1,25 @@
 ---
 title: Thimerosal
-aliases: [Thiomersal, Merthiolate, Ethylmercury Preservative]
+aliases:
+  - "Thiomersal"
+  - "Merthiolate"
+  - "Ethylmercury Preservative"
 type: topic-profile
-domains: [vaccine safety, public health history, regulatory history]
-primary-sources: [[Robert F. Kennedy Jr.]], [[Children's Health Defense]], [[SafeMinds]], [[Mark Geier]], [[David Geier]], [[Boyd Haley]], [[David Kirby]], [[Lyn Redwood]], [[Sallie Bernard]], [[Mark Blaxill]]
+domains:
+  - "vaccine safety"
+  - "public health history"
+  - "regulatory history"
+primary-sources:
+  - "[[Robert F. Kennedy Jr.]]"
+  - "[[Children's Health Defense]]"
+  - "[[SafeMinds]]"
+  - "[[Mark Geier]]"
+  - "[[David Geier]]"
+  - "[[Boyd Haley]]"
+  - "[[David Kirby]]"
+  - "[[Lyn Redwood]]"
+  - "[[Sallie Bernard]]"
+  - "[[Mark Blaxill]]"
 source-policy: "Reconstructed from the books, papers, congressional testimony, court filings, FOIA-obtained government documents, and public statements of the named critics. No mainstream media profiles, fact-checks, or secondary summaries were used to interpret their positions; government/court records are used only as primary documentary sources (trial transcripts, agency transcripts, board rulings), consistent with the source list this knowledge base treats as primary."
 status: living-document
 last-updated: 2026-07-29

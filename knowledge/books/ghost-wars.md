@@ -1,5 +1,5 @@
 ---
-title: Ghost Wars: The Secret History of the CIA, Afghanistan, and Bin Laden
+title: "Ghost Wars: The Secret History of the CIA, Afghanistan, and Bin Laden"
 
 type: book
 status: reference

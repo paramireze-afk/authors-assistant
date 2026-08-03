@@ -1,34 +1,34 @@
 ---
 type: person
 aliases:
-	- Lori Frantzve
-	- Lori Abbas
+  - Lori Frantzve
+  - Lori Abbas
 organizations:
-	- American Center for Freedom
-	- Turning Point USA (indirect)
-	- Turning Point Faith (indirect)
+  - American Center for Freedom
+  - Turning Point USA (indirect)
+  - Turning Point Faith (indirect)
 roles:
-	- Co-founder (American Center for Freedom)
+  - Co-founder (American Center for Freedom)
 related_people:
-	- Erika Kirk
-	- Charlie Kirk
-	- Larry Guinta
-	- Erin Scavino
-	- Dan Scavino
-	- Tyler Bowyer
-	- Jaco Booyens
-	- Victor Marx
+  - Erika Kirk
+  - Charlie Kirk
+  - Larry Guinta
+  - Erin Scavino
+  - Dan Scavino
+  - Tyler Bowyer
+  - Jaco Booyens
+  - Victor Marx
 related_organizations:
-	- American Center for Freedom
-	- Turning Point USA
-	- Turning Point Faith
+  - American Center for Freedom
+  - Turning Point USA
+  - Turning Point Faith
 related_events:
-	- 2016 Scottsdale gun patent meeting
-	- Charlie Kirk assassination (September 10, 2025)
+  - 2016 Scottsdale gun patent meeting
+  - Charlie Kirk assassination (September 10, 2025)
 related_topics:
-	- Network mapping
-	- Weapons-adjacent business activity
-	- Nonprofit transparency
+  - Network mapping
+  - Weapons-adjacent business activity
+  - Nonprofit transparency
 status: draft
 ---
 

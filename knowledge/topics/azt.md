@@ -1,9 +1,19 @@
 ---
 title: AZT (Zidovudine)
-aliases: [Zidovudine, Azidothymidine, Retrovir, ZDV]
+aliases:
+  - "Zidovudine"
+  - "Azidothymidine"
+  - "Retrovir"
+  - "ZDV"
 type: topics
-domains: [AIDS crisis, pharmaceutical history, dissident science]
-primary-sources: [[Robert F. Kennedy Jr.]], [[Peter Duesberg]], [[Kary Mullis]]
+domains:
+  - "AIDS crisis"
+  - "pharmaceutical history"
+  - "dissident science"
+primary-sources:
+  - "[[Robert F. Kennedy Jr.]]"
+  - "[[Peter Duesberg]]"
+  - "[[Kary Mullis]]"
 source-policy: "Reconstructed exclusively from the books, papers, testimony, interviews, and documented public statements of the three named figures, and the primary sources they themselves cite (trial reports, journal articles, government transcripts). No mainstream media profiles, fact-checks, or secondary summaries were used to interpret their positions."
 status: living-document
 last-updated: 2026-07-29

@@ -1,5 +1,4 @@
 ---
-
 title: "Transnational Capital: Capital Without a Country"
 subtitle: "Jiang Xueqin's theory of mobile capital, imperial hosts, and power beyond the nation-state"
 type: concept
@@ -8,30 +7,29 @@ created: 2026-08-01
 updated: 2026-08-01
 author_framework: "Jiang Xueqin"
 primary_sources:
-
-* "research/jiang-xueqin/2026-07-01-emergency-podcast.md"
-  aliases:
-* transnational capital
-* trans capital
-* international capital
-  tags:
-* jiang-xueqin
-* capital
-* empire
-* geopolitics
-* finance
-* nation-state
-* institutional-power
-* political-economy
-  related:
-* "Path of Least Resistance"
-* "Migration as Strategic Leverage"
-* "Maritime Choke Points"
-* "Imperial Transition"
-* "Capital and Power"
-* "Pax Britannica"
-* "Pax Americana"
-* "Pax Judaica"
+- "research/jiang-xueqin/2026-07-01-emergency-podcast.md"
+aliases:
+- "transnational capital"
+- "trans capital"
+- "international capital"
+tags:
+- "jiang-xueqin"
+- "capital"
+- "empire"
+- "geopolitics"
+- "finance"
+- "nation-state"
+- "institutional-power"
+- "political-economy"
+related:
+- "Path of Least Resistance"
+- "Migration as Strategic Leverage"
+- "Maritime Choke Points"
+- "Imperial Transition"
+- "Capital and Power"
+- "Pax Britannica"
+- "Pax Americana"
+- "Pax Judaica"
 
 ---
 

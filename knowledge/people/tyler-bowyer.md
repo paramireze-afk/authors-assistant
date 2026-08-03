@@ -1,35 +1,35 @@
 ---
 type: person
 aliases:
-	- Tyler Bowyer
+  - Tyler Bowyer
 organizations:
-	- Turning Point USA
-	- Turning Point Action
-	- America's Turning Point
-	- Turning Point Endowment
+  - Turning Point USA
+  - Turning Point Action
+  - America's Turning Point
+  - Turning Point Endowment
 roles:
-	- COO (Turning Point USA, disputed timeline)
-	- COO (Turning Point Action)
+  - COO (Turning Point USA, disputed timeline)
+  - COO (Turning Point Action)
 related_people:
-	- Charlie Kirk
-	- Erika Kirk
-	- Andrew Kolvet
-	- Jake Hoffman
-	- Crystal Clanton
-	- Austin Smith
-	- Tarrell Farnsworth
+  - Charlie Kirk
+  - Erika Kirk
+  - Andrew Kolvet
+  - Jake Hoffman
+  - Crystal Clanton
+  - Austin Smith
+  - Tarrell Farnsworth
 related_organizations:
-	- Turning Point USA
-	- Turning Point Action
-	- America's Turning Point
-	- Turning Point Endowment
+  - Turning Point USA
+  - Turning Point Action
+  - America's Turning Point
+  - Turning Point Endowment
 related_events:
-	- Charlie Kirk assassination (September 10, 2025)
-	- DOGE-style audit memo (September 2, 2025)
+  - Charlie Kirk assassination (September 10, 2025)
+  - DOGE-style audit memo (September 2, 2025)
 related_topics:
-	- Form 990 filing irregularities
-	- 110 LLC payments
-	- organizational control
+  - Form 990 filing irregularities
+  - 110 LLC payments
+  - organizational control
 status: draft
 ---
 

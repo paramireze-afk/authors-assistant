@@ -73,5 +73,34 @@ A local-first, Markdown-first writing and knowledge workspace.
 
 {% assign synth_pages = site.pages | where_exp: "p", "p.path contains 'knowledge/syntheses/' and p.path contains '.md'" | sort: "path" | reverse %}
 {% for page in synth_pages limit: 8 %}
+{% unless page.path contains '/index.md' %}
 - [{{ page.title | default: page.name }}]({{ site.baseurl }}{{ page.url }})
+{% endunless %}
+{% endfor %}
+
+### Recent Concepts
+
+{% assign concept_pages = site.pages | where_exp: "p", "p.path contains 'knowledge/concepts/' and p.path contains '.md'" | sort: "path" | reverse %}
+{% for page in concept_pages limit: 10 %}
+{% unless page.path contains '/index.md' %}
+- [{{ page.title | default: page.name }}]({{ site.baseurl }}{{ page.url }})
+{% endunless %}
+{% endfor %}
+
+### Recent Events
+
+{% assign event_pages = site.pages | where_exp: "p", "p.path contains 'knowledge/events/' and p.path contains '.md'" | sort: "path" | reverse %}
+{% for page in event_pages limit: 8 %}
+{% unless page.path contains '/index.md' %}
+- [{{ page.title | default: page.name }}]({{ site.baseurl }}{{ page.url }})
+{% endunless %}
+{% endfor %}
+
+### Recent Reports
+
+{% assign report_pages = site.pages | where_exp: "p", "p.path contains 'knowledge/reports/' and p.path contains '.md'" | sort: "path" | reverse %}
+{% for page in report_pages limit: 10 %}
+{% unless page.path contains '/index.md' %}
+- [{{ page.title | default: page.name }}]({{ site.baseurl }}{{ page.url }})
+{% endunless %}
 {% endfor %}

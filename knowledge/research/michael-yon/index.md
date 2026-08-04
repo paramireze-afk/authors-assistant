@@ -8,6 +8,7 @@ title: "Knowledge / Research / Michael Yon"
 Browse Michael Yon research notes.
 
 - [Home]({{ site.baseurl }}{% link index.md %})
+- [Back to Home]({{ site.baseurl }}{% link index.md %})
 - [Back to Research]({{ site.baseurl }}{% link knowledge/research/index.md %})
 
 - [2026-08-02 War Churches]({{ site.baseurl }}{% link knowledge/research/michael-yon/2026-08-02-war-churches.md %})

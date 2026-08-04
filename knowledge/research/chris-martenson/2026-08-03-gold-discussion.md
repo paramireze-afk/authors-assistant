@@ -2,6 +2,9 @@
 title: "The Long Migration: Gold, China, and the Slow Unwinding of the Dollar System"
 subtitle: "Chris Martenson and Dave Russell trace a chain of reasoning from central-bank gold buying to a possible monetary reset"
 type: transcript-report
+status: reference
+created: 2026-08-03
+updated: 2026-08-03
 source_type: video-transcript (two-person financial discussion)
 speakers:
   - Chris Martenson

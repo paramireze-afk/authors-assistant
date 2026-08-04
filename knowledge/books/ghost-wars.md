@@ -3,6 +3,8 @@ title: "Ghost Wars: The Secret History of the CIA, Afghanistan, and Bin Laden"
 
 type: book
 status: reference
+created: 2026-08-03
+updated: 2026-08-03
 
 author: Steve Coll
 

@@ -1,3 +1,12 @@
+---
+title: "The Last of His Species: Rabbi Yaakov Shapiro on the Satmar Rebbe"
+type: research-note
+status: reference
+created: 2026-08-03
+updated: 2026-08-03
+author: Yaakov Shapiro
+---
+
 # "The Last of His Species": Rabbi Yaakov Shapiro on the Satmar Rebbe
 
 ## Introduction

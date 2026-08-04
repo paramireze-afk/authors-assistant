@@ -2,6 +2,9 @@
 title: "Price Setting, Not Price Discovery: Chris Martenson on Oil, Diesel, and the Stagflation Trap"
 subtitle: "How a managed oil market, a shrinking policy toolkit, and an AI-driven hiring freeze may be converging on the same outcome"
 type: transcript-report
+status: reference
+created: 2026-08-03
+updated: 2026-08-03
 source_type: "video-transcript (interview, promotional context: Limitless Expo)"
 speakers:
   - Chris Martenson

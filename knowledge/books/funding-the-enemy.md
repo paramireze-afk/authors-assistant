@@ -3,6 +3,8 @@ title: "Funding the Enemy: How US Taxpayers Bankrolled the Taliban"
 
 type: book
 status: reference
+created: 2026-08-03
+updated: 2026-08-03
 
 author: Douglas A. Wissing
 

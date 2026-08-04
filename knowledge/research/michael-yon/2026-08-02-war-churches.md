@@ -7,6 +7,8 @@ speaker: Michael Yon, combat correspondent, former U.S. Army Special Forces
 locations_referenced: [Afghanistan, Iraq, Kandahar, Japan, Vietnam, Israel, Gaza, Lebanon, Ukraine, Armenia, Iran]
 themes: [combat-memory, conscription, propaganda, church-and-state, geopolitics, digital-currency, collective-resistance, process-war]
 status: draft-notes
+created: 2026-08-02
+updated: 2026-08-03
 evidence_types: [firsthand-testimony, personal-recollection, political-interpretation, prediction, speculation]
 date_logged: 2026-08-03
 ---

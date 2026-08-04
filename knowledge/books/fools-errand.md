@@ -4,6 +4,8 @@ title: "Fool's Errand: Time to End the War in Afghanistan"
 type: book
 source_type: book
 status: reference
+created: 2026-08-03
+updated: 2026-08-03
 
 author: Scott Horton
 publisher: The Libertarian Institute

@@ -16,6 +16,8 @@ themes:
   - zionist-militarism
 status: adaptation
 date_logged: 2026-08-03
+created: 2026-08-03
+updated: 2026-08-03
 ---
 
 # Israel Is Not Judaism

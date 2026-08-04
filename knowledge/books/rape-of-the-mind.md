@@ -32,6 +32,8 @@ evidence_types:
   - reception-and-critique
 status: research
 date_logged: 2026-08-03
+created: 2026-08-03
+updated: 2026-08-03
 ---
 
 # Menticide: The Intellectual Framework of *The Rape of the Mind*

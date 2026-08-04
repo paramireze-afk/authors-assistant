@@ -18,7 +18,7 @@ tags:
   - trade
   - state-power
   - technological-change
-  ---
+---
 
 # The Rock That Ran the World
 

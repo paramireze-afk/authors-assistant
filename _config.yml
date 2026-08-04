@@ -34,6 +34,9 @@ back_to_top_text: "Back to top"
 nav_sort: case_insensitive
 enable_copy_code_button: true
 nav_enabled: false
+nav_external_links:
+  - title: Home
+    url: /authors-assistant/
 
 footer_content: "A personal, local-first, Markdown-first knowledge base. Built with Jekyll + Just the Docs."
 

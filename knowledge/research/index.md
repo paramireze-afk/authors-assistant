@@ -8,6 +8,7 @@ title: "Knowledge / Research"
 Browse research notes, sorted newest to oldest by filename.
 
 - [Home]({{ site.baseurl }}{% link index.md %})
+- [Back to Home]({{ site.baseurl }}{% link index.md %})
 
 ### Browse by area
 

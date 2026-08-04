@@ -8,6 +8,7 @@ title: "Knowledge / Reports"
 Browse reports and report-style research summaries.
 
 - [Home]({{ site.baseurl }}{% link index.md %})
+- [Back to Home]({{ site.baseurl }}{% link index.md %})
 
 {% assign report_pages = site.pages | where_exp: "p", "p.path contains 'knowledge/reports/'" | where_exp: "p", "p.path contains '.md'" | sort: "path" | reverse %}
 {% for page in report_pages %}

@@ -11,6 +11,19 @@ A local-first, Markdown-first research and writing workspace.
 
 ---
 
+## Most Recently Added Articles
+
+Start here for the newest writing activity across published pieces and drafts.
+
+{% assign recent_article_pages = site.pages | where_exp: "p", "p.path contains 'articles/'" | where_exp: "p", "p.path contains '.md'" | sort: "path" | reverse %}
+{% for page in recent_article_pages limit: 10 %}
+{% unless page.path contains '/index.md' %}
+- [{{ page.title | default: page.name }}]({{ page.url | prepend: site.baseurl }})
+{% endunless %}
+{% endfor %}
+
+---
+
 ## What This Site Is
 
 This site is a working knowledge base for research, synthesis, and long-form writing.

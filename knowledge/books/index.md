@@ -8,6 +8,7 @@ title: "Knowledge / Books"
 Browse books and book-related notes.
 
 - [Home]({{ site.baseurl }}{% link index.md %})
+- [Back to Home]({{ site.baseurl }}{% link index.md %})
 
 {% assign book_pages = site.pages | where_exp: "p", "p.path contains 'knowledge/books/'" | sort: "path" %}
 {% for page in book_pages %}

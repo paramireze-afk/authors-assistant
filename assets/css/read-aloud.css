@@ -1,0 +1,203 @@
+/**
+ * Read Aloud Control Bar Styles
+ * 
+ * Provides accessible, responsive styling for the text-to-speech control bar.
+ * No external dependencies; uses standard CSS.
+ */
+
+[data-read-aloud-controls] {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  padding: 1rem;
+  margin: 1.5rem 0;
+  background-color: var(--color-bg-secondary, #f5f5f5);
+  border: 1px solid var(--color-border, #ddd);
+  border-radius: 0.375rem;
+  font-size: 0.9375rem;
+  line-height: 1.5;
+}
+
+/* Dark mode support for just-the-docs */
+html[data-color-mode="dark"] [data-read-aloud-controls],
+html[theme="dark"] [data-read-aloud-controls],
+.site-nav + main [data-read-aloud-controls] {
+  background-color: var(--color-bg-secondary, #2c2c2c);
+  border-color: var(--color-border, #444);
+}
+
+/**
+ * Control bar label
+ */
+[data-read-aloud-label] {
+  display: flex;
+  align-items: center;
+  font-weight: 500;
+  margin-right: 0.5rem;
+  color: var(--color-text, #333);
+}
+
+html[data-color-mode="dark"] [data-read-aloud-label],
+html[theme="dark"] [data-read-aloud-label] {
+  color: var(--color-text, #e0e0e0);
+}
+
+/**
+ * Button Group Container
+ */
+[data-read-aloud-buttons] {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem;
+}
+
+/**
+ * Individual buttons in the control bar
+ */
+[data-read-aloud-controls] button {
+  padding: 0.5rem 0.875rem;
+  min-height: 2.5rem;
+  border: 1px solid var(--color-border, #999);
+  background-color: var(--color-bg, #fff);
+  color: var(--color-text, #333);
+  border-radius: 0.25rem;
+  font-size: 0.9rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.375rem;
+}
+
+html[data-color-mode="dark"] [data-read-aloud-controls] button,
+html[theme="dark"] [data-read-aloud-controls] button {
+  background-color: var(--color-bg, #3a3a3a);
+  border-color: var(--color-border, #666);
+  color: var(--color-text, #e0e0e0);
+}
+
+/**
+ * Button hover state
+ */
+[data-read-aloud-controls] button:hover {
+  background-color: var(--color-bg-hover, #f0f0f0);
+  border-color: var(--color-text, #333);
+}
+
+html[data-color-mode="dark"] [data-read-aloud-controls] button:hover,
+html[theme="dark"] [data-read-aloud-controls] button:hover {
+  background-color: var(--color-bg-hover, #4a4a4a);
+  border-color: var(--color-text, #e0e0e0);
+}
+
+/**
+ * Button active/focus state
+ */
+[data-read-aloud-controls] button:active,
+[data-read-aloud-controls] button:focus {
+  outline: 2px solid var(--color-accent, #0969da);
+  outline-offset: 2px;
+  box-shadow: 0 0 0 3px rgba(9, 105, 218, 0.1);
+}
+
+/**
+ * Disabled button state
+ */
+[data-read-aloud-controls] button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+  background-color: var(--color-bg-disabled, #e8e8e8);
+}
+
+html[data-color-mode="dark"] [data-read-aloud-controls] button:disabled,
+html[theme="dark"] [data-read-aloud-controls] button:disabled {
+  background-color: var(--color-bg-disabled, #494949);
+}
+
+/**
+ * Speed selector dropdown
+ */
+[data-read-aloud-controls] select {
+  padding: 0.5rem 0.5rem;
+  min-height: 2.5rem;
+  border: 1px solid var(--color-border, #999);
+  background-color: var(--color-bg, #fff);
+  color: var(--color-text, #333);
+  border-radius: 0.25rem;
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+html[data-color-mode="dark"] [data-read-aloud-controls] select,
+html[theme="dark"] [data-read-aloud-controls] select {
+  background-color: var(--color-bg, #3a3a3a);
+  border-color: var(--color-border, #666);
+  color: var(--color-text, #e0e0e0);
+}
+
+/**
+ * Select hover and focus
+ */
+[data-read-aloud-controls] select:hover {
+  border-color: var(--color-text, #333);
+}
+
+[data-read-aloud-controls] select:focus {
+  outline: 2px solid var(--color-accent, #0969da);
+  outline-offset: 2px;
+}
+
+html[data-color-mode="dark"] [data-read-aloud-controls] select:hover,
+html[theme="dark"] [data-read-aloud-controls] select:hover {
+  border-color: var(--color-text, #e0e0e0);
+}
+
+/**
+ * Status/Aria-live announcements
+ */
+[data-read-aloud-status] {
+  position: absolute;
+  left: -9999px;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+}
+
+/**
+ * Responsive adjustments for narrow viewports
+ */
+@media (max-width: 640px) {
+  [data-read-aloud-controls] {
+    gap: 0.375rem;
+    padding: 0.75rem;
+  }
+
+  [data-read-aloud-controls] button,
+  [data-read-aloud-controls] select {
+    min-height: 2.25rem;
+    padding: 0.375rem 0.625rem;
+    font-size: 0.875rem;
+  }
+
+  [data-read-aloud-controls] button span {
+    display: none;
+  }
+
+  [data-read-aloud-controls] button[aria-label] {
+    /* Icon-based buttons on mobile; ensure aria-label is accessible */
+    position: relative;
+  }
+}
+
+/**
+ * Print styles: hide controls when printing
+ */
+@media print {
+  [data-read-aloud-controls] {
+    display: none;
+  }
+}

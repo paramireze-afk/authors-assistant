@@ -41,29 +41,27 @@ The Read Aloud feature relies on the browser's native `window.speechSynthesis` A
 ### Files
 
 ```
-_layouts/default.html              # Custom layout with data-readable-content wrapper
 _includes/read-aloud.html          # Read Aloud control bar HTML
+_includes/head_custom.html         # Custom head (loads read-aloud.css)
+_includes/footer_custom.html       # Custom footer (includes controls + JS)
 assets/css/read-aloud.css          # Styling for controls
 assets/js/read-aloud.js            # JavaScript implementation
 ```
 
-### How the Layout Works
+### How It Works
 
-The custom `_layouts/default.html` wraps the main article content with the `data-readable-content` attribute:
+The implementation leverages Just-the-Docs' support for custom `head_custom.html` and `footer_custom.html` includes:
 
-```html
-<main id="main-content" class="page-content" role="main" data-readable-content>
-  {{ content }}
-</main>
-```
+1. **_includes/head_custom.html:** Loads the read-aloud.css stylesheet
+2. **_includes/footer_custom.html:** Includes the read-aloud control bar before the footer content and loads the read-aloud.js script
+3. **assets/js/read-aloud.js:** Automatically finds the main article content using Just-the-Docs' standard selectors
 
-The control bar is included immediately after the main content:
+The JavaScript detects the main content area using this priority:
+1. `[data-readable-content]` — Custom implementations or overrides
+2. `main#main-content` — Just-the-Docs default
+3. `main` — Generic fallback for other themes
 
-```liquid
-{% include read-aloud.html %}
-```
-
-JavaScript and CSS assets are loaded in the page head and footer.
+This approach avoids overriding the theme's default layout entirely, respecting the remote theme and preventing build errors.
 
 ## Usage
 
@@ -91,28 +89,38 @@ Or use `aria-hidden="true"`:
 
 ### For Theme Developers
 
-#### Adding Read Aloud to a Custom Layout
+#### Adding Read Aloud to Just-the-Docs
+
+Just-the-Docs automatically includes custom head and footer content:
+
+1. **_includes/head_custom.html:** Loads the read-aloud.css stylesheet
+2. **_includes/footer_custom.html:** Includes the read-aloud control bar and read-aloud.js script
+
+No custom layout override needed; add these includes and the theme will integrate the feature automatically.
+
+#### Adding Read Aloud to Other Jekyll Themes
 
 To add the Read Aloud feature to a custom layout:
 
-1. **Wrap main content with the data-readable-content attribute:**
+1. **Load CSS in the page head:**
+   ```html
+   <link rel="stylesheet" href="{{ '/assets/css/read-aloud.css' | relative_url }}">
+   ```
+
+2. **Optionally wrap main content with the data-readable-content attribute:**
    ```html
    <main id="main-content" data-readable-content>
      {{ content }}
    </main>
    ```
+   *(Note: If you don't add this attribute, the JavaScript will auto-detect content using standard selectors like `main#main-content` or `main`)*
 
-2. **Include the control bar before the footer:**
+3. **Include the control bar before the footer:**
    ```liquid
    {% include read-aloud.html %}
    ```
 
-3. **Add CSS and JavaScript to the page head:**
-   ```html
-   <link rel="stylesheet" href="{{ '/assets/css/read-aloud.css' | relative_url }}">
-   ```
-
-4. **Add script tag before closing body:**
+4. **Load JavaScript before closing body:**
    ```html
    <script src="{{ '/assets/js/read-aloud.js' | relative_url }}" defer></script>
    ```
@@ -131,16 +139,24 @@ The Read Aloud feature is built with accessibility in mind:
 
 The implementation uses a `ReadAloudFeature` class that:
 
-1. **Extracts content** from the `[data-readable-content]` container
-2. **Filters elements** to include only readable types (headings, paragraphs, blockquotes, list items)
+1. **Detects content** using this priority:
+   - `[data-readable-content]` — Custom implementations
+   - `main#main-content` — Just-the-Docs default
+   - `main` — Generic fallback for other themes
+
+2. **Extracts readable elements** (headings, paragraphs, blockquotes, list items)
+
 3. **Excludes**:
    - Elements inside `<code>`, `<pre>`, `<script>`, `<style>`, `<nav>`
    - Elements with `data-speech-ignore` attribute
    - Elements with `aria-hidden="true"`
    - Empty elements
-4. **Manages queuing** of speech utterances for sequential reading
-5. **Handles errors** defensively (if a voice is unavailable, continues to next block)
-6. **Respects browser lifecycle** (cancels speech on page unload)
+
+4. **Manages speech** via sequential SpeechSynthesisUtterance objects
+
+5. **Handles errors** defensively (continues to next block on error)
+
+6. **Cleans up** on page unload (cancels any ongoing speech)
 
 ### Key Features
 

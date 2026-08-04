@@ -9,7 +9,7 @@
 
 | File | Size | Purpose |
 |------|------|---------|
-| [_layouts/default.html](_layouts/default.html) | 2.2 KB | Custom layout wrapping main content with `data-readable-content` |
+| [_includes/head_custom.html](_includes/head_custom.html) | 0.1 KB | Load read-aloud.css stylesheet |
 | [_includes/read-aloud.html](_includes/read-aloud.html) | 1.4 KB | HTML control bar with buttons and speed selector |
 | [assets/js/read-aloud.js](assets/js/read-aloud.js) | 8.8 KB | JavaScript implementation using Web Speech API |
 | [assets/css/read-aloud.css](assets/css/read-aloud.css) | 4.7 KB | Responsive, accessible styling with dark mode support |
@@ -17,7 +17,7 @@
 
 ### Modified Files
 
-- **None** — The implementation is additive and uses a custom layout that doesn't break existing functionality.
+- **[_includes/footer_custom.html](_includes/footer_custom.html)** — Added read-aloud control bar include and JavaScript loading
 
 ## 🎯 Feature Overview
 
@@ -47,24 +47,29 @@ The Read Aloud feature adds native browser text-to-speech controls to all articl
 
 ### How It Works
 
-1. **Layout Wrapper** (`_layouts/default.html`)
-   - Extends the just-the-docs theme
-   - Wraps main content with `data-readable-content` attribute
-   - Includes read-aloud control bar
-   - Loads CSS and JavaScript assets
+1. **Theme Integration** (`_includes/head_custom.html` + `_includes/footer_custom.html`)
+   - Just-the-Docs automatically loads custom head and footer includes
+   - CSS loaded in head, controls and script loaded in footer
+   - Works with remote theme without any layout overrides
 
-2. **Content Extraction** (`assets/js/read-aloud.js`)
-   - Queries all headings, paragraphs, blockquotes, and list items
+2. **Content Detection** (`assets/js/read-aloud.js`)
+   - Automatically finds main content using theme selectors (priority order):
+     - `[data-readable-content]` (custom implementations)
+     - `main#main-content` (Just-the-Docs default)
+     - `main` (generic fallback)
+
+3. **Element Extraction**
+   - Queries headings, paragraphs, blockquotes, and list items
    - Filters out excluded elements (code, scripts, navigation, hidden content)
-   - Stores as an ordered array of readable blocks
+   - Stores as ordered array of readable blocks
 
-3. **Speech Synthesis** (`assets/js/read-aloud.js`)
+4. **Speech Synthesis** (`assets/js/read-aloud.js`)
    - Creates `SpeechSynthesisUtterance` objects for each block
    - Manages playback, pause, and resume via browser API
    - Handles errors defensively (continues to next block on failure)
    - Applies user-selected speed to each utterance
 
-4. **UI Controls** (`_includes/read-aloud.html` + `assets/css/read-aloud.css`)
+5. **UI Controls** (`_includes/read-aloud.html` + `assets/css/read-aloud.css`)
    - Semantic HTML with `<button>` and `<select>` elements
    - Clear `aria-label` attributes for accessibility
    - Responsive layout (labels hide on mobile, buttons remain functional)
@@ -74,25 +79,23 @@ The Read Aloud feature adds native browser text-to-speech controls to all articl
 ### File Integration
 
 ```
-┌─ Article Page (layout: default) ──────────────────────────┐
-│                                                            │
-│  _layouts/default.html                                    │
-│  ├─ Head: Load read-aloud.css                            │
-│  ├─ Body: Navigation, Breadcrumbs                        │
-│  ├─ <main data-readable-content>                         │
-│  │  └─ {{ content }} (Article markdown)                  │
-│  ├─ {% include read-aloud.html %}                        │
-│  ├─ Footer                                                │
-│  └─ Script: Load read-aloud.js (defer)                   │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
-
-JavaScript Initialization:
-1. DOMContentLoaded → new ReadAloudFeature()
-2. Find [data-readable-content]
-3. Extract readable elements
-4. Wire up button event listeners
-5. Ready for user interaction
+Just-the-Docs Theme (remote)
+    ↓ loads ↓
+_includes/head_custom.html
+    ↓ loads ↓
+assets/css/read-aloud.css
+───────────────────────────
+Page Content (<main>)
+    ↓ detected by ↓
+assets/js/read-aloud.js
+    ↓ finds ↓
+[data-readable-content] | main#main-content | main
+───────────────────────────
+_includes/footer_custom.html
+    ↓ includes ↓
+_includes/read-aloud.html (controls)
+    ↓ loads ↓
+assets/js/read-aloud.js (behavior)
 ```
 
 ## 🌐 Browser Compatibility

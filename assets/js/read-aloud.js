@@ -25,12 +25,23 @@ class ReadAloudFeature {
     this.speed = 1;
     
     // Selectors for the UI and content
-    this.contentContainer = document.querySelector('[data-readable-content]');
+    // Try multiple selectors to support different Jekyll themes
+    this.contentContainer = 
+      document.querySelector('[data-readable-content]') ||  // Custom implementations
+      document.querySelector('main#main-content') ||        // Just-the-Docs
+      document.querySelector('main');                        // Generic fallback
+    
     this.controlBar = document.querySelector('[data-read-aloud-controls]');
     this.statusElement = document.querySelector('[data-read-aloud-status]');
     
-    if (!this.contentContainer || !this.controlBar) {
-      console.warn('ReadAloud: Required elements not found (data-readable-content or data-read-aloud-controls)');
+    if (!this.contentContainer) {
+      console.warn('ReadAloud: Could not find main content area (tried [data-readable-content], main#main-content, main)');
+      this.disableFeature();
+      return;
+    }
+    
+    if (!this.controlBar) {
+      console.warn('ReadAloud: Control bar not found (data-read-aloud-controls)');
       this.disableFeature();
       return;
     }

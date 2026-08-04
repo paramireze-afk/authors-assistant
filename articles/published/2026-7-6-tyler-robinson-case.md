@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Tyler Robinson Case"
+created: 2026-08-03
 ---
 
 Paul Ramirez

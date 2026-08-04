@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "What Really Happened To Jordan Peterson"
+created: 2026-08-03
 ---
 
 What Really Happened to Jordan Peterson?

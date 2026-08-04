@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Hunter Biden And Nick Fuentes"
+created: 2026-08-03
 ---
 
 Hunter Biden and Nick Fuentes

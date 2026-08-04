@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Knowledge / Events"
+created: 2026-08-03
 ---
 
 # Knowledge / Events

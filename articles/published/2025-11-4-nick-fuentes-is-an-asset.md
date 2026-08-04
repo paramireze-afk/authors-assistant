@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Nick Fuentes Is An Asset"
+created: 2026-08-03
 ---
 
 Nick Fluentes was an asset. His cover is blown, he’s re-integrating into society

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Scott Adams"
+created: 2026-08-03
 ---
 
 Scott Adams and the Billion (Trillion?) Dollar Play

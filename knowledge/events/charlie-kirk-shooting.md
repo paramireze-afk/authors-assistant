@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Charlie Kirk"
+created: 2026-08-03
 ---
 
 # Charlie Kirk

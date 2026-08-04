@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Eigth Front War"
+created: 2026-08-03
 ---
 
 Paul Ramirez

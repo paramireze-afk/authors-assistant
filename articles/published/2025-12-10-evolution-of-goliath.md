@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Evolution Of Goliath"
+created: 2026-08-03
 ---
 
 Heresy and the Evolution of Goliath

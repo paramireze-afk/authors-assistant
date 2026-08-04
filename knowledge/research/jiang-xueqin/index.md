@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Knowledge / Research / Jiang Xueqin"
+created: 2026-08-03
 ---
 
 # Knowledge / Research / Jiang Xueqin

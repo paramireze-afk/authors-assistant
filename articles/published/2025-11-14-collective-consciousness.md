@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Collective Consciousness"
+created: 2026-08-03
 ---
 
 Rise of a Collective Consciousness

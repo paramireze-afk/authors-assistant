@@ -6,6 +6,7 @@ tags: [economics, federal-reserve, central-banking, fiat-money, banking-cartel, 
 type: organizations
 status: reference
 related: ["Usury"]
+created: 2026-08-03
 ---
 
 # The Federal Reserve System

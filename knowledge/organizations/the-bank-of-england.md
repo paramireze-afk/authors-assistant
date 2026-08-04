@@ -6,6 +6,7 @@ tags: [economics, bank-of-england, central-banking, fractional-reserve-banking, 
 type: organizations
 status: reference
 related: ["The Federal Reserve System", "Usury", "The Mandrake Mechanism"]
+created: 2026-08-03
 ---
 
 # The Bank of England

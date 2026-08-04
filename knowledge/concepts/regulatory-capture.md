@@ -2,6 +2,7 @@
 title: Regulatory Capture
 type: concept
 related-people: [[Robert F. Kennedy Jr.]]
+created: 2026-08-03
 ---
 
 # Regulatory Capture

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Articles Folder Layout"
+created: 2026-08-03
 ---
 
 # Articles Folder Layout

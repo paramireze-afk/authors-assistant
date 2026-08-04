@@ -1,6 +1,7 @@
 ---
 title: The Social Vioxx
 status: draft
+created: 2026-08-03
 updated: 2026-07-30
 tags:
   - covid

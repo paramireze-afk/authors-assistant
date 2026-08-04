@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Knowledge / Research / Bret Weinstein"
+created: 2026-08-03
 ---
 
 # Knowledge / Research / Bret Weinstein

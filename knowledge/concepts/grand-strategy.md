@@ -56,7 +56,7 @@ claims:
     - interpretation
     - prediction
   framing: source-documentation
-
+created: 2026-08-03
 ---
 
 # Grand Strategy

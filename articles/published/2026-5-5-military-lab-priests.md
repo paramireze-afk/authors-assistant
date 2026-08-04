@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Military Lab Priests"
+created: 2026-08-03
 ---
 
 Military Uniforms, Lab Coats, and Priest Robes

@@ -9,6 +9,7 @@ note: >
   transcript. It does not evaluate, fact-check, or endorse any claims. All ideas
   are the speaker's own, marked with attribution language ("the speaker argues,"
   "claims," "speculates," etc.).
+created: 2026-08-03
 ---
 
 # Transcript Summary: Emergency Discussion on the Ceuta Migrant Crossing

@@ -42,7 +42,7 @@ claim_boundaries:
   extension: "The monetary mechanism proposed here is an interpretive addition rather than part of Lasch's explicit argument."
   strongest_supported_form: "Monetary instability may reinforce already-compressed planning horizons and weakened confidence in deferred rewards."
   unsupported_form: "Monetary instability caused the emergence of the narcissistic personality described by Lasch."
-
+created: 2026-08-03
 ---
 
 # Monetary Instability and Time-Horizon Compression

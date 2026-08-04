@@ -56,7 +56,7 @@ claims:
     - prediction
     - metaphor
   framing: source-documentation
-
+created: 2026-08-03
 ---
 
 # Pinocchio State

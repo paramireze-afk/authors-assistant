@@ -10,6 +10,7 @@ tags:
   - media
   - intelligence
   - narrative-management
+created: 2026-08-03
 ---
 
 # CIA Influence Operations

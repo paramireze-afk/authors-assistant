@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Empty Wagon"
+created: 2026-08-03
 ---
 
 The Empty Wagon

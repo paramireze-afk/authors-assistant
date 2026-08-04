@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "002 – Knowledge Harvesting Workflow"
+created: 2026-08-03
 ---
 
 # 002 – Knowledge Harvesting Workflow

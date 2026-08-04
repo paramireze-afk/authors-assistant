@@ -29,6 +29,7 @@ sources:
   - Murray Rothbard, The Mystery of Banking
   - Murray Rothbard, The Case Against the Fed
   - Ludwig von Mises, Human Action
+created: 2026-08-03
 ---
 
 # Murray Rothbard and the Austrian Theory of the Business Cycle

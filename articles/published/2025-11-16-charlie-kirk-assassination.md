@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Charlie Kirk Assassination"
+created: 2026-08-03
 ---
 
 Why you should pay attention to the Charlie Kirk assassination

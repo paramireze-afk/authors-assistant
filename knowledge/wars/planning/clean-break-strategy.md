@@ -37,6 +37,7 @@ related:
   - "Iraq War"
   - "Regime Change"
   - "Greater Israel"
+created: 2026-08-03
 ---
 
 # A Clean Break: A New Strategy for Securing the Realm (1996)

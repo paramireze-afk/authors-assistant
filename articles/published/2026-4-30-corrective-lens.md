@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Corrective Lens"
+created: 2026-08-03
 ---
 
 Beyond the Corrective Lens: Bret’s Bigger Civilizational Question

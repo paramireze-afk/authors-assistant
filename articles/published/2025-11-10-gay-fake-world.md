@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Gay Fake World"
+created: 2026-08-03
 ---
 
 The Gay/Fake world and Jordan Peterson

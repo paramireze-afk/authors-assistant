@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "The President Is Not The President"
+created: 2026-08-03
 ---
 
 The President is not the President

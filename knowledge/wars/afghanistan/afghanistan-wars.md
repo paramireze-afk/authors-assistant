@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "The War in Afghanistan (1979–2021)"
+created: 2026-08-03
 ---
 
 # The War in Afghanistan (1979–2021)

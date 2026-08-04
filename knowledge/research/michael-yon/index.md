@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Knowledge / Research / Michael Yon"
+created: 2026-08-03
 ---
 
 # Knowledge / Research / Michael Yon

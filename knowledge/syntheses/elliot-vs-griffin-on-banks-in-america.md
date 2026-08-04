@@ -8,6 +8,7 @@ sources:
   - "G. Edward Griffin, *The Creature from Jekyll Island* (1998), Ch. 16 ('The Creature Comes to America') and Ch. 17 ('A Den of Vipers')"
   - "Calvin Elliott, *Usury: A Scriptural, Ethical and Economic View* (1902), Ch. XXX ('Mammon Dominates the Nations')"
 related: ["The Bank of England", "The Federal Reserve System", "Usury", "The Rothschild Formula"]
+created: 2026-08-03
 ---
 
 # The First and Second Banks of the United States

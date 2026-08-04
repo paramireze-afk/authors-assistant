@@ -25,6 +25,7 @@ related:
   - cognitive-warfare
   - unrestricted-warfare
   - netwar
+created: 2026-08-03
 ---
 
 # Fifth Generation Warfare (5GW): Knowledge Base

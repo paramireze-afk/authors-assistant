@@ -25,6 +25,7 @@ tags:
   - nesta-webster
   - conspiracy-theory
   - secret-societies
+created: 2026-08-03
 ---
 
 # World Revolution: Nesta Webster's Concept, In Depth

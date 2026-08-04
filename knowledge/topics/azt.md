@@ -17,6 +17,7 @@ primary-sources:
 source-policy: "Reconstructed exclusively from the books, papers, testimony, interviews, and documented public statements of the three named figures, and the primary sources they themselves cite (trial reports, journal articles, government transcripts). No mainstream media profiles, fact-checks, or secondary summaries were used to interpret their positions."
 status: living-document
 last-updated: 2026-07-29
+created: 2026-08-03
 ---
 
 # AZT (Zidovudine / Azidothymidine / Retrovir)

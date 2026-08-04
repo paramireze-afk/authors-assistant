@@ -30,6 +30,7 @@ related_topics:
   - Weapons-adjacent business activity
   - Nonprofit transparency
 status: draft
+created: 2026-08-03
 ---
 
 # Lori Frantzve

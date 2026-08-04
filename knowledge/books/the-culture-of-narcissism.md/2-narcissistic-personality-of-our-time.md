@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Chapter Study: 'The Narcissistic Personality of Our Time'"
+created: 2026-08-03
 ---
 
 # Chapter Study: "The Narcissistic Personality of Our Time"

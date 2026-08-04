@@ -6,6 +6,7 @@ tags: [economics, rothschild-formula, war-finance, government-debt, fiat-money, 
 type: concept
 status: reference
 related: ["The Bank of England", "The Federal Reserve System", "Usury"]
+created: 2026-08-03
 ---
 
 # The Rothschild Formula

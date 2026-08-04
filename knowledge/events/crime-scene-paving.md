@@ -11,6 +11,7 @@ related_events: [charlie-kirk-shooting, camera-removal, evidence-removal-sequenc
 related_organizations: [dfcm-utah, hardscape-utah]
 related_concepts: [explosive-device, explosive-residue-theory]
 related_people: [andy-mar, matt-bowyer, guy-wayman, tim-christensen, terryl-farnsworth]
+created: 2026-08-03
 ---
 
 # The Paving of the UVU Crime Scene

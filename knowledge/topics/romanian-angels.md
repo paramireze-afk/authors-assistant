@@ -4,6 +4,7 @@ category: topic
 tags: [romanian-angels, tpusa, erika-kirk, otto-buscher, constanta]
 status: active
 last_updated: 2026-07-28
+created: 2026-08-03
 ---
 
 # Romanian Angels: A Research Reference Document

@@ -72,7 +72,7 @@ claims:
     - predictions
     - speculation
   framing: source-documentation
-
+created: 2026-08-03
 ---
 
 # Michael & Msako Yon: Birth Refugee, Midwifery, and Medical Distrust Reference

@@ -7,6 +7,7 @@ last_updated: 2026-07-28
 related_people: [benjamin-netanyahu, bill-ackman, robert-shillman, josh-hammer, rabbi-pesach-wolicki, candace-owens, laura-loomer, ben-shapiro, erika-kirk, andrew-kolvet]
 related_organizations: [tpusa, david-horowitz-freedom-center, israel365-action, american-freedom-alliance, newsmax, urban-legend, prager-u]
 related_evidence: [text-messages]
+created: 2026-08-03
 ---
 
 # Israel, Pro-Israel Advocacy, and the TPUSA Ecosystem

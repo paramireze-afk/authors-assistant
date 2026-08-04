@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Bret Weinstein"
+created: 2026-08-03
 ---
 
 # Bret Weinstein

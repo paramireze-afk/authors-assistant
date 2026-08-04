@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Operation Gladio"
+created: 2026-08-03
 ---
 
 # Operation Gladio

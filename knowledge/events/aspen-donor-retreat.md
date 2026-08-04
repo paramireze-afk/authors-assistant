@@ -9,6 +9,7 @@ tags: [tpusa, aspen, donor-retreat, succession, charlie-kirk]
 related_people: [charlie-kirk, erika-kirk, tyler-bowyer, robert-shillman, andrew-kolvet, bill-ackman]
 related_organizations: [turning-point-usa, american-freedom-alliance]
 related_events: [hamptons-meeting, tpusa-student-action-summit-july-2025, tpusa-doge-audit]
+created: 2026-08-03
 ---
 
 # The Aspen Donor Retreat (August 2025)

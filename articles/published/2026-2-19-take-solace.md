@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Take Solace"
+created: 2026-08-03
 ---
 
 Take Solace

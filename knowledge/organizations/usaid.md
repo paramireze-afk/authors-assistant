@@ -68,6 +68,7 @@ aliases:
 time_period:
   start: 2001
   end: 2023
+created: 2026-08-03
 ---
 
 # USAID in Afghanistan: A Cross-Source Synthesis

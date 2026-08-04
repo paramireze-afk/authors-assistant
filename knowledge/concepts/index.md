@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Knowledge / Concepts"
+created: 2026-08-03
 ---
 
 # Knowledge / Concepts

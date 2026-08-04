@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Chapter Study: 'The Awareness Movement and the Social Invasion of the Self'"
+created: 2026-08-03
 ---
 
 # Chapter Study: "The Awareness Movement and the Social Invasion of the Self"

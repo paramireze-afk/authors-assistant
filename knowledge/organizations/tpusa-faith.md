@@ -5,6 +5,7 @@ document_type: investigative-reference
 subject: "Turning Point USA Faith (TPUSA Faith)"
 status: living-document
 last_updated: 2026-07-28
+created: 2026-08-03
 ---
 
 # TPUSA Faith: Key Events

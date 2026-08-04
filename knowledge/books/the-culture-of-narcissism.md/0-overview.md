@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "0 Overview"
+created: 2026-08-03
 ---
 
 I am building a personal Markdown knowledge base that serves as the foundation for my writing.

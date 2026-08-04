@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Shifts In Relationships"
+created: 2026-08-03
 ---
 
 Shifts in relationship strategies

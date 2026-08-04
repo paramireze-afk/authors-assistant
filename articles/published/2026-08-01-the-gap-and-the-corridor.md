@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "The Gap and the Corridor"
+created: 2026-08-03
 ---
 
 # The Gap and the Corridor

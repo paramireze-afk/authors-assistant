@@ -51,6 +51,7 @@ tags:
   - freemasonry
   - french-revolution
   - bolshevism
+created: 2026-08-03
 ---
 
 # Nesta Webster's Theory of World Revolution — A Knowledge Base

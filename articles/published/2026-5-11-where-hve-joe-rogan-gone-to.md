@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Where Hve Joe Rogan Gone To"
+created: 2026-08-03
 ---
 
 Where Have All the Joe Rogans Gone?

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Social Media Swamp Monsters"
+created: 2026-08-03
 ---
 
 Social Media Swamp Monsters

@@ -9,6 +9,7 @@ organization: Special Inspector General for Afghanistan Reconstruction (SIGAR)
 author: John F. Sopko
 
 date: 2023-04-19
+created: 2026-08-03
 report_number: SIGAR-23-22-TY
 
 tags:

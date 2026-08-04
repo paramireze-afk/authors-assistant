@@ -9,6 +9,7 @@ related_events: [charlie-kirk-shooting, camera-removal]
 related_concepts: [explosive-device, exploding-microphone-theory, rigged-charm-theory, mossad-pager-attacks]
 related_people: [charlie-kirk, erika-kirk, jon-bray, baron-coleman, ian-carroll, blake-bednarz, frank-turek, andrew-kolvet]
 related_organizations: [aes]
+created: 2026-08-03
 ---
 
 # Charlie Kirk's Necklace: Research Reference

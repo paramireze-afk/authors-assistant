@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Jiang Xueqin"
+created: 2026-08-03
 ---
 
 Paul Ramirez

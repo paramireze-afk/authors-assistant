@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Goliaths Will Goliath"
+created: 2026-08-03
 ---
 
 Goliaths Will Goliath

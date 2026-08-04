@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Events"
+created: 2026-08-03
 ---
 
 # Events

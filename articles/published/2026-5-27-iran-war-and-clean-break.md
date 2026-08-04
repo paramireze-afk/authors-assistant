@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Iran War And Clean Break"
+created: 2026-08-03
 ---
 
 Paul Ramirez

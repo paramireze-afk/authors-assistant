@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "003 — Documentation Refresh"
+created: 2026-08-03
 ---
 
 # 003 — Documentation Refresh

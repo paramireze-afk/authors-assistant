@@ -60,6 +60,7 @@ tags:
   - medical-freedom
 
 last_updated: 2026-07-30
+created: 2026-08-03
 ---
 
 # Bret Weinstein on COVID: A Knowledge Base

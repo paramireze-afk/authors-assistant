@@ -65,7 +65,7 @@ claims:
     - predictions
     - speculation
   framing: source-documentation
-
+created: 2026-08-03
 ---
 
 # Michael Yon: US-China Trade War Interview Reference (Financial Rebellion)

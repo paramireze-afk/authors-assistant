@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Occams Hammer"
+created: 2026-08-03
 ---
 
 

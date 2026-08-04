@@ -9,6 +9,7 @@ tags:
   - covid
   - immunology
   - evolution
+created: 2026-08-03
 ---
 
 # Bret Weinstein on mRNA Technology: A Knowledge Base

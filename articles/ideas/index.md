@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Articles / Ideas"
+created: 2026-08-03
 ---
 
 # Articles / Ideas

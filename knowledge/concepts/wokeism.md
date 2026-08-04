@@ -23,6 +23,7 @@ related:
 
 sources:
   - Woke, Inc. - Vivek Ramaswamy
+created: 2026-08-03
 ---
 
 # Wokeism

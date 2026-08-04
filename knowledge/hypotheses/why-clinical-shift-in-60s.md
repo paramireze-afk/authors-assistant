@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Hypothesis Report: Institutional Decay and the Betrayal of Dependency"
+created: 2026-08-03
 ---
 
 # Hypothesis Report: Institutional Decay and the Betrayal of Dependency

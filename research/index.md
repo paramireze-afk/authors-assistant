@@ -2,6 +2,7 @@
 layout: default
 title: "Research"
 permalink: /research/
+created: 2026-08-03
 ---
 
 # Research

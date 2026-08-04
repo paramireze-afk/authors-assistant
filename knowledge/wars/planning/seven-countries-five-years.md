@@ -31,6 +31,7 @@ related:
   - "Paul Wolfowitz"
   - "War on Terror"
   - "Regime Change"
+created: 2026-08-03
 ---
 
 # Wesley Clark's "Seven Countries in Five Years" Account

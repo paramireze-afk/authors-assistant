@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Joseph de Maistre's Defense of the Spanish Inquisition: A Beginner's Guide"
+created: 2026-08-03
 ---
 
 # Joseph de Maistre's Defense of the Spanish Inquisition: A Beginner's Guide

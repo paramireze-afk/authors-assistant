@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Reading the 2020s Through Mises, Hayek, and Rothbard"
+created: 2026-08-03
 ---
 
 # Reading the 2020s Through Mises, Hayek, and Rothbard

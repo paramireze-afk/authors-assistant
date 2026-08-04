@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Detecting A New Signal"
+created: 2026-08-03
 ---
 
 Detecting a new Signal

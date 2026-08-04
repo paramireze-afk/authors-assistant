@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Behavioral Patterns"
+created: 2026-08-03
 ---
 
 # Behavioral Patterns

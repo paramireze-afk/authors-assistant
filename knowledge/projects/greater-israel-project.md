@@ -31,6 +31,7 @@ related:
   - "Likud"
   - "Benjamin Netanyahu"
   - "Regime Change"
+created: 2026-08-03
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Color Revolution"
+created: 2026-08-03
 ---
 
 Are we living through a Color Revolution?

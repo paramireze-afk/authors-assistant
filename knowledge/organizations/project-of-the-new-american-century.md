@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "The Project for the New American Century (PNAC)"
+created: 2026-08-03
 ---
 
 # The Project for the New American Century (PNAC)

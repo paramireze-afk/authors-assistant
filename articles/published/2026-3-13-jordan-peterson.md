@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Jordan Peterson"
+created: 2026-08-03
 ---
 
 What i really think happened to Jordan Peterson

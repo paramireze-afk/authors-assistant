@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Characters"
+created: 2026-08-03
 ---
 
 # Characters

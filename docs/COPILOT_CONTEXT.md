@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Copilot Context"
+created: 2026-08-03
 ---
 
 # Copilot Context

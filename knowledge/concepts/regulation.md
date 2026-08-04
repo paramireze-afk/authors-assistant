@@ -4,6 +4,7 @@ type: concept-reference
 status: living-document
 tags: [regulation, public-policy, economics, administrative-law, public-choice, institutions, political-philosophy]
 related: [everything-i-want-to-do-is-illegal.md, scale-appropriate-regulation.md, regulatory-capture.md, right-of-contract.md]
+created: 2026-08-03
 ---
 
 # Regulation

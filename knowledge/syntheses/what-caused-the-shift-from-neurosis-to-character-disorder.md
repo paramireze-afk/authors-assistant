@@ -9,6 +9,7 @@ sources:
 related:
   - "1-awareness-movement-and-invasion-of-self"
   - "2-narccist-personality-of-our-time"
+created: 2026-08-03
 ---
 
 # What Might Have Caused the Shift from Classic Neuroses to Diffuse Character Disorders?

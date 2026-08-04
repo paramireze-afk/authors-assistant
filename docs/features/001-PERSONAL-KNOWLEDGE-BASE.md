@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Goal"
+created: 2026-08-03
 ---
 
 # Goal

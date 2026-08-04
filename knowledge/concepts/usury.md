@@ -6,6 +6,7 @@ primary_locus: "Chapter 10, 'The Mandrake Mechanism' (Part II, 'A Crash Course o
 tags: [economics, federal-reserve, usury, fiat-money, fractional-reserve-banking, monetary-policy, banking-history, book-notes]
 type: concept
 status: reference
+created: 2026-08-03
 ---
 
 # Usury

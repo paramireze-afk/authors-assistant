@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Lack Of Imagination"
+created: 2026-08-03
 ---
 
 Failure of Imagination

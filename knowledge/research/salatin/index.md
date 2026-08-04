@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Knowledge / Research / Salatin"
+created: 2026-08-03
 ---
 
 # Knowledge / Research / Salatin

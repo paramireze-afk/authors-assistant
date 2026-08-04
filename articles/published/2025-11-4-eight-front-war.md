@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Eight Front War"
+created: 2026-08-03
 ---
 
 The Eighth Front: How Influence Became the Real Battlefield

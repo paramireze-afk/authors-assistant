@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Dislike Blinds Judgement"
+created: 2026-08-03
 ---
 
 When Dislike Blinds Judgment

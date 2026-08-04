@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Brainstorm Notes (2026-07-29)"
+created: 2026-08-03
 ---
 
 # Brainstorm Notes (2026-07-29)

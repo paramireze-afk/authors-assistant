@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Scott Adams End Of Era"
+created: 2026-08-03
 ---
 
 Paul Ramirez

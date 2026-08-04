@@ -59,7 +59,7 @@ claims:
     - speculation
   notes:
     - "Sections explicitly distinguish data-driven claims from speculation and opinion."
-
+created: 2026-08-03
 ---
 
 # Notes: Strait of Hormuz, Oil Supply Shock, and Energy-Driven Inflation

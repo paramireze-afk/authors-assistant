@@ -18,6 +18,7 @@ related_topics:
   - text-message evidence chain
   - PCA version anomalies
 status: draft
+created: 2026-08-03
 ---
 
 # Tyler James Robinson

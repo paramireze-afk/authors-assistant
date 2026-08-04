@@ -6,6 +6,7 @@ tags: [economics, bolshevik-revolution, war-finance, rothschild-formula, politic
 type: events
 status: reference
 related: ["The Rothschild Formula", "The Federal Reserve System", "The Bank of England"]
+created: 2026-08-03
 ---
 
 # The Bolshevik Revolution

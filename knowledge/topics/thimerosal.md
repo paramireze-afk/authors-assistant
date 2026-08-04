@@ -23,6 +23,7 @@ primary-sources:
 source-policy: "Reconstructed from the books, papers, congressional testimony, court filings, FOIA-obtained government documents, and public statements of the named critics. No mainstream media profiles, fact-checks, or secondary summaries were used to interpret their positions; government/court records are used only as primary documentary sources (trial transcripts, agency transcripts, board rulings), consistent with the source list this knowledge base treats as primary."
 status: living-document
 last-updated: 2026-07-29
+created: 2026-08-03
 ---
 
 # Thimerosal (Thiomersal / Merthiolate)

@@ -7,6 +7,7 @@ last_updated: 2026-07-28
 tags: [shaped-charge, ballistics, aes, charlie-kirk, forensic-theory]
 related_events: [charlie-kirk-shooting, aspen-donor-retreat]
 related_concepts: [ballistics, official-narrative-overview]
+created: 2026-08-03
 ---
 
 # Shaped Charge Theory: Research Reference

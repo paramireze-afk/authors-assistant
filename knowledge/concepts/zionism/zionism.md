@@ -35,6 +35,7 @@ related:
   - "Clean Break Strategy"
   - "Project for the New American Century"
   - "Israel"
+created: 2026-08-03
 ---
 
 # Zionism

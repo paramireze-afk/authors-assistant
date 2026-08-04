@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Vision"
+created: 2026-08-03
 ---
 
 # Vision

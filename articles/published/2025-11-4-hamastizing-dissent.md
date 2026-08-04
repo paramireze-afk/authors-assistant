@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Hamastizing Dissent"
+created: 2026-08-03
 ---
 
 The “Hamas-tization” of Political Dissent

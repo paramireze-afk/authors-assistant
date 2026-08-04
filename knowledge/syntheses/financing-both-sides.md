@@ -8,6 +8,7 @@ sources:
   - "G. Edward Griffin, *The Creature from Jekyll Island* (1998) — Chapters 1, 11, 13, 14, 16, 17"
   - "Calvin Elliott, *Usury: A Scriptural, Ethical and Economic View* (1902) — Chapter XXX"
 related: ["The Rothschild Formula", "The Rothschild Family", "The Bolshevik Revolution", "The First and Second Banks of the United States", "The Bank of England"]
+created: 2026-08-03
 ---
 
 # Financing Multiple Sides of the Same Conflict

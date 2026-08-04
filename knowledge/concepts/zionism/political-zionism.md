@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Political Zionism: A Research Reference"
+created: 2026-08-03
 ---
 
 # Political Zionism: A Research Reference

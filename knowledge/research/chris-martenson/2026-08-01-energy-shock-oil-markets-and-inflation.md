@@ -1,6 +1,7 @@
 ---
 title: "Energy Shock: How the Iran War, Oil Futures Manipulation, and Refinery Constraints Feed Inflation"
 date: 2026-08-01
+created: 2026-08-03
 type: video-transcript-note
 status: draft
 people:

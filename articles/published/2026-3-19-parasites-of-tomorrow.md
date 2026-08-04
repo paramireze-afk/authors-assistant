@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Parasites Of Tomorrow"
+created: 2026-08-03
 ---
 
 The Parasite of Tomorrow

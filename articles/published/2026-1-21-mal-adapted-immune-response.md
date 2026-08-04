@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Mal Adapted Immune Response"
+created: 2026-08-03
 ---
 
 Leviathan’s Mal-adapted Immune Response

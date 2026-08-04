@@ -1,7 +1,7 @@
 ---
 title: "Myst: Life as an Unexplained Puzzle"
 subtitle: "Knowledge, authorship, interpretation, and the human condition"
-type: research-note
+type: games
 status: reference
 created: 2026-08-03
 updated: 2026-08-03

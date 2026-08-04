@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Knowledge Base"
+created: 2026-08-03
 ---
 
 # Knowledge Base

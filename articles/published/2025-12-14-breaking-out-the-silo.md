@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Breaking Out The Silo"
+created: 2026-08-03
 ---
 
 Breaking Out of the Silo

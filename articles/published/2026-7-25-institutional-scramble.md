@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Institutional Scramble"
+created: 2026-08-03
 ---
 
 Paul Ramirez

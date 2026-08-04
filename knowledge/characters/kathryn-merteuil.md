@@ -8,6 +8,7 @@ source_material: ["Cruel Intentions (1999)"]
 tags: [character-study, antagonist, manipulation, reputation-management, crisis-communication, social-power]
 related_people: [sebastian-valmont, annette-hargrove, cecile-caldwell]
 related_topics: [image-vs-reality, strategic-ambiguity, social-influence]
+created: 2026-08-03
 ---
 
 # Kathryn Merteuil

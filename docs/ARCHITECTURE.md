@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Architecture"
+created: 2026-08-03
 ---
 
 # Architecture

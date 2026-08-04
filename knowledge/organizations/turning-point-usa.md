@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Turning Point USA (TPUSA)"
+created: 2026-08-03
 ---
 
 # Turning Point USA (TPUSA)

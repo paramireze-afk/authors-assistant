@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Author's Assistant
+created: 2026-08-03
 ---
 
 # Author's Assistant

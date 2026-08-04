@@ -28,6 +28,7 @@ related_topics:
   - N560TW flight timeline
   - TPUSA Form 990 filing irregularities
 status: draft
+created: 2026-08-03
 ---
 
 # Erika Kirk (née Frantzve)

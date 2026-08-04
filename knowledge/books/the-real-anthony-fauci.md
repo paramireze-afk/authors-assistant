@@ -4,6 +4,7 @@ type: book
 author: Robert F. Kennedy Jr.
 published: 2021
 related-people: [[Robert F. Kennedy Jr.]]
+created: 2026-08-03
 ---
 
 # The Real Anthony Fauci: Bill Gates, Big Pharma, and the Global War on Democracy and Public Health (2021)

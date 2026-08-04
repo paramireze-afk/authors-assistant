@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Judas Goat"
+created: 2026-08-03
 ---
 
 Anthony Fauci is what I would call a “Judas Goat.”

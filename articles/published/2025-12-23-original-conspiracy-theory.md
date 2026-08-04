@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Original Conspiracy Theory"
+created: 2026-08-03
 ---
 
 My Original Conspiracy "Theory"

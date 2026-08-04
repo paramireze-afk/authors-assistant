@@ -23,6 +23,7 @@ primary-sources:
 source-policy: "Reconstructed from congressional testimony, FOIA-released emails and Slack messages, House Select Subcommittee documents, court and litigation records, published books, and the public statements of named critics. No mainstream media profiles, fact-checks, or secondary summaries were used to interpret their positions; news reporting is used only to convey the primary documentary record it broke or published (e.g., released emails, hearing transcripts), and a dedicated section presents Fauci's own responses for fairness, since this document concerns a specific living public figure."
 status: living-document
 last-updated: 2026-07-29
+created: 2026-08-03
 ---
 
 # Anthony Fauci

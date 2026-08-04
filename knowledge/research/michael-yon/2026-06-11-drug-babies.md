@@ -67,7 +67,7 @@ claims:
     - predictions
     - speculation
   framing: source-documentation
-
+created: 2026-08-03
 ---
 
 # Michael Yon: Patent Medicines, Media Criticism, and War Continuation Reference

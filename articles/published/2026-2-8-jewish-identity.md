@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Jewish Identity"
+created: 2026-08-03
 ---
 
 The Hijacking of the American-Jewish Identity

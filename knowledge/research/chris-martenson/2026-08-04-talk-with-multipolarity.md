@@ -1,5 +1,10 @@
 ---
+layout: default
 title: "Oil Markets, Manipulation, and Geopolitics: A Podcast Conversation Summary"
+type: transcript-report
+status: reference
+created: 2026-08-04
+updated: 2026-08-04
 date: 2026-08-04
 tags: [oil, macroeconomics, geopolitics, podcast-notes]
 ---

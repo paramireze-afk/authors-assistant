@@ -19,13 +19,18 @@ Start here for the newest writing activity across the repository.
 {% assign markdown_pages = site.pages | concat: site.documents
 	| where_exp: "p", "p.path contains '.md'"
 	| where_exp: "p", "p.created"
-	| where_exp: "p", "p.path contains 'articles/' or p.path contains 'research/' or p.path contains 'knowledge/research/'"
 	| sort_natural: "created"
 	| reverse %}
-{% for page in markdown_pages limit: 10 %}
+{% assign shown_count = 0 %}
+{% for page in markdown_pages %}
+{% if shown_count < 10 %}
 {% unless page.path contains '/index.md' %}
+{% if page.path contains 'articles/' or page.path contains 'research/' or page.path contains 'knowledge/research/' %}
 - [{{ page.title | default: page.name | default: page.basename }}]({{ page.url | relative_url }})
+{% assign shown_count = shown_count | plus: 1 %}
+{% endif %}
 {% endunless %}
+{% endif %}
 {% endfor %}
 
 *Only Markdown files with a `created` field in front matter are included here.*

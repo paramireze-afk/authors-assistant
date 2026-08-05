@@ -2,8 +2,8 @@
 {% include read-aloud.html %}
 
 <div class="text-small" style="margin-top: 0.75rem; opacity: 0.9;">
-  <div><strong>Release:</strong> {{ site.release.version | default: "unversioned" }} · <strong>Date:</strong> {{ site.release.date | default: "not set" }}</div>
-  <div><strong>Notes:</strong> {{ site.release.notes | default: "n/a" }}</div>
+  <div><strong>Release:</strong> {{ site.github.build_revision | slice: 0, 7 | default: site.release.version | default: "unversioned" }} · <strong>Date:</strong> {{ site.time | date: "%Y-%m-%d" }}</div>
+  <div><strong>Notes:</strong> {{ site.release.notes | default: "auto build metadata" }}</div>
   <div><strong>Site:</strong> {{ site.url }}{{ site.baseurl }} · <strong>Theme:</strong> Just the Docs</div>
   <div><strong>Build time (UTC):</strong> {{ site.time | date: "%Y-%m-%d %H:%M" }}</div>
 </div>

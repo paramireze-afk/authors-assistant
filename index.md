@@ -16,10 +16,15 @@ A local-first, Markdown-first research and writing workspace.
 
 Start here for the newest writing activity across the repository.
 
-{% assign markdown_pages = site.pages | concat: site.documents | where_exp: "p", "p.path contains '.md'" | where_exp: "p", "p.created" | sort_natural: "created" | reverse %}
+{% assign markdown_pages = site.pages | concat: site.documents
+	| where_exp: "p", "p.path contains '.md'"
+	| where_exp: "p", "p.created"
+	| where_exp: "p", "p.path contains 'articles/' or p.path contains 'research/' or p.path contains 'knowledge/research/'"
+	| sort_natural: "created"
+	| reverse %}
 {% for page in markdown_pages limit: 10 %}
 {% unless page.path contains '/index.md' %}
-- [{{ page.title | default: page.name | default: page.basename }}]({{ page.url | prepend: site.baseurl }})
+- [{{ page.title | default: page.name | default: page.basename }}]({{ page.url | relative_url }})
 {% endunless %}
 {% endfor %}
 

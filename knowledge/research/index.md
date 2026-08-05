@@ -15,6 +15,7 @@ Browse research notes, sorted newest to oldest by filename.
 
 - [Bret Weinstein]({{ site.baseurl }}{% link knowledge/research/bret-weinstein/index.md %})
 - [Chris Martenson]({{ site.baseurl }}{% link knowledge/research/chris-martenson/index.md %})
+- [Dave DeCamp]({{ site.baseurl }}{% link knowledge/research/dave-decamp/index.md %})
 - [Jiang Xueqin]({{ site.baseurl }}{% link knowledge/research/jiang-xueqin/index.md %})
 - [Macroeconomics]({{ site.baseurl }}{% link knowledge/research/macroeconomics/index.md %})
 - [Michael Yon]({{ site.baseurl }}{% link knowledge/research/michael-yon/index.md %})

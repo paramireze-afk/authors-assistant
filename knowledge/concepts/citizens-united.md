@@ -99,7 +99,7 @@ Story one: in 2010, the Supreme Court decided *Citizens United v. Federal Electi
 
 Story two: sometime around the same decade, big companies started talking less about shareholders and more about "stakeholders" — employees, communities, the planet, customers, "society." BlackRock's Larry Fink started writing letters about "purpose." The Business Roundtable renounced shareholder primacy. Companies started taking positions on voting laws, climate change, and social movements. Critics on the right, most prominently the entrepreneur-turned-politician Vivek Ramaswamy, started calling this "woke capitalism" and arguing it was corroding both democracy and capitalism itself.
 
-The tempting move is to connect story one to story two: *Citizens United* freed corporations to act as political actors, and stakeholder capitalism is what that political activism looks like when it's dressed up in the language of sustainability and social responsibility.
+The tempting move is to connect story one to story two: *Citizens United* freed corporations to act as political actors, and stakeholder capitalism is what that political activism looks like when it's dressed up in the language of sustainability and social responsibility
 
 That connection is intuitive. It is also, on close inspection, mostly wrong — or at least much weaker and more indirect than it first appears. The honest answer is that these are two largely separate historical currents that happened to crest in the same cultural moment, and untangling them is more interesting than collapsing them into one story.
 

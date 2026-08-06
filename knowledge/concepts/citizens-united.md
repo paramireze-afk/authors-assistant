@@ -93,7 +93,7 @@ sources:
 
 ## How *Citizens United v. FEC* and the rise of stakeholder capitalism became tangled together in the public imagination — and what the evidence actually shows
 
-If you've spent any time in the last decade reading about corporate America, you've probably run into two stories that get told separately but increasingly feel like they're about the same thing
+If you've spent any time in the last decade reading about corporate America, you've probably run into two stories that get told separately but increasingly feel like they're about the same thing.
 
 Story one: in 2010, the Supreme Court decided *Citizens United v. Federal Election Commission* and "opened the floodgates" for corporate money in politics.
 

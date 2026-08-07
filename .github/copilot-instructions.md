@@ -12,7 +12,7 @@ management system. Changes should preserve that direction.
 - Prefer small, incremental changes over large rewrites.
 - Keep change scope narrow and task-focused.
 - Explain meaningful design decisions when they affect future maintenance.
-- Keep implementation and documentation synchronized.
+- Keep implementation and documentation synchronized
 
 ## Architecture Preferences
 

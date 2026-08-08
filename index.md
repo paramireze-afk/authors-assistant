@@ -25,7 +25,7 @@ Start here for the newest writing activity across the repository.
 {% for page in markdown_pages %}
 {% if shown_count < 10 %}
 {% unless page.path contains '/index.md' %}
-{% if page.path contains 'articles/' or page.path contains 'research/' or page.path contains 'knowledge/research/' or page.path contains 'knowledge/concepts/' %}
+{% if page.path contains 'articles/' or page.path contains 'research/' or page.path contains 'knowledge/research/' or page.path contains 'knowledge/concepts/' or page.path contains 'knowledge/events/' %}
 - [{{ page.title | default: page.name | default: page.basename }}]({{ page.url | relative_url }})
 {% assign shown_count = shown_count | plus: 1 %}
 {% endif %}
@@ -87,6 +87,7 @@ If this is your first visit, the easiest way to explore is to start with a few c
 
 - Browse [Concepts]({{ site.baseurl }}{% link knowledge/concepts/index.md %}) for recurring frameworks.
 - Browse [Syntheses]({{ site.baseurl }}{% link knowledge/syntheses/index.md %}) for cross-cutting summaries.
+- Read [The AIDS Dissident Movement]({{ site.baseurl }}{% link knowledge/events/aids-crisis.md %}) for a long-form event history.
 
 ---
 

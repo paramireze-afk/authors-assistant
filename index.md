@@ -77,6 +77,7 @@ If this is your first visit, the easiest way to explore is to start with a few c
 
 - Start with [Published Articles]({{ site.baseurl }}{% link articles/published/index.md %}) for finished essays.
 - Visit [Ideas / Drafts]({{ site.baseurl }}{% link articles/ideas/index.md %}) for works in progress and early concepts.
+- Visit [Synthesis Articles]({{ site.baseurl }}{% link articles/synthesis/index.md %}) for structured long-form explainers.
 
 ### If You Want Source-Driven Research
 
@@ -97,6 +98,7 @@ If this is your first visit, the easiest way to explore is to start with a few c
 
 - [Published Articles]({{ site.baseurl }}{% link articles/published/index.md %})
 - [Ideas / Drafts]({{ site.baseurl }}{% link articles/ideas/index.md %})
+- [Synthesis Articles]({{ site.baseurl }}{% link articles/synthesis/index.md %})
 
 ### Knowledge
 

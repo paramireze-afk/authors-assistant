@@ -17,7 +17,7 @@ plugins:
   - jekyll-remote-theme
 
 # --- just-the-docs settings ---
-color_scheme: dark
+color_scheme: light
 search_enabled: true
 search:
   heading_level: 2

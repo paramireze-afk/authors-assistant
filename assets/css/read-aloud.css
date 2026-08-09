@@ -20,8 +20,7 @@
 
 /* Dark mode support for just-the-docs */
 html[data-color-mode="dark"] [data-read-aloud-controls],
-html[theme="dark"] [data-read-aloud-controls],
-.site-nav + main [data-read-aloud-controls] {
+html[theme="dark"] [data-read-aloud-controls] {
   background-color: var(--color-bg-secondary, #2c2c2c);
   border-color: var(--color-border, #444);
 }

@@ -2,7 +2,7 @@
 title: "Transnational Capitalism: A Beginner's Guide"
 subtitle: "Competing frameworks for understanding globalization, finance, and sovereignty"
 author: Claude
-date: 2026-08-08
+created: 2026-08-08
 type: article
 status: reference
 topics:

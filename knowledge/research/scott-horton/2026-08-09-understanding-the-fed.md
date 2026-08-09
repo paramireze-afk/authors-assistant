@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Fed, Fractional Reserve Banking, and the Boom-Bust Cycle"
 subtitle: "Bob Murphy and Scott Horton on Austrian economics, inflation, banking, housing, wages, and financial crises"
-date: 2026-08-09
+created: 2026-08-09
 type: transcript-synthesis
 status: reference
 people:

@@ -1,3 +1,40 @@
+---
+title: "The Realignment Nobody Saw Coming"
+subtitle: "Notes from a conversation between Scott Horton and Glenn Greenwald"
+created: 2026-08-10
+updated: 2026-08-10
+type: transcript-synthesis
+status: reference
+
+people:
+	- Scott Horton
+	- Glenn Greenwald
+	- Donald Trump
+	- JD Vance
+	- Robert Kagan
+	- Tucker Carlson
+
+topics:
+	- U.S. politics
+	- party realignment
+	- foreign policy
+	- Israel
+	- AIPAC
+	- media ecosystems
+	- blowback
+
+source_type: podcast-transcript
+source: "The Scott Horton Show — Scott Horton interview with Glenn Greenwald"
+
+tags:
+	- scott-horton
+	- glenn-greenwald
+	- realignment
+	- foreign-policy
+	- israel
+	- media
+---
+
 # The Realignment Nobody Saw Coming: Notes from a Conversation Between Scott Horton and Glenn Greenwald
 
 American politics has a habit of humiliating its own experts. That was the starting point for a recent conversation between libertarian broadcaster Scott Horton and journalist Glenn Greenwald, who used two "impossible" presidential wins as a lens for understanding a much bigger shift now underway in both parties.

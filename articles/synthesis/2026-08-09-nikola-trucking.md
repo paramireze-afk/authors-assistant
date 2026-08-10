@@ -1,6 +1,6 @@
 ---
 title: "The Fall of Nikola: Trevor Milton's Story, the Short-Seller Who Took Him Down, and the Money Behind the Prosecution"
-date: 2026-08-09
+created: 2026-08-09
 type: case-study
 status: reference
 

@@ -1,6 +1,6 @@
 ---
 title: "The Forgotten Fuel War: Alcohol, Gasoline, and the Prohibition Question"
-date: 2026-08-09
+created: 2026-08-09
 type: historical-analysis
 status: reference
 

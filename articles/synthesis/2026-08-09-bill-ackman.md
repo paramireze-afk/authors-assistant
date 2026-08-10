@@ -1,6 +1,6 @@
 ---
 title: "The Billion-Dollar Short: Bill Ackman's War on Herbalife"
-date: 2026-08-09
+created: 2026-08-09
 type: case-study
 status: reference
 

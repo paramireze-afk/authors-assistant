@@ -7,32 +7,32 @@ type: transcript-synthesis
 status: reference
 
 people:
-	- Scott Horton
-	- Glenn Greenwald
-	- Donald Trump
-	- JD Vance
-	- Robert Kagan
-	- Tucker Carlson
+  - Scott Horton
+  - Glenn Greenwald
+  - Donald Trump
+  - JD Vance
+  - Robert Kagan
+  - Tucker Carlson
 
 topics:
-	- U.S. politics
-	- party realignment
-	- foreign policy
-	- Israel
-	- AIPAC
-	- media ecosystems
-	- blowback
+  - U.S. politics
+  - party realignment
+  - foreign policy
+  - Israel
+  - AIPAC
+  - media ecosystems
+  - blowback
 
 source_type: podcast-transcript
 source: "The Scott Horton Show — Scott Horton interview with Glenn Greenwald"
 
 tags:
-	- scott-horton
-	- glenn-greenwald
-	- realignment
-	- foreign-policy
-	- israel
-	- media
+  - scott-horton
+  - glenn-greenwald
+  - realignment
+  - foreign-policy
+  - israel
+  - media
 ---
 
 # The Realignment Nobody Saw Coming: Notes from a Conversation Between Scott Horton and Glenn Greenwald

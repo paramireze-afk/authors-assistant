@@ -25,7 +25,7 @@ Start here for the newest writing activity across the repository.
 {% for page in markdown_pages %}
 {% if shown_count < 10 %}
 {% unless page.path contains '/index.md' %}
-{% if page.path contains 'articles/' or page.path contains 'research/' or page.path contains 'knowledge/research/' or page.path contains 'knowledge/concepts/' or page.path contains 'knowledge/events/' %}
+{% if page.path contains 'articles/' or page.path contains 'research/' or page.path contains 'knowledge/' %}
 - [{{ page.title | default: page.name | default: page.basename }}]({{ page.url | relative_url }})
 {% assign shown_count = shown_count | plus: 1 %}
 {% endif %}

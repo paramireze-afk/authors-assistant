@@ -13,3 +13,4 @@ Browse Bret Weinstein research notes.
 - [Back to Research]({{ site.baseurl }}{% link knowledge/research/index.md %})
 
 - [2026-08-01 Darién Gap Migration and China Hypothesis]({{ site.baseurl }}{% link knowledge/research/bret-weinstein/2026-08-01-darien-gap-migration-and-china-hypothesis.md %})
+- [Bret Weinstein on COVID]({{ site.baseurl }}{% link knowledge/research/bret-weinstein/bret-weinstein-on-covid.md %})

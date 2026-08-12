@@ -1,94 +1,158 @@
 ---
-title: "Richard Werner's Economic Framework: A Distinct Credit-Centric Approach"
-created: 2026-08-12
-type: "economic-analysis"
-status: "complete"
-
-people:
-  - Richard Werner
-  - Ludwig von Mises
-  - Friedrich Hayek
-  - Murray Rothbard
-  - John Maynard Keynes
-  - Hyman Minsky
-  - Basil Moore
-  - Milton Friedman
-  - Chalmers Johnson
-  - Alexander Gerschenkron
-
-schools_of_thought:
-  - Austrian economics
-  - Keynesian economics
-  - New Keynesian economics
-  - Post-Keynesian economics
-  - Modern Monetary Theory
-  - monetarism
-  - developmental economics
-  - institutional economics
-
-concepts:
-  - quantity theory of credit
-  - credit creation theory of banking
-  - endogenous money
-  - productive credit
-  - speculative credit
-  - asset-price inflation
-  - Austrian Business Cycle Theory
-  - malinvestment
-  - time preference
-  - loanable funds
-  - money multiplier
-  - window guidance
-  - central bank independence
-  - decentralized banking
-  - community banking
-  - credit allocation
-
-organizations:
-  - Bank of Japan
-  - Bank of England
-  - Sparkassen
-  - Raiffeisen cooperative banks
-
-related_works:
-  - "Princes of the Yen"
+title: "The House Always Watches: How Legalized Betting Remade the UFC"
+author: "Claude"
+date_created: "2026-08-12"
+date_updated: "2026-08-12"
+document_type: "research_article"
+status: "completed"
+version: "1.1"
 
 summary: >
-  An analysis of Richard Werner's credit-centric economic framework and its
-  relationship to Austrian, Keynesian, New Keynesian, Post-Keynesian, MMT,
-  monetarist, and developmentalist economics. Werner shares the Austrian
-  concern that credit expansion can produce malinvestment, asset bubbles,
-  and financial crises, but rejects the Austrian emphasis on interest-rate
-  distortion and commodity-money solutions. His description of commercial
-  banks creating money through lending closely resembles Post-Keynesian
-  endogenous-money theory, while his emphasis on the quantity and allocation
-  of credit gives his framework a distinct character. His preference for
-  decentralized community banking and productive credit allocation places
-  his policy prescriptions closer to cooperative banking and developmentalist
-  traditions than either Austrian laissez-faire or conventional Keynesian
-  fiscal management.
+  An investigative overview of how legalized sports betting reshaped the UFC's
+  business model, ownership structure, broadcast partnerships, and regulatory
+  environment. The article examines corporate governance, gambling integration,
+  fighter-pay litigation, betting-integrity controversies, Joe Rogan's role,
+  and investigates whether any documented Israeli business or institutional
+  connections exist within the UFC ecosystem.
 
-key_thesis: >
-  Werner is best understood as a distinct disaggregated credit theorist or
-  heterodox institutionalist with developmentalist leanings: Austrian-like
-  in his concern with credit-driven economic distortion, Post-Keynesian-like
-  in his understanding of bank money creation, but distinctive in treating
-  the quantity, destination, and institutional source of credit as the
-  central variables of economic analysis.
+topics:
+  - UFC
+  - Sports Betting
+  - Gambling
+  - TKO Group Holdings
+  - Endeavor
+  - WME Group
+  - Dana White
+  - Joe Rogan
+  - Ari Emanuel
+  - Mark Shapiro
+  - DraftKings
+  - bet365
+  - ESPN
+  - Fighter Compensation
+  - Sports Integrity
+  - Corporate Governance
+  - Antitrust
+  - Combat Sports
+  - Sports Media
+  - Israel
+
+people:
+  - Dana White
+  - Joe Rogan
+  - Ari Emanuel
+  - Mark Shapiro
+  - James Krause
+  - Darrick Minner
+  - Jeff Molina
+  - Sean Strickland
+  - Anderson Silva
+
+organizations:
+  - Ultimate Fighting Championship (UFC)
+  - Zuffa LLC
+  - TKO Group Holdings
+  - Endeavor Group Holdings
+  - WME Group
+  - DraftKings
+  - bet365
+  - FanDuel
+  - ESPN
+  - Paramount+
+  - Silver Lake
+  - IMG
+  - IMG Arena
+  - Sportradar
+  - IC360
+  - Nevada Athletic Commission
+  - Penn Entertainment
+
+concepts:
+  - Sports Betting
+  - Legalized Gambling
+  - Betting Integrity
+  - Corporate Ownership
+  - Media Rights
+  - Sponsorship
+  - Fighter Pay
+  - Antitrust
+  - Regulatory Oversight
+  - Conflict of Interest
+  - Gambling Partnerships
+  - Sports Data
+  - Broadcast Integration
+
+claims:
+  - "The repeal of PASPA fundamentally changed the UFC's commercial opportunities."
+  - "Sports betting has become deeply integrated into UFC broadcasts and sponsorships."
+  - "Betting-integrity concerns have become a significant regulatory issue for the promotion."
+  - "Joe Rogan's influence primarily stems from his independent media platform rather than corporate authority."
+  - "No significant documented Israeli ownership or institutional connection to UFC's gambling ecosystem was identified through the available evidence."
+
+research_focus:
+  - Corporate ownership structure
+  - Gambling partnerships
+  - Media rights
+  - Executive leadership
+  - Betting-integrity controversies
+  - Fighter compensation litigation
+  - Israeli institutional connections
+  - Evidence evaluation
+
+sources:
+  primary:
+    - SEC filings
+    - Corporate disclosures
+    - Court filings
+    - Regulatory actions
+    - Official company statements
+    - Public interviews
+  secondary:
+    - Sports business journalism
+    - Investigative reporting
+    - Trade publications
+
+methodology:
+  - Separate documented facts from interpretation.
+  - Distinguish investigative reporting from speculation.
+  - Reject unsupported claims lacking verifiable evidence.
+  - Prioritize primary sources whenever available.
+
+findings:
+  - "The UFC has become one of the most betting-integrated professional sports organizations in North America."
+  - "The promotion has experienced multiple documented betting-integrity investigations."
+  - "Corporate ownership and executive compensation are well documented through SEC filings."
+  - "No compelling evidence of significant Israeli corporate, ownership, or institutional influence over UFC operations or gambling partnerships was found."
+
+related_topics:
+  - Professional Sports Betting
+  - Combat Sports
+  - Sports Business
+  - Media Rights
+  - Corporate Governance
+  - TKO Group
+  - WWE
+  - DraftKings
+  - Sports Integrity
+  - Antitrust Litigation
 
 tags:
-  - richard-werner
-  - economics
-  - quantity-theory-of-credit
-  - credit-creation
-  - austrian-economics
-  - keynesian-economics
-  - post-keynesian
-  - endogenous-money
-  - central-banking
-  - community-banking
-  - developmental-economics
-  - monetary-policy
+  - ufc
+  - mma
+  - sports-betting
+  - gambling
+  - joe-rogan
+  - dana-white
+  - tko
+  - endeavor
+  - draftkings
+  - bet365
+  - sports-business
+  - corporate-governance
+  - fighter-pay
+  - antitrust
+  - integrity
+  - investigative-research
 ---
 
 # The House Always Watches: How Legalized Betting Remade the UFC

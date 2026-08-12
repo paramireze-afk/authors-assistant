@@ -1,8 +1,8 @@
 ---
 title: "The House Always Watches: How Legalized Betting Remade the UFC"
 author: "Claude"
-date_created: "2026-08-12"
-date_updated: "2026-08-12"
+created: "2026-08-12"
+updated: "2026-08-12"
 document_type: "research_article"
 status: "completed"
 version: "1.1"

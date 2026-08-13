@@ -21,6 +21,7 @@ Browse research notes, sorted newest to oldest by filename.
 - [Michael Yon]({{ site.baseurl }}{% link knowledge/research/michael-yon/index.md %})
 - [Mises]({{ site.baseurl }}{% link knowledge/research/mises/index.md %})
 - [Salatin]({{ site.baseurl }}{% link knowledge/research/salatin/index.md %})
+- [Scott Horton]({{ site.baseurl }}{% link knowledge/research/scott-horton/index.md %})
 - [Yaakov Shapiro]({{ site.baseurl }}{% link knowledge/research/yaakov-shapiro/index.md %})
 
 {% assign research_pages = site.pages | where_exp: "p", "p.path contains 'knowledge/research/'" | where_exp: "p", "p.path contains '.md'" | sort: "path" | reverse %}

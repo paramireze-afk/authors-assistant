@@ -6,186 +6,165 @@ created: 2026-08-03
 
 # Author's Assistant
 
-A local-first, Markdown-first research and writing workspace.
-
-[View Repository on GitHub](https://github.com/paramireze-afk/authors-assistant)
-
----
-
-## Most Recently Added Markdown Files
-
-Start here for the newest writing activity across the repository.
-
-{% assign markdown_pages = site.pages | concat: site.documents
-	| where_exp: "p", "p.path contains '.md'"
-	| where_exp: "p", "p.created"
-	| sort_natural: "created"
-	| reverse %}
-{% assign shown_count = 0 %}
-{% for page in markdown_pages %}
-{% if shown_count < 10 %}
-{% unless page.path contains '/index.md' %}
-{% if page.path contains 'articles/' or page.path contains 'research/' or page.path contains 'knowledge/' %}
-- [{{ page.title | default: page.name | default: page.basename }}]({{ page.url | relative_url }})
-{% assign shown_count = shown_count | plus: 1 %}
-{% endif %}
-{% endunless %}
-{% endif %}
-{% endfor %}
-
-*Only Markdown files with a `created` field in front matter are included here.*
-
----
-
-## What This Site Is
-
-This site is a working knowledge base for research, synthesis, and long-form writing.
-
-It combines:
-
-- research notes and transcript-based analysis,
-- concept and event pages that turn recurring ideas into reusable references,
-- published essays and draft ideas,
-- a Markdown-first workflow designed to stay readable and durable.
-
-If this is your first visit, the easiest way to explore is to start with a few curated paths below.
-
-## Start Here
-
-### Read a Published Piece
-
-- [Published Articles]({{ site.baseurl }}{% link articles/published/index.md %})
-
-### Browse the Research Archive
-
-- [Research Landing Page]({{ site.baseurl }}{% link research/index.md %})
-- [Research Index]({{ site.baseurl }}{% link knowledge/research/index.md %})
-
-### Explore the Knowledge Base
-
-- [Concepts]({{ site.baseurl }}{% link knowledge/concepts/index.md %})
-- [Events]({{ site.baseurl }}{% link knowledge/events/index.md %})
-- [Reports]({{ site.baseurl }}{% link knowledge/reports/index.md %})
-- [Syntheses]({{ site.baseurl }}{% link knowledge/syntheses/index.md %})
-- [Books]({{ site.baseurl }}{% link knowledge/books/index.md %})
-
----
-
-## Featured Entry Points
-
-### If You Want Narrative Writing
-
-- Start with [Published Articles]({{ site.baseurl }}{% link articles/published/index.md %}) for finished essays.
-- Visit [Ideas / Drafts]({{ site.baseurl }}{% link articles/ideas/index.md %}) for works in progress and early concepts.
-- Visit [Synthesis Articles]({{ site.baseurl }}{% link articles/synthesis/index.md %}) for structured long-form explainers.
-
-### If You Want Source-Driven Research
-
-- Use [Research]({{ site.baseurl }}{% link research/index.md %}) to scan notes by date.
-- Dive into focused sub-areas like [Michael Yon]({{ site.baseurl }}{% link knowledge/research/michael-yon/index.md %}), [Chris Martenson]({{ site.baseurl }}{% link knowledge/research/chris-martenson/index.md %}), or [Yaakov Shapiro]({{ site.baseurl }}{% link knowledge/research/yaakov-shapiro/index.md %}).
-
-### If You Want Big-Picture Interpretation
-
-- Browse [Concepts]({{ site.baseurl }}{% link knowledge/concepts/index.md %}) for recurring frameworks.
-- Browse [Syntheses]({{ site.baseurl }}{% link knowledge/syntheses/index.md %}) for cross-cutting summaries.
-- Read [The AIDS Dissident Movement]({{ site.baseurl }}{% link knowledge/events/aids-crisis.md %}) for a long-form event history.
-
----
-
-## Browse by Area
-
-### Articles
-
-- [Published Articles]({{ site.baseurl }}{% link articles/published/index.md %})
-- [Ideas / Drafts]({{ site.baseurl }}{% link articles/ideas/index.md %})
-- [Synthesis Articles]({{ site.baseurl }}{% link articles/synthesis/index.md %})
-
-### Knowledge
-
-- [Books]({{ site.baseurl }}{% link knowledge/books/index.md %})
-- [Syntheses]({{ site.baseurl }}{% link knowledge/syntheses/index.md %})
-- [Concepts]({{ site.baseurl }}{% link knowledge/concepts/index.md %})
-- [Events]({{ site.baseurl }}{% link knowledge/events/index.md %})
-- [Reports]({{ site.baseurl }}{% link knowledge/reports/index.md %})
-
-### Research
-
-- [Research Landing Page]({{ site.baseurl }}{% link research/index.md %})
-- [Research Index]({{ site.baseurl }}{% link knowledge/research/index.md %})
-- [Bret Weinstein]({{ site.baseurl }}{% link knowledge/research/bret-weinstein/index.md %})
-- [Chris Martenson]({{ site.baseurl }}{% link knowledge/research/chris-martenson/index.md %})
-- [Jiang Xueqin]({{ site.baseurl }}{% link knowledge/research/jiang-xueqin/index.md %})
-- [Macroeconomics]({{ site.baseurl }}{% link knowledge/research/macroeconomics/index.md %})
-- [Michael Yon]({{ site.baseurl }}{% link knowledge/research/michael-yon/index.md %})
-- [Mises]({{ site.baseurl }}{% link knowledge/research/mises/index.md %})
-- [Salatin]({{ site.baseurl }}{% link knowledge/research/salatin/index.md %})
-- [Yaakov Shapiro]({{ site.baseurl }}{% link knowledge/research/yaakov-shapiro/index.md %})
+A local-first research and writing workspace — podcast notes, book analysis, concept entries, and long-form synthesis.
 
 ---
 
 ## Recently Added
 
-These sections update automatically from the repository so a returning visitor can quickly see what changed.
+*The 12 most recently created files across the knowledge base, newest first.*
 
-### Recent Research Notes
+{% assign all_pages = site.pages | concat: site.documents
+  | where_exp: "p", "p.path contains '.md'"
+  | where_exp: "p", "p.created"
+  | where_exp: "p", "p.path contains 'knowledge/'"
+  | sort_natural: "created"
+  | reverse %}
+{% assign synth_recent = site.pages
+  | where_exp: "p", "p.path contains 'articles/synthesis/'"
+  | where_exp: "p", "p.path contains '.md'"
+  | where_exp: "p", "p.created"
+  | sort_natural: "created"
+  | reverse %}
+{% assign combined = all_pages | concat: synth_recent | sort_natural: "created" | reverse %}
+{% assign shown = 0 %}
+{% for page in combined %}
+{% if shown < 12 %}
+{% unless page.path contains '/index.md' or page.path contains 'README' %}
+- [{{ page.title | default: page.name }}]({{ page.url | relative_url }}) <small>{{ page.created }}</small>
+{% assign shown = shown | plus: 1 %}
+{% endunless %}
+{% endif %}
+{% endfor %}
 
-{% assign research_pages = site.pages | where_exp: "p", "p.path contains 'knowledge/research/'" | where_exp: "p", "p.path contains '.md'" | sort: "path" | reverse %}
-{% for page in research_pages limit: 8 %}
+---
+
+## Long-Form Synthesis
+
+Structured explainers on specific topics — each one is a standalone deep dive.
+
+{% assign synth_pages = site.pages | where_exp: "p", "p.path contains 'articles/synthesis/'" | where_exp: "p", "p.path contains '.md'" | sort_natural: "created" | reverse %}
+{% for page in synth_pages %}
 {% unless page.path contains '/index.md' %}
-- [{{ page.title | default: page.name }}]({{ page.url | prepend: site.baseurl }})
+- [{{ page.title | default: page.name }}]({{ page.url | relative_url }})
 {% endunless %}
 {% endfor %}
 
-### Recent Published Articles
+---
 
-{% assign published_pages = site.pages | where_exp: "p", "p.path contains 'articles/published/'" | where_exp: "p", "p.path contains '.md'" | sort: "path" | reverse %}
-{% for page in published_pages limit: 8 %}
-{% unless page.path contains '/index.md' %}
-- [{{ page.title | default: page.name }}]({{ page.url | prepend: site.baseurl }})
+## Research Notes by Source
+
+Notes from interviews, podcasts, and conversations — organized by who is speaking.
+
+| Source | Focus |
+|---|---|
+| [Michael Yon]({{ site.baseurl }}{% link knowledge/research/michael-yon/index.md %}) | Migration, 5GW, geopolitics |
+| [Chris Martenson]({{ site.baseurl }}{% link knowledge/research/chris-martenson/index.md %}) | Energy, gold, inflation |
+| [Bret Weinstein]({{ site.baseurl }}{% link knowledge/research/bret-weinstein/index.md %}) | Biology, COVID, migration |
+| [Yaakov Shapiro]({{ site.baseurl }}{% link knowledge/research/yaakov-shapiro/index.md %}) | Judaism, Zionism, theology |
+| [Dave DeCamp]({{ site.baseurl }}{% link knowledge/research/dave-decamp/index.md %}) | Wars, foreign policy |
+| [Scott Horton]({{ site.baseurl }}{% link knowledge/research/scott-horton/index.md %}) | Economics, libertarianism |
+| [Jiang Xueqin]({{ site.baseurl }}{% link knowledge/research/jiang-xueqin/index.md %}) | China, education |
+| [Mises / Austrian]({{ site.baseurl }}{% link knowledge/research/mises/index.md %}) | Economic theory |
+| [Joel Salatin]({{ site.baseurl }}{% link knowledge/research/salatin/index.md %}) | Agriculture, regulation |
+| [Macroeconomics]({{ site.baseurl }}{% link knowledge/research/macroeconomics/index.md %}) | Debt, oil, yields |
+
+---
+
+## Concepts & Frameworks
+
+Reusable ideas that show up across multiple topics — doctrines, mechanisms, and recurring patterns.
+
+{% assign concept_pages = site.pages | where_exp: "p", "p.path contains 'knowledge/concepts/'" | where_exp: "p", "p.path contains '.md'" | sort: "title" %}
+{% for page in concept_pages %}
+{% unless page.path contains '/index.md' or page.path contains 'README' %}
+- [{{ page.title | default: page.name }}]({{ page.url | relative_url }})
 {% endunless %}
 {% endfor %}
 
-### Recent Concepts
+---
 
-{% assign concept_pages = site.pages | where_exp: "p", "p.path contains 'knowledge/concepts/'" | where_exp: "p", "p.path contains '.md'" | sort: "path" | reverse %}
-{% for page in concept_pages limit: 6 %}
-{% unless page.path contains '/index.md' %}
-- [{{ page.title | default: page.name }}]({{ page.url | prepend: site.baseurl }})
+## Events & Episodes
+
+Specific historical events with dedicated entries.
+
+{% assign event_pages = site.pages | where_exp: "p", "p.path contains 'knowledge/events/'" | where_exp: "p", "p.path contains '.md'" | sort: "title" %}
+{% for page in event_pages %}
+{% unless page.path contains '/index.md' or page.path contains 'README' %}
+- [{{ page.title | default: page.name }}]({{ page.url | relative_url }})
 {% endunless %}
 {% endfor %}
 
-### Recent Ideas / Drafts
+---
 
-{% assign ideas_pages = site.pages | where_exp: "p", "p.path contains 'articles/ideas/'" | where_exp: "p", "p.path contains '.md'" | sort: "path" | reverse %}
-{% for page in ideas_pages limit: 6 %}
-{% unless page.path contains '/index.md' %}
-- [{{ page.title | default: page.name }}]({{ page.url | prepend: site.baseurl }})
+## Books
+
+Notes and summaries on books read.
+
+{% assign book_pages = site.pages | where_exp: "p", "p.path contains 'knowledge/books/'" | where_exp: "p", "p.path contains '.md'" | sort: "title" %}
+{% for page in book_pages %}
+{% unless page.path contains '/index.md' or page.path contains 'README' or page.path contains '.md/' %}
+- [{{ page.title | default: page.name }}]({{ page.url | relative_url }})
 {% endunless %}
 {% endfor %}
 
-### Recent Syntheses
+---
 
-{% assign synth_pages = site.pages | where_exp: "p", "p.path contains 'knowledge/syntheses/'" | where_exp: "p", "p.path contains '.md'" | sort: "path" | reverse %}
-{% for page in synth_pages limit: 8 %}
-{% unless page.path contains '/index.md' %}
-- [{{ page.title | default: page.name }}]({{ page.url | prepend: site.baseurl }})
+## Cross-Source Syntheses
+
+Analytical summaries that connect threads across multiple sources.
+
+{% assign ks_pages = site.pages | where_exp: "p", "p.path contains 'knowledge/syntheses/'" | where_exp: "p", "p.path contains '.md'" | sort: "title" %}
+{% for page in ks_pages %}
+{% unless page.path contains '/index.md' or page.path contains 'README' %}
+- [{{ page.title | default: page.name }}]({{ page.url | relative_url }})
 {% endunless %}
 {% endfor %}
 
-### Recent Events
+---
 
-{% assign event_pages = site.pages | where_exp: "p", "p.path contains 'knowledge/events/'" | where_exp: "p", "p.path contains '.md'" | sort: "path" | reverse %}
-{% for page in event_pages limit: 8 %}
-{% unless page.path contains '/index.md' %}
-- [{{ page.title | default: page.name }}]({{ page.url | prepend: site.baseurl }})
+## People & Organizations
+
+Profiles of individuals and institutions that appear across the research.
+
+**People** — [{{ site.baseurl }}/knowledge/people/]({{ site.baseurl }}/knowledge/people/)
+
+{% assign people_pages = site.pages | where_exp: "p", "p.path contains 'knowledge/people/'" | where_exp: "p", "p.path contains '.md'" | sort: "title" %}
+{% for page in people_pages %}
+{% unless page.path contains '/index.md' or page.path contains 'README' %}
+- [{{ page.title | default: page.name }}]({{ page.url | relative_url }})
 {% endunless %}
 {% endfor %}
 
-### Recent Reports
+**Organizations**
 
-{% assign report_pages = site.pages | where_exp: "p", "p.path contains 'knowledge/reports/'" | where_exp: "p", "p.path contains '.md'" | sort: "path" | reverse %}
-{% for page in report_pages limit: 10 %}
-{% unless page.path contains '/index.md' %}
-- [{{ page.title | default: page.name }}]({{ page.url | prepend: site.baseurl }})
+{% assign org_pages = site.pages | where_exp: "p", "p.path contains 'knowledge/organizations/'" | where_exp: "p", "p.path contains '.md'" | sort: "title" %}
+{% for page in org_pages %}
+{% unless page.path contains '/index.md' or page.path contains 'README' %}
+- [{{ page.title | default: page.name }}]({{ page.url | relative_url }})
+{% endunless %}
+{% endfor %}
+
+---
+
+## Wars & Strategy
+
+{% assign war_pages = site.pages | where_exp: "p", "p.path contains 'knowledge/wars/'" | where_exp: "p", "p.path contains '.md'" | sort: "title" %}
+{% for page in war_pages %}
+{% unless page.path contains '/index.md' or page.path contains 'README' %}
+- [{{ page.title | default: page.name }}]({{ page.url | relative_url }})
+{% endunless %}
+{% endfor %}
+
+---
+
+## Ideas & Drafts
+
+Works in progress and early-stage writing.
+
+{% assign idea_pages = site.pages | where_exp: "p", "p.path contains 'articles/ideas/'" | where_exp: "p", "p.path contains '.md'" | sort_natural: "created" | reverse %}
+{% for page in idea_pages %}
+{% unless page.path contains '/index.md' or page.path contains 'README' %}
+- [{{ page.title | default: page.name }}]({{ page.url | relative_url }})
 {% endunless %}
 {% endfor %}

@@ -1,6 +1,6 @@
 ---
 title: "The Ghost of South Karana: How a Flying Horse Broke a Thousand Trackers' Hearts"
-date: 2026-08-16
+created: 2026-08-16
 category: "EverQuest"
 tags:
   - everquest

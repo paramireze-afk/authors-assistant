@@ -1,5 +1,5 @@
 ---
-title: "The Vault That Ate Its Own Keys: Howling Stones and EverQuest's Cruelest Corpse Run"
+title: "[Everquest] The Vault That Ate Its Own Keys: Howling Stones and EverQuest's Cruelest Corpse Run"
 created: 2026-08-16
 category: "EverQuest"
 tags:

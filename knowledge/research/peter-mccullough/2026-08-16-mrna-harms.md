@@ -1,6 +1,6 @@
 ---
 title: "The IgG4 Hypothesis: Investigating a Proposed Link Between mRNA Persistence, Antibody Class Switching, and Chronic Disease"
-date: 2026-08-17
+created: 2026-08-17
 category: health
 tags:
   - covid-19

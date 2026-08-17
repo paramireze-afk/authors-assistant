@@ -28,17 +28,23 @@ A local-first research and writing workspace — podcast notes, book analysis, c
   | reverse %}
 {% assign combined = all_pages | concat: synth_recent | sort_natural: "created" | reverse %}
 
-| Title | Date |
-|---|---|
-{% assign shown = 0 %}
-{% for page in combined %}
-{% if shown < 12 %}
-{% unless page.path contains '/index.md' or page.path contains 'README' %}
-| [{{ page.title | default: page.name | truncatewords: 12, "" }}]({{ page.url | relative_url }}) | {{ page.created }} |
-{% assign shown = shown | plus: 1 %}
-{% endunless %}
-{% endif %}
-{% endfor %}
+<table>
+  <thead><tr><th>Title</th><th>Date</th></tr></thead>
+  <tbody>
+  {% assign shown = 0 %}
+  {% for page in combined %}
+  {% if shown < 12 %}
+  {% unless page.path contains '/index.md' or page.path contains 'README' %}
+    <tr>
+      <td><a href="{{ page.url | relative_url }}">{{ page.title | default: page.name | truncatewords: 12, "…" }}</a></td>
+      <td>{{ page.created }}</td>
+    </tr>
+    {% assign shown = shown | plus: 1 %}
+  {% endunless %}
+  {% endif %}
+  {% endfor %}
+  </tbody>
+</table>
 
 ---
 

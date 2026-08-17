@@ -27,11 +27,14 @@ A local-first research and writing workspace — podcast notes, book analysis, c
   | sort_natural: "created"
   | reverse %}
 {% assign combined = all_pages | concat: synth_recent | sort_natural: "created" | reverse %}
+
+| Title | Date |
+|---|---|
 {% assign shown = 0 %}
 {% for page in combined %}
 {% if shown < 12 %}
 {% unless page.path contains '/index.md' or page.path contains 'README' %}
-- [{{ page.title | default: page.name }}]({{ page.url | relative_url }}) <small>{{ page.created }}</small>
+| [{{ page.title | default: page.name | truncatewords: 12, "" }}]({{ page.url | relative_url }}) | {{ page.created }} |
 {% assign shown = shown | plus: 1 %}
 {% endunless %}
 {% endif %}

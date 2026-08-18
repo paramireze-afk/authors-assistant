@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The White Fibrous Clots: Inside the Case Embalmers and Independent Researchers Are Making"
-date: 2026-08-17
+created: 2026-08-17
 categories:
   - COVID-19
   - Medicine

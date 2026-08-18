@@ -36,6 +36,7 @@ topics:
   - cancer hypothesis
   - autoimmune disease
 status: complete
+description: "Research notes on the IgG4 hypothesis — the proposed mechanism linking repeated mRNA exposure to antibody class switching toward a tolerizing response and potential chronic immune dysregulation."
 ---
 
 # The IgG4 Hypothesis: Investigating a Proposed Link Between mRNA Persistence, Antibody Class Switching, and Chronic Disease

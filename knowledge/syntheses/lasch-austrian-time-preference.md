@@ -43,6 +43,7 @@ claim_boundaries:
   strongest_supported_form: "Monetary instability may reinforce already-compressed planning horizons and weakened confidence in deferred rewards."
   unsupported_form: "Monetary instability caused the emergence of the narcissistic personality described by Lasch."
 created: 2026-08-03
+description: "Cross-source synthesis connecting Christopher Lasch's cultural critique of narcissism to the Austrian economics concept of time preference — how monetary instability compresses long-horizon thinking."
 ---
 
 # Monetary Instability and Time-Horizon Compression

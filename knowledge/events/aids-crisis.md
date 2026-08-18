@@ -46,6 +46,7 @@ summary: >
   An overview of the major figures, arguments, institutions, and historical
   development of the AIDS dissident movement. Serves as an entry point to
   more detailed articles on individual people, concepts, and events.
+description: "Entry on the AIDS dissident movement — the scientists and physicians who challenged the HIV-causes-AIDS consensus, their arguments, and how the mainstream medical community responded."
 ---
 
 # The Duesberg Hypothesis and Its World: An Intellectual History of AIDS Dissidence

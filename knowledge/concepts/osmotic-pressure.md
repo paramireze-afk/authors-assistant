@@ -59,6 +59,7 @@ claims:
     - metaphor
   framing: source-documentation
 created: 2026-08-03
+description: "Reference entry on osmotic pressure in biology and social systems — how concentration gradients drive movement and how the metaphor applies to migration and demographic pressure."
 ---
 
 # Human Osmotic Pressure

@@ -2,6 +2,7 @@
 layout: default
 title: "Behavioral Patterns"
 created: 2026-08-03
+description: "Analysis of behavioral patterns attributed to Erika Kirk — recurring behaviors documented across sources and their significance to the broader investigative framework."
 ---
 
 # Behavioral Patterns

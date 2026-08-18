@@ -60,6 +60,7 @@ claims:
   notes:
     - "Sections explicitly distinguish data-driven claims from speculation and opinion."
 created: 2026-08-03
+description: "Research notes on the Strait of Hormuz as an energy chokepoint — the scenarios for an oil supply shock and the inflation and debt dynamics that would follow."
 ---
 
 # Notes: Strait of Hormuz, Oil Supply Shock, and Energy-Driven Inflation

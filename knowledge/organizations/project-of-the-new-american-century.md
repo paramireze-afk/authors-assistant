@@ -2,6 +2,7 @@
 layout: default
 title: "The Project for the New American Century (PNAC)"
 created: 2026-08-03
+description: "Reference entry on PNAC — the neoconservative think tank whose 2000 manifesto called for U.S. military dominance and whose signatories shaped the post-9/11 foreign policy agenda."
 ---
 
 # The Project for the New American Century (PNAC)

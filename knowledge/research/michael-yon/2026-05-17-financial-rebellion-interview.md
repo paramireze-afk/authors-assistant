@@ -66,6 +66,7 @@ claims:
     - speculation
   framing: source-documentation
 created: 2026-08-03
+description: "Research notes on Michael Yon's discussion of US-China trade war dynamics, strategic chokepoints, and the broader economic warfare dimension of the conflict."
 ---
 
 # Michael Yon: US-China Trade War Interview Reference (Financial Rebellion)

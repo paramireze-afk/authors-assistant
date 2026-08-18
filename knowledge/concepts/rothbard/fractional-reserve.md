@@ -51,6 +51,7 @@ influenced_by:
 
 created: 2026-07-31
 updated: 2026-07-31
+description: "Reference entry on fractional reserve banking — how banks create money through lending, the multiplication effect, and Rothbard's argument that the practice constitutes fraud."
 ---
 
 # Murray Rothbard and Fractional Reserve Banking

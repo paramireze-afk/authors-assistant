@@ -43,6 +43,7 @@ related:
   - ascendancy
   - raraku
 spoilers: full-series
+description: "Character study of Quick Ben from the Malazan Book of the Fallen — his power, his secrecy, his loyalty to Kalam, and the philosophical weight the series places on deliberate concealment."
 ---
 
 # Quick Ben: Power, Secrecy, and the Art of Having Another Plan

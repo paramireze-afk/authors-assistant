@@ -2,6 +2,7 @@
 layout: default
 title: "Turning Point USA (TPUSA)"
 created: 2026-08-03
+description: "Reference entry on Turning Point USA — its founding, funding sources, leadership structure, controversies, and its function in the conservative campus and media ecosystem."
 ---
 
 # Turning Point USA (TPUSA)

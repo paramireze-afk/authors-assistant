@@ -2,6 +2,7 @@
 layout: default
 title: "Robert F Kennedy Jr"
 created: 2026-08-03
+description: "Profile of Robert F. Kennedy Jr. — his environmental law career, his vaccine safety advocacy, his 2024 presidential run, and his appointment as HHS Secretary."
 ---
 
 I am building a Markdown-based knowledge base for a long-term writing project.

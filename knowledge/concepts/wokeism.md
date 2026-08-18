@@ -24,6 +24,7 @@ related:
 sources:
   - Woke, Inc. - Vivek Ramaswamy
 created: 2026-08-03
+description: "Reference entry on wokeism as a political and cultural phenomenon — its origins in social justice activism, its institutionalization in corporations and universities, and the backlash it generated."
 ---
 
 # Wokeism

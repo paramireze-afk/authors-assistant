@@ -32,6 +32,7 @@ related:
   - narrative-management
 
 sources: []
+description: "Analysis of the information environment surrounding Charlie Kirk — the psychological operations framing, the media ecosystem, and the sources shaping public perception of him."
 ---
 
 

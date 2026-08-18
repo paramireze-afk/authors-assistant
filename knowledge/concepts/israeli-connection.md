@@ -8,6 +8,7 @@ related_people: [benjamin-netanyahu, bill-ackman, robert-shillman, josh-hammer, 
 related_organizations: [tpusa, david-horowitz-freedom-center, israel365-action, american-freedom-alliance, newsmax, urban-legend, prager-u]
 related_evidence: [text-messages]
 created: 2026-08-03
+description: "Reference entry on the documented relationships between Israel, pro-Israel donor networks, and the TPUSA ecosystem — speakers, funding, and policy alignment."
 ---
 
 # Israel, Pro-Israel Advocacy, and the TPUSA Ecosystem

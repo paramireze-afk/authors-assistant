@@ -73,6 +73,7 @@ claims:
     - speculation
   framing: source-documentation
 created: 2026-08-03
+description: "Research notes on Michael Yon's reporting on birth refugees, the midwifery movement, and the medical distrust driving some Americans to seek alternative birth settings."
 ---
 
 # Michael & Msako Yon: Birth Refugee, Midwifery, and Medical Distrust Reference

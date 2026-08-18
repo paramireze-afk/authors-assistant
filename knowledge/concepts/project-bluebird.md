@@ -26,6 +26,7 @@ sources:
   - John Marks - The Search for the Manchurian Candidate
   - Stephen Kinzer - The Poisoner in Chief
   - Alfred McCoy - A Question of Torture
+description: "Reference entry on Project BLUEBIRD — the early CIA mind-control research program that preceded Artichoke and MK-Ultra, focused on hypnotic interrogation and behavior modification."
 ---
 
 # Project BLUEBIRD: A Comprehensive Research Overview

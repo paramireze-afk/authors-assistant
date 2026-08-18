@@ -24,6 +24,7 @@ source-policy: "Reconstructed from congressional testimony, FOIA-released emails
 status: living-document
 last-updated: 2026-07-29
 created: 2026-08-03
+description: "Profile of Anthony Fauci — his tenure at NIAID, his management of HIV/AIDS and COVID-19 research, his relationships with pharmaceutical partners, and the case made against him by critics."
 ---
 
 # Anthony Fauci

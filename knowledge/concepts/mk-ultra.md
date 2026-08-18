@@ -36,6 +36,7 @@ sources:
   - John Marks - The Search for the Manchurian Candidate
   - Stephen Kinzer - Poisoner in Chief
   - Tom O'Neill - CHAOS
+description: "Reference entry on MK-Ultra — the CIA's covert human experimentation program using LSD, hypnosis, and psychological torture to research mind control from 1953 to 1973."
 ---
 
 ## Research Status

@@ -7,6 +7,7 @@ tags: [economics, federal-reserve, usury, fiat-money, fractional-reserve-banking
 type: concept
 status: reference
 created: 2026-08-03
+description: "Reference entry on usury — the historical prohibition on interest-bearing loans in Christianity and Islam, its theological basis, and its gradual disappearance as capitalism developed."
 ---
 
 # Usury

@@ -73,6 +73,7 @@ tags:
   - asset-bubbles
   - financial-crisis
   - quantitative-easing
+description: "Notes on Richard Werner's account of how the Bank of Japan's window guidance policy deliberately engineered Japan's bubble economy and the deflation that followed."
 ---
 
 

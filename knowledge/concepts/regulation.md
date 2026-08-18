@@ -5,6 +5,7 @@ status: living-document
 tags: [regulation, public-policy, economics, administrative-law, public-choice, institutions, political-philosophy]
 related: [everything-i-want-to-do-is-illegal.md, scale-appropriate-regulation.md, regulatory-capture.md, right-of-contract.md]
 created: 2026-08-03
+description: "Reference entry on regulation as a political economy phenomenon — how rules get written, who shapes them, and the structural tendency for industries to capture their own regulators."
 ---
 
 # Regulation

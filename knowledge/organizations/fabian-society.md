@@ -41,6 +41,7 @@ tags:
   - institutional-infiltration
   - nesta-webster
 created: 2026-08-03
+description: "Reference entry on the Fabian Society — the British socialist organization that advocated for gradual, institutional reform over revolution, and its long influence on Labour politics."
 ---
 
 # The Fabian Society, per Nesta Webster

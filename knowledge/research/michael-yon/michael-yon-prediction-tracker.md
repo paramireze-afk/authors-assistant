@@ -62,6 +62,7 @@ claims:
     - speculation
   framing: source-documentation
 created: 2026-08-03
+description: "A running tracker of Michael Yon's specific predictions — what he has said, when, and whether subsequent events confirmed, contradicted, or left his claims unresolved."
 ---
 
 # Michael Yon: Prediction Tracking Log

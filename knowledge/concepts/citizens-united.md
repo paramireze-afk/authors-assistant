@@ -86,7 +86,7 @@ sources:
   - Lucian Bebchuk & Roberto Tallarita, The Illusory Promise of Stakeholder Governance
   - Vivek Ramaswamy, Woke, Inc. (2021)
   - Anand Giridharadas, Winners Take All (2018)
-
+description: "Reference entry on stakeholder capitalism — the model arguing corporations owe obligations to employees, communities, and society, not only shareholders."
 ---
 
 # Did a Supreme Court Case About a Hillary Clinton Documentary Give Us "Woke" Corporations?

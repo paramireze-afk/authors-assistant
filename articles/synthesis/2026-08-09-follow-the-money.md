@@ -78,6 +78,7 @@ tags:
   - george-hw-bush
   - sheldon-adelson
   - thomas-massie
+description: "How pro-Israel political money actually moves in American elections — PACs, bundlers, AIPAC's structure, and what the spending patterns show about institutional influence."
 ---
 
 # Follow the Money: How Pro-Israel Political Spending Actually Works in American Elections

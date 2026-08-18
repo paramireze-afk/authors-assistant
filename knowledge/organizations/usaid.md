@@ -69,6 +69,7 @@ time_period:
   start: 2001
   end: 2023
 created: 2026-08-03
+description: "Reference entry on USAID in Afghanistan — the agency's role in reconstruction, the documented waste and fraud, and the SIGAR findings on what the money actually built."
 ---
 
 # USAID in Afghanistan: A Cross-Source Synthesis

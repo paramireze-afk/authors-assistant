@@ -90,6 +90,7 @@ tags:
   - market-manipulation
   - information-campaigns
   - corporate-investigations
+description: "The story of Bill Ackman's billion-dollar public short against Herbalife, the multi-level marketing giant he called a pyramid scheme, and the long, strange fight that followed."
 ---
 
 # The Billion-Dollar Short: Bill Ackman's War on Herbalife

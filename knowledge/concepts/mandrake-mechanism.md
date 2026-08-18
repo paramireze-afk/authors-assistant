@@ -13,6 +13,7 @@ related:
   - fractional-reserve-banking
 aliases:
   - Mandrake Mechanism
+description: "Reference entry on the Mandrake Mechanism — G. Edward Griffin's description of how the Federal Reserve creates money from debt, as argued in The Creature from Jekyll Island."
 ---
 
 # Mandrake Mechanism

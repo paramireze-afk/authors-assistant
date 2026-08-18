@@ -5,6 +5,7 @@ author: Robert F. Kennedy Jr.
 published: 2021
 related-people: [[Robert F. Kennedy Jr.]]
 created: 2026-08-03
+description: "Notes on Robert F. Kennedy Jr.'s critical account of Anthony Fauci's leadership of NIAID, his relationships with pharmaceutical industry partners, and his handling of COVID-19 and AIDS."
 ---
 
 # The Real Anthony Fauci: Bill Gates, Big Pharma, and the Global War on Democracy and Public Health (2021)

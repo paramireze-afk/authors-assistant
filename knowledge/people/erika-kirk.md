@@ -29,6 +29,7 @@ related_topics:
   - TPUSA Form 990 filing irregularities
 status: draft
 created: 2026-08-03
+description: "Profile of Erika Kirk (née Frantzve) — Charlie Kirk's wife, her background, her Israel trip, the circumstances of their meeting, and the interpretive theories around her role."
 ---
 
 # Erika Kirk (née Frantzve)

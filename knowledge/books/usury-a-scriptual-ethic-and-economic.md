@@ -8,6 +8,7 @@ status: reference
 related: ["The Creature from Jekyll Island", "The Bank of England", "The Federal Reserve System", "The Rothschild Formula", "Usury"]
 source_note: "Digitized copy via Internet Archive (archive.org/details/usuryscripturale00ellirich); 306 pages, 39 chapters plus index."
 created: 2026-08-03
+description: "Notes on John T. Noonan Jr.'s history of the Christian prohibition on usury — its scriptural basis, its enforcement across centuries, and its gradual dissolution."
 ---
 
 # Usury: A Scriptural, Ethical and Economic View — Knowledge Base

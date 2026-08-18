@@ -28,6 +28,7 @@ related:
   - research/chris-martenson/yen-carry-trade.md
   - research/chris-martenson/gold-silver-paper-vs-physical.md
   - research/chris-martenson/strait-of-hormuz-conflict-timeline.md
+description: "Research notes on Chris Martenson's analysis of how the Iran war, oil futures manipulation, and refinery constraints are feeding into broader inflation dynamics."
 ---
 
 # Energy Shock: How the Iran War, Oil Futures Manipulation, and Refinery Constraints Feed Inflation

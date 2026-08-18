@@ -16,6 +16,7 @@ themes:
   - ukraine-russia
   - press-freedom
   - military-overstretch
+description: "Research notes on Dave DeCamp's reporting on a week of American war activity — the near-strikes, the standing-downs, and the pattern of escalation management in the Middle East."
 ---
 
 # Locked and Loaded, Then Standing Down

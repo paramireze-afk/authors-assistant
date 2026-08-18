@@ -26,6 +26,7 @@ related:
   - unrestricted-warfare
   - netwar
 created: 2026-08-03
+description: "Reference entry on fifth-generation warfare — conflict conducted through information, perception, culture, and institutional manipulation rather than conventional military force."
 ---
 
 # Fifth Generation Warfare (5GW): Knowledge Base

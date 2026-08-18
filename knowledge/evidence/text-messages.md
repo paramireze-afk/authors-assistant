@@ -2,6 +2,7 @@
 layout: default
 title: "Text Messages: Robinson-Twiggs Exchange"
 created: 2026-08-03
+description: "Evidence entry on the Robinson-Twiggs text message exchange — what the messages show, their context, and how they are used in arguments about foreknowledge or coordination."
 ---
 
 # Text Messages: Robinson-Twiggs Exchange

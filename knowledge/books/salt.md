@@ -18,6 +18,7 @@ tags:
   - trade
   - state-power
   - technological-change
+description: "Notes on Mark Kurlansky's history of salt as a driver of trade, warfare, preservation technology, and political economy across civilizations."
 ---
 
 # The Rock That Ran the World

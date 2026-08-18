@@ -12,6 +12,7 @@ related_organizations: [dfcm-utah, hardscape-utah]
 related_concepts: [explosive-device, explosive-residue-theory]
 related_people: [andy-mar, matt-bowyer, guy-wayman, tim-christensen, terryl-farnsworth]
 created: 2026-08-03
+description: "Entry on the paving of the UVU crime scene — the timeline, what was destroyed, the official explanations, and why critics argue it compromised the shooting investigation."
 ---
 
 # The Paving of the UVU Crime Scene

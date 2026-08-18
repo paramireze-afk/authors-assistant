@@ -2,6 +2,7 @@
 layout: default
 title: "ATF Report and Forensic Findings"
 created: 2026-08-03
+description: "Evidence entry summarizing the ATF report and forensic findings from the Charlie Kirk shooting — ballistics, weapon identification, and the contested conclusions."
 ---
 
 # ATF Report and Forensic Findings

@@ -56,7 +56,7 @@ sources:
   - Lucian Bebchuk & Roberto Tallarita, *The Illusory Promise of Stakeholder Governance*
   - Vivek Ramaswamy, *Woke, Inc.*
   - Anand Giridharadas, *Winners Take All*
-
+description: "Reference entry on shareholder primacy capitalism — the Milton Friedman doctrine that corporations exist to maximize returns to shareholders, and the critiques it has attracted."
 ---
 
 

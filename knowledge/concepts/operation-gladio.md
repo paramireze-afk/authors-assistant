@@ -2,6 +2,7 @@
 layout: default
 title: "Operation Gladio"
 created: 2026-08-03
+description: "Reference entry on Operation Gladio — the NATO-sponsored stay-behind network in postwar Europe, its links to terrorism, and what it demonstrates about covert state violence."
 ---
 
 # Operation Gladio

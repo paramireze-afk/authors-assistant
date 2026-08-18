@@ -61,6 +61,7 @@ companion_reports:
 
 created: 2026-07-31
 updated: 2026-07-31
+description: "Reference notes on Mises's economic calculation argument — the claim that rational economic planning is impossible without price signals, and what it implies for socialism."
 ---
 
 # Ludwig von Mises and Economic Calculation

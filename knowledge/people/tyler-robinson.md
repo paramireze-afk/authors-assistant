@@ -19,6 +19,7 @@ related_topics:
   - PCA version anomalies
 status: draft
 created: 2026-08-03
+description: "Profile of Tyler Robinson — a figure connected to the Charlie Kirk shooting investigation, his documented relationships, and his significance to the evidence record."
 ---
 
 # Tyler James Robinson

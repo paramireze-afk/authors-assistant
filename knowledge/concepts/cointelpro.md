@@ -19,6 +19,7 @@ related:
 sources:
   - Church Committee reports and hearings
   - Related FOIA releases and secondary scholarship
+description: "Reference entry on COINTELPRO — the FBI's covert domestic counterintelligence program targeting civil rights groups, socialist organizations, and political dissidents from the 1950s through 1971."
 ---
 
 # COINTELPRO: A Comprehensive Research Overview

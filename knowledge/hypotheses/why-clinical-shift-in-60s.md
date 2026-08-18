@@ -2,6 +2,7 @@
 layout: default
 title: "Hypothesis Report: Institutional Decay and the Betrayal of Dependency"
 created: 2026-08-03
+description: "Hypothesis on why clinical psychiatry shifted from treating neuroses to character disorders in the 1960s — the role of institutional decay, pharmaceutical incentives, and cultural narcissism."
 ---
 
 # Hypothesis Report: Institutional Decay and the Betrayal of Dependency

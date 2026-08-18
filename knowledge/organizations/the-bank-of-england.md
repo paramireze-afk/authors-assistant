@@ -7,6 +7,7 @@ type: organizations
 status: reference
 related: ["The Federal Reserve System", "Usury", "The Mandrake Mechanism"]
 created: 2026-08-03
+description: "Reference entry on the Bank of England — its founding in 1694, its role in financing British wars, and its place in the history of central banking and monetary control."
 ---
 
 # The Bank of England

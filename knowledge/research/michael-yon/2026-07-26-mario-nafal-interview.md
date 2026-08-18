@@ -1,7 +1,3 @@
-# Michael Yon: "Who and Why" — Interview Reference (Mario Nefal)
-
-*Primary source documentation, from an interview between Michael Yon and host Mario Nefal, recorded live, referencing events through late 2026 (Iran-US strikes, Strait of Hormuz traffic). This entry documents the Yon portion only. The transcript's final segment is Mario Nefal's independent solo news recap — a different speaker, sourced to conventional reporting (AP, Reuters, NYT) — and is not documented here as it is not Yon's material.*
-
 ---
 
 ## Track Record Claims: Nord Stream and Related Predictions
@@ -16,7 +12,7 @@ Yon restates and adds detail to his claimed prior predictions:
 **Yon's stated method for these predictions:** he attributes his success to use of a **CARVER matrix** — a target-selection framework he identifies as used in military sabotage/targeting analysis, standing for Criticality, Accessibility, Recuperability, Vulnerability, Effect, and Recognizability. He states he applied this matrix himself to identify Nord Stream and Groningen as top targets, describing this as similar to a process he associates with CIA and Special Forces targeting doctrine.
 
 **Yon's stated evidentiary basis, in his own words:** "We know what they're doing. They say it. They tell people what they're doing" — i.e., he frames these predictions as derived from stated, public intentions rather than hidden or inferred information.
-
+description: "Research notes on Michael Yon's interview with Mario Nafal — his geopolitical framework, predictions, and analysis of active conflict zones."
 ---
 
 ## Grand Strategy vs. Tactics/Strategy: Yon's Analytical Layers

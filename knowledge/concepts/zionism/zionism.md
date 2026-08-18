@@ -36,6 +36,7 @@ related:
   - "Project for the New American Century"
   - "Israel"
 created: 2026-08-03
+description: "Reference entry on Zionism as a political movement — its history from the 1890s through the founding of Israel, its internal divisions, and the debates it continues to generate."
 ---
 
 # Zionism

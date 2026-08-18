@@ -16,7 +16,7 @@ created: 2026-08-01
 updated: 2026-08-01
 scope: "Religion and capital as discussed in the July 1, 2026 Emergency Discussion"
 epistemic_status: "Attributed summary of Jiang Xueqin's claims and interpretations"
-
+description: "Research notes on Jiang Xueqin's analysis of the relationship between religious motivation and capital formation — how belief systems shape economic behavior and elite coordination."
 ---
 
 # Jiang Xueqin on Religion and Capital

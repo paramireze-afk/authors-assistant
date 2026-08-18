@@ -7,6 +7,7 @@ type: concept
 status: reference
 related: ["The Bank of England", "The Federal Reserve System", "Usury"]
 created: 2026-08-03
+description: "Reference entry on the Rothschild Formula as described by G. Edward Griffin — the alleged strategy of financing multiple sides of conflicts to profit from war and expand financial control."
 ---
 
 # The Rothschild Formula

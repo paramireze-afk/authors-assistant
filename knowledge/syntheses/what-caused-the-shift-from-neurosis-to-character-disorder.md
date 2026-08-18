@@ -10,6 +10,7 @@ related:
   - "1-awareness-movement-and-invasion-of-self"
   - "2-narccist-personality-of-our-time"
 created: 2026-08-03
+description: "Cross-source synthesis examining the shift in psychiatric presentation from classical neuroses to diffuse character disorders — institutional, pharmaceutical, and cultural explanations."
 ---
 
 # What Might Have Caused the Shift from Classic Neuroses to Diffuse Character Disorders?

@@ -103,6 +103,7 @@ tags:
   - gaza
   - war-on-terror
   - foreign-policy
+description: "Research notes on Scott Horton's analysis of how the Gaza war and Iran escalation are generating the conditions for the next generation of anti-American terrorism."
 ---
 
 # The Next Bin Laden: How Gaza and Iran Are Reseeding the War on Terror

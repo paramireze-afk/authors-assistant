@@ -66,6 +66,7 @@ notes:
   - "Reference extraction of the book's arguments, concepts, terminology, case studies, and proposed solutions."
   - "Intended as a reusable source document rather than a book review or critique."
 created: 2026-08-03
+description: "Notes on Vivek Ramaswamy's argument that corporate social justice commitments function as a shield for concentrated economic power rather than genuine moral progress."
 ---
 
 # Woke, Inc. (Vivek Ramaswamy) — Reference Knowledge Base

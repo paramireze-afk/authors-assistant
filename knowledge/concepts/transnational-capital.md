@@ -53,6 +53,7 @@ related:
   - concepts/institutional-investors.md
   - concepts/national-sovereignty.md
   - concepts/emergent-vs-coordinated-systems.md
+description: "Reference entry on transnational capitalism — the theory that a global capitalist class has emerged whose interests are no longer tied to any single nation-state."
 ---
 
 

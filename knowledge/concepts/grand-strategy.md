@@ -57,6 +57,7 @@ claims:
     - prediction
   framing: source-documentation
 created: 2026-08-03
+description: "Reference entry on grand strategy — the long-horizon coordination of military, economic, diplomatic, and informational power toward durable national or imperial objectives."
 ---
 
 # Grand Strategy

@@ -25,6 +25,7 @@ related:
 
 sources:
   - Charlie Bot
+description: "Profile of Blake Neff — Tucker Carlson's head writer, his departure following exposure of his online racist posts, and what his case reveals about Fox News's content operation."
 ---
 
 # Blake Neff

@@ -30,6 +30,7 @@ sources:
   - Murray Rothbard, The Case Against the Fed
   - Ludwig von Mises, Human Action
 created: 2026-08-03
+description: "Reference entry on Austrian Business Cycle Theory as formulated by Mises and Rothbard — how artificially low interest rates create malinvestment booms that inevitably collapse."
 ---
 
 # Murray Rothbard and the Austrian Theory of the Business Cycle

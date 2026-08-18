@@ -41,6 +41,7 @@ tags:
   - debt
   - federal-reserve
 created: 2026-08-03
+description: "Research notes on the US debt trap — how rising Treasury yields interact with deficit spending to create a potential debt spiral with 1970s-style parallels."
 ---
 
 

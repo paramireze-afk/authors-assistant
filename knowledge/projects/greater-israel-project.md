@@ -32,6 +32,7 @@ related:
   - "Benjamin Netanyahu"
   - "Regime Change"
 created: 2026-08-03
+description: "Reference entry on the Greater Israel Project thesis — its origins in Oded Yinon's 1982 strategy paper, its popularization by Michel Chossudovsky, and an assessment of the evidence for and against it."
 ---
 
 

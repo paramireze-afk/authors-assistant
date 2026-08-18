@@ -74,6 +74,7 @@ related:
   - research/migration/darien-gap-migration-route.md
   - research/organizations/international-organization-for-migration.md
   - research/china/belt-and-road-initiative.md
+description: "Research notes on Bret Weinstein's hypothesis that China has deliberately facilitated migration through the Darién Gap as a form of asymmetric warfare against the United States."
 ---
 
 # Darién Gap Migration and the China Hypothesis: Bret Weinstein Interview

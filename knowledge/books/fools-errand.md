@@ -77,6 +77,7 @@ aliases:
 time_period:
   start: 1979
   end: 2021
+description: "Notes on Scott Horton's case for ending the war in Afghanistan — the history of U.S. involvement, the warlord economy it created, and why the mission was unwinnable from the start."
 ---
 
 # Fool's Errand: Time to End the War in Afghanistan

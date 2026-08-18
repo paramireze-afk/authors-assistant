@@ -97,6 +97,7 @@ tags:
   - antitrust
   - corporate-incentives
   - alternative-fuels
+description: "The argument that Prohibition was as much a fight over industrial alcohol and fuel competition as a moral crusade — and what that reframe reveals about who backed it."
 ---
 
 # The Forgotten Fuel War: Alcohol, Gasoline, and the Prohibition Question

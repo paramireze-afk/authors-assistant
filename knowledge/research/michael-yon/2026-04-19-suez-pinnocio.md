@@ -1,13 +1,9 @@
-# Michael Yon: Suez, "Pinocchio," and Grand Strategy Reference
-
-*Primary source documentation, from a video interview dated by content to April 19, 2026, with a host whose channel appears (based on an embedded sponsor link referencing "adapt2030") to be Adapt 2030, a channel associated with "grand solar minimum" climate theory. This entry documents Yon's statements; the host's own contributions are attributed separately where distinguishable, and a sponsor advertisement segment (Vizla Copper, roughly minutes 4:35–7:19) has been excluded entirely as it is neither Yon's nor the host's independent content.*
-
 ---
 
 ## Opening Framing (Cold Open)
 
 The transcript opens with lines later repeated in the body of the interview: Yon describes the current conflict as "a war for the planet," an "old war" dating to "biblical days." He connects this to a claim that global food production is being deliberately curtailed ("shutting out the lights"), using the metaphor of musical chairs — insufficient "caloric chairs" once "the music stops." He raises a climate-cyclical theory (desertification of formerly forested regions) as a possible contributing factor or convenient "excuse" for reduced crop yields, and lists several European locations (Norway, Sweden, Denmark, Hamburg, Rotterdam, Antwerp) he states he visited specifically because he expects each to be targeted or affected.
-
+description: "Research notes on Michael Yon's Suez-Pinocchio framework — his argument mapping the Pinocchio State lifecycle onto Israel's strategic position relative to US foreign policy."
 ---
 
 ## Track Record and Background (Host's Framing)

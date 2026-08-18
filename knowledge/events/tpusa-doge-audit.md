@@ -7,6 +7,7 @@ last_updated: 2026-07-28
 related_events: [aspen-donor-retreat, charlie-kirk-shooting]
 related_organizations: [turning-point-usa, tpusa-faith]
 created: 2026-08-03
+description: "Pointer entry on the TPUSA DOGE audit — the Department of Government Efficiency inquiry into TPUSA's federal funding and the public documents it produced."
 ---
 
 # TPUSA DOGE Audit

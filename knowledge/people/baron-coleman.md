@@ -24,6 +24,7 @@ related:
 
 sources:
   - Charlie Bot
+description: "Profile of Baron Coleman — the investigator and commentator whose research into the Charlie Kirk shooting and TPUSA has been a primary source for the investigative thread."
 ---
 
 # Baron Coleman

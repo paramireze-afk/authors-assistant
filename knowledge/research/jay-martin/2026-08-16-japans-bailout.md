@@ -62,6 +62,7 @@ tags:
   - central-banking
   - monetary-policy
   - sovereign-debt
+description: "Research notes on the U.S. currency intervention to support the Japanese yen — why it happened, who authorized it, and what it reveals about dollar system management."
 ---
 
 # Why the U.S. Just Spent Billions Rescuing Japan's Currency — And What It Might Be Telling Us

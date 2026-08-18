@@ -10,6 +10,7 @@ related_people: [charlie-kirk, erika-kirk, tyler-bowyer, robert-shillman, andrew
 related_organizations: [turning-point-usa, american-freedom-alliance]
 related_events: [hamptons-meeting, tpusa-student-action-summit-july-2025, tpusa-doge-audit]
 created: 2026-08-03
+description: "Entry on the August 2025 Aspen donor retreat — what is known about who attended, what was discussed, and its significance as a node in elite conservative donor coordination."
 ---
 
 # The Aspen Donor Retreat (August 2025)

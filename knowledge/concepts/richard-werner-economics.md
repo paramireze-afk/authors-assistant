@@ -89,6 +89,7 @@ tags:
   - community-banking
   - developmental-economics
   - monetary-policy
+description: "Reference entry on Richard Werner's credit-centric economic framework — his quantity theory of credit, his critique of central banking, and how his work relates to Austrian, Keynesian, and Post-Keynesian traditions."
 ---
 
 # Richard Werner's Economic Framework: A Distinct Credit-Centric Approach

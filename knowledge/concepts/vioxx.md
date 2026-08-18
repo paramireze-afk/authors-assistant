@@ -20,6 +20,7 @@ source-policy: "Reconstructed from congressional testimony, FDA and court docume
 status: living-document
 last-updated: 2026-07-29
 created: 2026-08-03
+description: "Reference entry on Vioxx (rofecoxib) — the Merck painkiller withdrawn in 2004 after cardiovascular deaths, the suppressed trial data, and what it demonstrates about pharmaceutical regulatory failure."
 ---
 
 # Vioxx (Rofecoxib)

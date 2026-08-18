@@ -61,6 +61,7 @@ claims:
     - speculation
   framing: "Source documentation"
 created: 2026-08-03
+description: "Research notes on Michael Yon's worldview and depopulation framework — his claim that elite actors are deliberately engineering population reduction through war, famine, and medical intervention."
 ---
 
 

@@ -9,6 +9,7 @@ tags: [character-study, antagonist, manipulation, reputation-management, crisis-
 related_people: [sebastian-valmont, annette-hargrove, cecile-caldwell]
 related_topics: [image-vs-reality, strategic-ambiguity, social-influence]
 created: 2026-08-03
+description: "Character study of Kathryn Merteuil from Cruel Intentions — her manipulation tactics, her power architecture, and what she reveals about predatory social performance."
 ---
 
 # Kathryn Merteuil

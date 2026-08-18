@@ -2,6 +2,7 @@
 layout: default
 title: "Andrew Kolvet"
 created: 2026-08-03
+description: "Profile of Andrew Kolvet — Charlie Kirk's chief of staff, his background, his relationships with key donors and political figures, and his role in TPUSA's internal operations."
 ---
 
 Andrew Kolvet: Reference Document

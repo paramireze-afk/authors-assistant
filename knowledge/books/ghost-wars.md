@@ -52,6 +52,7 @@ related:
 aliases:
   - Ghost Wars
   - The Secret History of the CIA, Afghanistan, and Bin Laden
+description: "Notes on Steve Coll's definitive history of the CIA's involvement in Afghanistan from the Soviet invasion through September 10, 2001, and the covert networks it built and lost."
 ---
 
 # Ghost Wars: The Secret History of the CIA, Afghanistan, and Bin Laden

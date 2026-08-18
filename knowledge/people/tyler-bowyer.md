@@ -32,6 +32,7 @@ related_topics:
   - organizational control
 status: draft
 created: 2026-08-03
+description: "Profile of Tyler Bowyer — TPUSA's chief operating officer, his political background, and his role in Arizona Republican Party operations."
 ---
 
 # Tyler Bowyer

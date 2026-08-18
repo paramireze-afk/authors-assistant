@@ -101,6 +101,7 @@ related:
   - "U.S. Asylum Policy"
   - "Migration and Labor Markets"
   - "Remittances"
+description: "Research notes on Chris Martenson's discussion with Kim Iversen about the Darién Gap migration pipeline — the infrastructure, the facilitation networks, and the geopolitical implications."
 ---
 
 # Source Note: Chris Martenson on His Darién Gap Trip (Kim Iversen Show interview)

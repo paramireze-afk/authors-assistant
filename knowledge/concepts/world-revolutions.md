@@ -26,6 +26,7 @@ tags:
   - conspiracy-theory
   - secret-societies
 created: 2026-08-03
+description: "Reference entry on Nesta Webster's World Revolution thesis — her argument that a continuous revolutionary conspiracy has driven Western upheaval since the Illuminati, and the scholarly context for evaluating it."
 ---
 
 # World Revolution: Nesta Webster's Concept, In Depth

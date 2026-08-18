@@ -38,6 +38,7 @@ related:
   - "Regime Change"
   - "Greater Israel"
 created: 2026-08-03
+description: "Entry on A Clean Break (1996) — the neoconservative strategy paper written for Netanyahu advocating regime change in Iraq and Syria as part of Israeli security doctrine."
 ---
 
 # A Clean Break: A New Strategy for Securing the Realm (1996)

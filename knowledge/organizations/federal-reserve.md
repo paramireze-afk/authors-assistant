@@ -7,6 +7,7 @@ type: organizations
 status: reference
 related: ["Usury"]
 created: 2026-08-03
+description: "Reference entry on the Federal Reserve System — its founding at Jekyll Island, its structure as a hybrid public-private institution, and the Austrian and populist critiques of its operation."
 ---
 
 # The Federal Reserve System

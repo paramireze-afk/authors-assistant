@@ -18,6 +18,7 @@ status: adaptation
 date_logged: 2026-08-03
 created: 2026-08-03
 updated: 2026-08-03
+description: "Research notes on Rabbi Yaakov Shapiro's argument that Zionism and Judaism are fundamentally incompatible — the halachic basis, the Satmar tradition, and the institutional size of Orthodox anti-Zionism."
 ---
 
 # Israel Is Not Judaism

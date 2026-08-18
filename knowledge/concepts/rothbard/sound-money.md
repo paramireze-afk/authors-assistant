@@ -51,6 +51,7 @@ influenced_by:
 
 created: 2026-07-31
 updated: 2026-07-31
+description: "Reference entry on sound money as defined by the Austrian tradition — commodity-backed currency, the gold standard, and the case against central bank discretion over money supply."
 ---
 
 # Murray Rothbard and Sound Money

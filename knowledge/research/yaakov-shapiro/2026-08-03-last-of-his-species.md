@@ -5,6 +5,7 @@ status: reference
 created: 2026-08-03
 updated: 2026-08-03
 author: Yaakov Shapiro
+description: "Research notes on Rabbi Yaakov Shapiro's account of the Satmar Rebbe — his theology, his opposition to Zionism, and his claim to represent a disappearing tradition of principled Jewish separatism."
 ---
 
 # "The Last of His Species": Rabbi Yaakov Shapiro on the Satmar Rebbe

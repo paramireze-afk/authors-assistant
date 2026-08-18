@@ -49,6 +49,7 @@ evidence_types:
 status: research
 disclaimer_in_source: "Segment is an interview conducted in a promotional context (Limitless Expo); contains investment-adjacent commentary that should not be treated as financial advice."
 date_logged: 2026-08-03
+description: "Research notes on Chris Martenson's argument that oil markets are subject to price setting rather than price discovery — and what that means for stagflation."
 ---
 
 # Price Setting, Not Price Discovery

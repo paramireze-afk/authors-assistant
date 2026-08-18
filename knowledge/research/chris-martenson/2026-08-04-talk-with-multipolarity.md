@@ -7,6 +7,7 @@ created: 2026-08-04
 updated: 2026-08-04
 date: 2026-08-04
 tags: [oil, macroeconomics, geopolitics, podcast-notes]
+description: "Research notes on Chris Martenson's conversation about oil market manipulation, geopolitics, and the structural forces driving energy-sector instability."
 ---
 
 # Oil Markets, Manipulation, and Geopolitics

@@ -2,6 +2,7 @@
 layout: default
 title: "The War in Afghanistan (1979–2021)"
 created: 2026-08-03
+description: "Entry on the wars in Afghanistan from 1979 to 2021 — the Soviet invasion, the CIA's proxy war, the Taliban's rise, the US occupation, and the documented failures of nation-building."
 ---
 
 # The War in Afghanistan (1979–2021)

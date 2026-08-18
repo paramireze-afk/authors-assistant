@@ -2,6 +2,7 @@
 layout: default
 title: "Political Zionism: A Research Reference"
 created: 2026-08-03
+description: "Reference entry on political Zionism — Herzl's founding argument, the movement's early factions, and the distinction between political, cultural, and religious Zionism."
 ---
 
 # Political Zionism: A Research Reference

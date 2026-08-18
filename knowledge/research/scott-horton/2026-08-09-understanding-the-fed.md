@@ -54,6 +54,7 @@ tags:
   - rothbard
   - bob-murphy
   - scott-horton
+description: "Research notes on Scott Horton's discussion with Robert Murphy on the Federal Reserve, fractional reserve banking, the business cycle, and where the current economy stands."
 ---
 
 # Understanding the Fed, Fractional Reserve Banking, and the Boom-Bust Cycle

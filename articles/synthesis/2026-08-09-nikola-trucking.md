@@ -91,6 +91,7 @@ tags:
   - hydrogen
   - spacs
   - presidential-pardon
+description: "The rise and fall of Nikola Corporation: Trevor Milton's fraud, the short-seller Hindenburg Research, and the financial and legal machinery that surrounded the prosecution."
 ---
 
 

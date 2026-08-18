@@ -10,6 +10,7 @@ note: >
   are the speaker's own, marked with attribution language ("the speaker argues,"
   "claims," "speculates," etc.).
 created: 2026-08-03
+description: "Research notes on Jiang Xueqin's emergency discussion of the Ceuta migrant crossing — the event, its geopolitical framing, and Jiang's broader argument about migration as warfare."
 ---
 
 # Transcript Summary: Emergency Discussion on the Ceuta Migrant Crossing

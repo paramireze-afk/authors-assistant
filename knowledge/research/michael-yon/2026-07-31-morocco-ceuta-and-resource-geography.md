@@ -64,6 +64,7 @@ claims:
     - speculation
   framing: source-documentation
 created: 2026-08-03
+description: "Research notes on Michael Yon's analysis of Morocco, the Ceuta enclave, and the resource geography driving North African migration pressure toward Europe."
 ---
 
 

@@ -8,6 +8,7 @@ sources:
   - "G. Edward Griffin, *The Creature from Jekyll Island* (1998) — references across Chapters 1, 11, 13, 16, 17, 20"
 related: ["The Rothschild Formula", "The Bank of England", "The First and Second Banks of the United States", "The Federal Reserve System", "The Bolshevik Revolution"]
 created: 2026-08-03
+description: "Reference entry on the Rothschild banking dynasty — its origins in Frankfurt, its role in financing European wars and governments, and its place in contemporary political mythology."
 ---
 
 # The Rothschild Family

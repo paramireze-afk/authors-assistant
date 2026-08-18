@@ -3,6 +3,7 @@ title: Regulatory Capture
 type: concept
 related-people: [[Robert F. Kennedy Jr.]]
 created: 2026-08-03
+description: "Reference entry on regulatory capture — the process by which the agencies meant to regulate an industry come to serve that industry's interests instead of the public's."
 ---
 
 # Regulatory Capture

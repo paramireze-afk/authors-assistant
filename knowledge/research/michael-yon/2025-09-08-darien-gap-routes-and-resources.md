@@ -152,6 +152,7 @@ related:
   - "Strategic Maritime Chokepoints"
   - "Information Warfare"
   - "Population Transfer"
+description: "Research notes on Michael Yon's reporting on Darién Gap migration routes — the infrastructure, the nationalities moving through, and the resource geography of the crossing."
 ---
 
 # Source Note: Michael Yon Interview (Doc Malik Podcast)

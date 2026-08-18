@@ -6,6 +6,7 @@ subject: "Turning Point USA Faith (TPUSA Faith)"
 status: living-document
 last_updated: 2026-07-28
 created: 2026-08-03
+description: "Reference entry on TPUSA Faith — the religious outreach arm of Turning Point USA, its leadership, its donor connections, and its role in the broader TPUSA ecosystem."
 ---
 
 # TPUSA Faith: Key Events

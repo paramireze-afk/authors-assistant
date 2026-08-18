@@ -11,6 +11,7 @@ tags:
   - intelligence
   - narrative-management
 created: 2026-08-03
+description: "Reference entry on CIA domestic and foreign influence operations, with focus on Operation Mockingbird — the alleged program to place agency assets inside major media organizations."
 ---
 
 # CIA Influence Operations

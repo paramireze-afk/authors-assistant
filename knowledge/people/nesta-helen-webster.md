@@ -52,6 +52,7 @@ tags:
   - french-revolution
   - bolshevism
 created: 2026-08-03
+description: "Profile of Nesta Helen Webster — the early 20th-century British conspiracy theorist whose World Revolution thesis shaped modern anti-globalist and anti-Semitic narratives."
 ---
 
 # Nesta Webster's Theory of World Revolution — A Knowledge Base

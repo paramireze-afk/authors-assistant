@@ -24,6 +24,7 @@ source-policy: "Reconstructed from the books, papers, congressional testimony, c
 status: living-document
 last-updated: 2026-07-29
 created: 2026-08-03
+description: "Reference entry on thimerosal — the mercury-based vaccine preservative, the controversy over its alleged link to autism, the studies used to dismiss that link, and the critics who dispute those studies."
 ---
 
 # Thimerosal (Thiomersal / Merthiolate)

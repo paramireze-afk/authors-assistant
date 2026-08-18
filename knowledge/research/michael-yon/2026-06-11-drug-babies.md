@@ -68,6 +68,7 @@ claims:
     - speculation
   framing: source-documentation
 created: 2026-08-03
+description: "Research notes on Michael Yon's discussion of drug babies, patent medicines, media criticism, and his argument that war continuation serves pharmaceutical and media interests."
 ---
 
 # Michael Yon: Patent Medicines, Media Criticism, and War Continuation Reference

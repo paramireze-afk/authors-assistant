@@ -2,6 +2,7 @@
 layout: default
 title: "Charlie Kirk"
 created: 2026-08-03
+description: "Entry on the Charlie Kirk shooting incident — the known facts, the contested evidence, and the investigative threads connecting the event to the broader TPUSA research."
 ---
 
 # Charlie Kirk

@@ -5,6 +5,7 @@ tags: [romanian-angels, tpusa, erika-kirk, otto-buscher, constanta]
 status: active
 last_updated: 2026-07-28
 created: 2026-08-03
+description: "Reference entry on the Romanian orphan crisis and the AIDS epidemic among institutionalized children — the medical and political failures that allowed mass HIV transmission."
 ---
 
 # Romanian Angels: A Research Reference Document

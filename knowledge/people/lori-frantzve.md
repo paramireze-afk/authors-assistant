@@ -31,6 +31,7 @@ related_topics:
   - Nonprofit transparency
 status: draft
 created: 2026-08-03
+description: "Profile of Lori Frantzve — Erika Kirk's mother, her background, her documented relationships, and her role in the investigative thread around the Kirk family."
 ---
 
 # Lori Frantzve

@@ -7,6 +7,7 @@ type: events
 status: reference
 related: ["The Rothschild Formula", "The Federal Reserve System", "The Bank of England"]
 created: 2026-08-03
+description: "Entry on the Bolshevik Revolution of 1917 — the political conditions, the financing question, and the long-running debate over Western banking interests and the revolution's backing."
 ---
 
 # The Bolshevik Revolution

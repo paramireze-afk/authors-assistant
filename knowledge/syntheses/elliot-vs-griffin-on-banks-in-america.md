@@ -9,6 +9,7 @@ sources:
   - "Calvin Elliott, *Usury: A Scriptural, Ethical and Economic View* (1902), Ch. XXX ('Mammon Dominates the Nations')"
 related: ["The Bank of England", "The Federal Reserve System", "Usury", "The Rothschild Formula"]
 created: 2026-08-03
+description: "Cross-source synthesis comparing J.H. Elliott's and G. Edward Griffin's accounts of central banking in America — the First and Second Banks of the United States and the political fights over them."
 ---
 
 # The First and Second Banks of the United States

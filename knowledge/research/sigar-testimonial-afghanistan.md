@@ -74,6 +74,7 @@ aliases:
 time_period:
   start: 2001
   end: 2023
+description: "Reference notes on SIGAR Inspector General John Sopko's April 2023 congressional testimony — the documented failures of US reconstruction in Afghanistan and the systemic reasons for them."
 ---
 
 # SIGAR Testimony 23-22-TY — John F. Sopko, April 19, 2023

@@ -2,6 +2,7 @@
 layout: default
 title: "Charlie Kirk"
 created: 2026-08-03
+description: "Profile of Charlie Kirk — TPUSA founder, his rise in conservative media, key relationships, financial controversies, and the investigative threads connecting him to the shooting case."
 ---
 
 # Charlie Kirk

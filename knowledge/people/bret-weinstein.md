@@ -2,6 +2,7 @@
 layout: default
 title: "Bret Weinstein"
 created: 2026-08-03
+description: "Profile of Bret Weinstein — evolutionary biologist, Dark Horse podcast host, his COVID heterodoxy, and his arguments about vaccine safety, institutional capture, and evolutionary medicine."
 ---
 
 # Bret Weinstein

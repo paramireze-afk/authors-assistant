@@ -80,6 +80,7 @@ summary: >
   the Twitter Files, and subsequent legal and political challenges. The report
   distinguishes documented evidence from interpretation and disputed claims
   while presenting both critics' and defenders' explanations of the system.
+description: "Entry on the censorship-industrial complex — the documented coordination between federal agencies, social media platforms, and NGOs to suppress COVID-19 dissent."
 ---
 
 # The Censorship-Industrial Complex: How a Small Group of Journalists and Researchers Came to Believe America Built a Machine for Managing Speech

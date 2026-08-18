@@ -153,6 +153,7 @@ tags:
   - antitrust
   - integrity
   - investigative-research
+description: "How the legalization of sports betting reshaped the UFC's relationship with its audience, its broadcast partners, and the way fights are framed and sold."
 ---
 
 # The House Always Watches: How Legalized Betting Remade the UFC

@@ -63,6 +63,7 @@ later_interpreters:
 
 created: 2026-07-31
 updated: 2026-07-31
+description: "Reference notes on praxeology — Mises's framework for economics as the science of human action, deduced from the axiom of purposeful behavior rather than empirical observation."
 ---
 
 # Ludwig von Mises and Praxeology

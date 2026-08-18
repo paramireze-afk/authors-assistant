@@ -63,6 +63,7 @@ summary: >
   tracing how Hayek, Friedman, Sowell, Thiel, Greenwald, and Ramaswamy
   each contribute to a broader critique of stakeholder capitalism,
   institutional power, and governance through financial markets.
+description: "Reference entry on ESG scoring as a governance mechanism — how environmental, social, and governance ratings function as soft regulatory infrastructure outside the democratic process."
 ---
 
 # Governance by Other Means: An Intellectual History of the Anti-ESG Movement

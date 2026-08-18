@@ -27,6 +27,7 @@ related:
 
 sources:
   - Charlie Bot
+description: "Profile of Candace Owens — her trajectory from liberal blogger to TPUSA figurehead to independent commentator, and her departure from the mainstream conservative ecosystem."
 ---
 
 # Candace Owens

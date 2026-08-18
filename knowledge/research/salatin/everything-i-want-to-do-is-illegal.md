@@ -36,6 +36,7 @@ related:
   - organizations/usda
   - organizations/fda
 created: 2026-08-03
+description: "Research notes on Joel Salatin's argument that federal and state regulations systematically prevent small-scale farmers from raising, processing, and selling food on their own terms."
 ---
 
 ---

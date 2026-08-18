@@ -10,6 +10,7 @@ related_concepts: [explosive-device, exploding-microphone-theory, rigged-charm-t
 related_people: [charlie-kirk, erika-kirk, jon-bray, baron-coleman, ian-carroll, blake-bednarz, frank-turek, andrew-kolvet]
 related_organizations: [aes]
 created: 2026-08-03
+description: "Evidence entry on Charlie Kirk's necklace as a research reference — what the jewelry shows in various photographs, and why researchers treat it as a potential chronological marker."
 ---
 
 # Charlie Kirk's Necklace: Research Reference

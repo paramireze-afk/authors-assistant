@@ -11,6 +11,7 @@ created: 2026-08-02
 updated: 2026-08-03
 evidence_types: [firsthand-testimony, personal-recollection, political-interpretation, prediction, speculation]
 date_logged: 2026-08-03
+description: "Research notes on Michael Yon's argument about military service, custodial parents, memory, and his prediction of an approaching draft."
 ---
 
 # Cannon Fodder and Custodial Parents

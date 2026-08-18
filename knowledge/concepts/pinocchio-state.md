@@ -57,6 +57,7 @@ claims:
     - metaphor
   framing: source-documentation
 created: 2026-08-03
+description: "Reference entry on Michael Yon's Pinocchio State framework — the lifecycle of a proxy or puppet state from creation through use to disposal, mapped against US unconventional warfare doctrine."
 ---
 
 # Pinocchio State

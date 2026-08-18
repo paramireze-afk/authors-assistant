@@ -33,6 +33,7 @@ tags:
   - foreign-policy
   - israel
   - media
+description: "Research notes on Scott Horton's conversation with Glenn Greenwald about the political realignment — how foreign policy, civil liberties, and media captured has reshuffled old coalitions."
 ---
 
 # The Realignment Nobody Saw Coming: Notes from a Conversation Between Scott Horton and Glenn Greenwald

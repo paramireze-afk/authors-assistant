@@ -53,6 +53,7 @@ related:
   - concepts/esg.md
   - concepts/stakeholder-capitalism.md
   - concepts/national-sovereignty.md
+description: "A beginner's guide to OPEC: what the cartel actually is, how it tries to manage global oil prices, why it often fails, and how geopolitics shapes every barrel."
 ---
 
 # OPEC: The Club That Tries to Run the World's Oil Taps

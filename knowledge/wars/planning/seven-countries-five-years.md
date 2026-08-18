@@ -32,6 +32,7 @@ related:
   - "War on Terror"
   - "Regime Change"
 created: 2026-08-03
+description: "Entry on General Wesley Clark's account of the post-9/11 Pentagon memo listing seven countries for regime change — its authenticity, its implications, and how subsequent events tracked against it."
 ---
 
 # Wesley Clark's "Seven Countries in Five Years" Account

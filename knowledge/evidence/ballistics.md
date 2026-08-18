@@ -2,6 +2,7 @@
 layout: default
 title: "Ballistics Evidence: Why the .30-06 Wound Is Physically Contested"
 created: 2026-08-03
+description: "Evidence entry on the ballistics dispute in the Charlie Kirk shooting — why the .30-06 wound trajectory is physically contested and what that implies for competing shooting scenarios."
 ---
 
 # Ballistics Evidence: Why the .30-06 Wound Is Physically Contested

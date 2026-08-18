@@ -49,6 +49,7 @@ influenced_by:
 
 created: 2026-07-31
 updated: 2026-07-31
+description: "Reference entry on time preference in Austrian economics — the universal human tendency to value present goods over future goods, and its implications for interest rates and capital formation."
 ---
 
 # Murray Rothbard and Time Preference

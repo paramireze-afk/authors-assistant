@@ -9,6 +9,7 @@ sources:
   - "Calvin Elliott, *Usury: A Scriptural, Ethical and Economic View* (1902) — Chapter XXX"
 related: ["The Rothschild Formula", "The Rothschild Family", "The Bolshevik Revolution", "The First and Second Banks of the United States", "The Bank of England"]
 created: 2026-08-03
+description: "Cross-source synthesis on the documented pattern of financing multiple sides of conflicts — from the Rothschild formula to modern defense contractor relationships."
 ---
 
 # Financing Multiple Sides of the Same Conflict

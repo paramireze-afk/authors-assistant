@@ -2,6 +2,7 @@
 layout: default
 title: "Reading the 2020s Through Mises, Hayek, and Rothbard"
 created: 2026-08-03
+description: "Cross-source synthesis applying Mises, Hayek, and Rothbard's frameworks to 2020s economic events — the COVID money printing, the inflation surge, and the boom-bust cycle dynamics."
 ---
 
 # Reading the 2020s Through Mises, Hayek, and Rothbard

@@ -10,6 +10,7 @@ tags:
   - immunology
   - evolution
 created: 2026-08-03
+description: "Reference entry on mRNA vaccine technology, with focus on Bret Weinstein's critique — the spike protein as a systemic toxin, immune imprinting, and the case for scrutinizing long-term effects."
 ---
 
 # Bret Weinstein on mRNA Technology: A Knowledge Base

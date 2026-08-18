@@ -13,6 +13,7 @@ tags:
   - energy prices
   - purchasing power
   - FinanceU
+description: "Research notes on Chris Martenson's analysis of why official inflation measures understate the cost-of-living increases most Americans are experiencing."
 ---
 
 # The Inflation Illusion: Why the Official Numbers Don't Match Your Grocery Bill

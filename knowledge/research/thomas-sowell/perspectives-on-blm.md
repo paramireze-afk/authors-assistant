@@ -52,6 +52,7 @@ summary: >
   race, and public policy, emphasizing how his economic framework informs his
   broader social and political thought. Includes a clearly labeled speculative
   section applying his philosophy to contemporary questions.
+description: "Research notes on Thomas Sowell's arguments about welfare dependency, the black family, and his critique of social justice frameworks that he argues cause the harms they claim to fix."
 ---
 
 # Thomas Sowell: Welfare, Dependency, and the Case Against "Social Justice"

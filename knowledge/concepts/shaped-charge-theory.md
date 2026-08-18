@@ -8,6 +8,7 @@ tags: [shaped-charge, ballistics, aes, charlie-kirk, forensic-theory]
 related_events: [charlie-kirk-shooting, aspen-donor-retreat]
 related_concepts: [ballistics, official-narrative-overview]
 created: 2026-08-03
+description: "Reference entry on shaped charge ballistics — the physics of directional explosive energy, its forensic implications, and how it applies to contested wound analysis in the Charlie Kirk shooting case."
 ---
 
 # Shaped Charge Theory: Research Reference

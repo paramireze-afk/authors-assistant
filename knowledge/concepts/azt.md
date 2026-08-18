@@ -18,6 +18,7 @@ source-policy: "Reconstructed exclusively from the books, papers, testimony, int
 status: living-document
 last-updated: 2026-07-29
 created: 2026-08-03
+description: "Reference entry on AZT (zidovudine) — its development as a cancer drug, its fast-tracked approval for AIDS, and the controversies over toxicity, dosing, and the clinical evidence base."
 ---
 
 # AZT (Zidovudine / Azidothymidine / Retrovir)

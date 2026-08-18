@@ -45,6 +45,7 @@ related:
 aliases:
   - Funding the Enemy
   - How US Taxpayers Bankrolled the Taliban
+description: "Notes on Douglas Wissing's investigation into how U.S. reconstruction contracts and military spending inadvertently financed the Taliban insurgency in Afghanistan."
 ---
 
 # Funding the Enemy: How US Taxpayers Bankrolled the Taliban

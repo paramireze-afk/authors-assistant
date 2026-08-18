@@ -19,6 +19,7 @@ related:
   - victor-marx
   - erika-kirk
 sources: []
+description: "Reference entry on the Unification Church (Moon Inc.) — Sun Myung Moon's organization, its media holdings, its political relationships, and its connections to conservative movement infrastructure."
 ---
 
 # The Unification Church (Moon Inc.) — Investigation Profile

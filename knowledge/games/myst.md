@@ -25,6 +25,7 @@ related:
   - hermeneutics
   - philosophy-of-technology
   - life-as-an-unexplained-puzzle
+description: "A close reading of Myst (1993) as philosophical fiction — its epistemology of testimony, its treatment of authorship and consequence, and its analogy for arriving in a world you did not build."
 ---
 
 # Myst

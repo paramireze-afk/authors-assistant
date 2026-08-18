@@ -77,6 +77,7 @@ tags:
   - political-history
   - economic-history
   - mass-starvation
+description: "Notes on Frank Dikötter's history of the famine caused by Mao's Great Leap Forward — the political decisions, the falsified grain statistics, and the death toll."
 ---
 
 # Mao's Great Famine: How a Utopian Fantasy Killed Tens of Millions

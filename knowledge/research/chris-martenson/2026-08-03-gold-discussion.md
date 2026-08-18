@@ -44,6 +44,7 @@ evidence_types:
 status: research
 disclaimer_in_source: "Speakers state at the outset that nothing in the discussion should be considered investment advice; educational purposes only."
 date_logged: 2026-08-03
+description: "Research notes on Chris Martenson's discussion of gold's role in the slow unwinding of the dollar-based monetary system and the migration of gold reserves from West to East."
 ---
 
 # The Long Migration

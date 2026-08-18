@@ -34,6 +34,7 @@ status: research
 date_logged: 2026-08-03
 created: 2026-08-03
 updated: 2026-08-03
+description: "Notes on Joost Meerloo's framework for menticide — the systematic destruction of independent thought through psychological manipulation, coercion, and conditioning."
 ---
 
 # Menticide: The Intellectual Framework of *The Rape of the Mind*

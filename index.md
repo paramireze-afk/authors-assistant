@@ -29,15 +29,15 @@ A local-first research and writing workspace — podcast notes, book analysis, c
 {% assign combined = all_pages | concat: synth_recent | sort_natural: "created" | reverse %}
 
 <table>
-  <thead><tr><th>Title</th><th>Date</th></tr></thead>
+  <thead><tr><th style="width:28%">Title</th><th>Description</th></tr></thead>
   <tbody>
   {% assign shown = 0 %}
   {% for page in combined %}
   {% if shown < 12 %}
   {% unless page.path contains '/index.md' or page.path contains 'README' %}
     <tr>
-      <td><a href="{{ page.url | relative_url }}">{{ page.title | default: page.name | truncatewords: 12, "…" }}</a></td>
-      <td>{{ page.created }}</td>
+      <td><a href="{{ page.url | relative_url }}">{{ page.title | default: page.name | truncatewords: 8, "…" }}</a></td>
+      <td>{{ page.description | default: "" | truncatewords: 30, "…" }}</td>
     </tr>
     {% assign shown = shown | plus: 1 %}
   {% endunless %}

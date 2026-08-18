@@ -14,7 +14,7 @@ tags:
   - dungeon-design
   - gaming-history
   - player-culture
-description: "The story of Howling Stones, the notoriously unforgiving Kunark dungeon where locked wings, traps, corpse runs, and disposable keys could turn a single death into an EverQuest nightmare."
+description: "Howling Stones is presented as a dungeon whose true brutality came from systems design, not raw mob difficulty: disposable keys, one-way progression, trap geometry, and corpse-based lockouts that could trap players behind doors they no longer had keys to open. The piece traces how guilds built emergency rituals and folk techniques just to survive routine recovery scenarios. It reads as an anatomy of emergent difficulty—where ordinary mechanics combine into something far harsher than any one mechanic alone."
 ---
 
 # The Vault That Ate Its Own Keys: Howling Stones and EverQuest's Cruelest Corpse Run

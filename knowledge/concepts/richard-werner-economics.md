@@ -52,6 +52,7 @@ organizations:
 
 related_works:
   - "Princes of the Yen"
+description: "Werner's framework is neither orthodox Austrian nor Keynesian: it treats bank-created credit—its quantity, destination, and institutional channel—as the central variable driving growth, bubbles, and crisis. The piece compares his theory against competing schools, then follows how his policy conclusions flow from that difference, especially on central banking, window guidance, and decentralized local finance. It is as much a map of intellectual lineage as an argument about monetary mechanism."
 
 summary: >
   An analysis of Richard Werner's credit-centric economic framework and its

@@ -153,7 +153,7 @@ tags:
   - antitrust
   - integrity
   - investigative-research
-description: "How the legalization of sports betting reshaped the UFC's relationship with its audience, its broadcast partners, and the way fights are framed and sold."
+description: "This article argues that legalized betting didn't just add a new revenue stream to UFC—it rewired the incentives around promotion, broadcast framing, integrity controls, and fan attention itself. It traces the shift through ownership structure, media partnerships, athlete-pay disputes, and documented betting scandals, with Joe Rogan as a recurring lens on cultural translation. The central question is whether the sport now serves competition first, or wagering liquidity first."
 ---
 
 # The House Always Watches: How Legalized Betting Remade the UFC

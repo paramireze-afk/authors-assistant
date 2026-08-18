@@ -37,7 +37,11 @@ A local-first research and writing workspace — podcast notes, book analysis, c
   {% unless page.path contains '/index.md' or page.path contains 'README' %}
     <tr>
       <td><a href="{{ page.url | relative_url }}">{{ page.title | default: page.name | truncatewords: 8, "…" }}</a></td>
-      <td>{{ page.description | default: "" | truncatewords: 30, "…" }}</td>
+      {% assign preview_text = page.description | default: "" | strip %}
+      {% if preview_text == "" %}
+      {% assign preview_text = page.excerpt | strip_html | strip_newlines | replace: '  ', ' ' | strip %}
+      {% endif %}
+      <td>{{ preview_text }}</td>
     </tr>
     {% assign shown = shown | plus: 1 %}
   {% endunless %}

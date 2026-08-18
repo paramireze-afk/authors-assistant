@@ -1,7 +1,7 @@
 ---
 title: "When Can the U.S. Government Legally Deceive, Propagandize, or Withhold Information From the American Public?"
 created: 2026-08-17
-description: "A look at the laws, doctrines, and legal gray zones governing when the U.S. government can propagandize, conceal information, use intermediaries, or deceive the American public."
+description: "This memo maps the legal architecture of government influence into distinct buckets—what is affirmatively authorized, what is merely not prohibited, and where agencies operate in contested gray zones. It connects Smith-Mundt, covert-action law, military information doctrine, appropriations anti-propaganda rulings, government-speech doctrine, and modern platform-pressure cases to show how domestic influence can occur without a single clean statutory violation. The core insight is structural: attribution, audience, and legal framing often matter more than the persuasive act itself."
 tags:
   - Government Propaganda
   - Smith-Mundt Act

@@ -62,7 +62,7 @@ tags:
   - central-banking
   - monetary-policy
   - sovereign-debt
-description: "Research notes on the U.S. currency intervention to support the Japanese yen — why it happened, who authorized it, and what it reveals about dollar system management."
+description: "Using the yen rescue as a starting point, the article explains how Japan's energy dependence, Treasury holdings, and carry-trade plumbing tie directly into U.S. borrowing costs and global risk assets. It argues the intervention was less diplomatic symbolism than a stress signal from a system trying to avoid disorderly Treasury selling and liquidity shocks. The deeper question it raises is whether the dollar order is being stabilized—or kept alive through increasingly fragile workarounds."
 ---
 
 # Why the U.S. Just Spent Billions Rescuing Japan's Currency — And What It Might Be Telling Us

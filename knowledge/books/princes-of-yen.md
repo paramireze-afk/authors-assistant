@@ -49,6 +49,7 @@ people:
   - Milton Friedman
   - Joseph Schumpeter
   - Knut Wicksell
+description: "The book argues that Japan's postwar boom, bubble, and stagnation are best explained through directed credit creation rather than interest-rate policy alone. It follows how Bank of Japan lending controls channeled money into productive sectors, then later into speculative assets, and how that shift reconfigured the entire economy. The article also separates Werner's strongest documentary evidence from his more controversial claims about deliberate institutional strategy."
 
 summary: >
   An examination of Richard Werner's Princes of the Yen and its argument

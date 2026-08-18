@@ -13,7 +13,7 @@ tags:
   - energy prices
   - purchasing power
   - FinanceU
-description: "Research notes on Chris Martenson's analysis of why official inflation measures understate the cost-of-living increases most Americans are experiencing."
+description: "Martenson and Kiker argue that the CPI no longer tracks lived inflation, using fuel, food, and service examples to show how seasonal adjustments and category methods can diverge from household reality. They tie that measurement gap to larger stresses: deficit-financed spending, energy constraints, and declining trust in official statistics. The piece treats inflation not as a single print problem, but as a compounding system-level erosion of purchasing power."
 ---
 
 # The Inflation Illusion: Why the Official Numbers Don't Match Your Grocery Bill

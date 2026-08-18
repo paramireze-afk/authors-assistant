@@ -36,7 +36,7 @@ topics:
   - pharmaceutical incentives
   - regulatory incentives
   - root causes of mental distress
-description: "Psychiatrist and former FDA medical officer Josef Witt-Doerring challenges the chemical-imbalance model of depression and examines antidepressants, PSSD, withdrawal, psychiatric prescribing, and the institutional incentives surrounding modern mental health treatment."
+description: "Josef Witt-Doerring uses his FDA and industry background to challenge the chemical-imbalance story and to argue that psychiatric prescribing often manages symptoms while ignoring root causes. The article connects emotional blunting, PSSD, and protracted withdrawal to a broader incentive structure in telehealth, reimbursement, regulation, and academic psychiatry. It asks whether rising medication use alongside worsening mental-health outcomes reflects better diagnosis—or a treatment model that has become self-reinforcing."
 ---
 
 # The Case Against the Pill: Inside a Psychiatrist's Break With Mainstream Psychiatry

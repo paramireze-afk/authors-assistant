@@ -17,7 +17,7 @@ tags:
   - ACTT-1
   - WHO Solidarity Trial
   - The Real Anthony Fauci
-description: "An examination of the arguments made by Robert F. Kennedy Jr. and other critics of remdesivir, from its failed Ebola trial and controversial COVID-19 studies to concerns over toxicity, financial incentives, and its path to becoming standard hospital treatment."
+description: "The article reconstructs the strongest critical case against remdesivir by connecting three threads: disputed trial design and endpoint changes, weak mortality performance in larger follow-up studies, and institutional incentives that rewarded continued use anyway. It tracks how pricing, reimbursement rules, guideline inertia, and emergency-authority sequencing may have mattered as much as clinical efficacy in determining standard of care. Rather than resolving the debate, it clarifies where the record is factual and where interpretation begins."
 ---
 
 # The Case Against Remdesivir: How Critics Say a Failed Ebola Drug Became COVID's Standard of Care

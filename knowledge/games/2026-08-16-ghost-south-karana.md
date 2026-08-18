@@ -12,7 +12,7 @@ tags:
   - kunark-era
   - gaming-history
   - player-culture
-description: "The story of Quillmane, the elusive South Karana pegasus whose rare spawn, mysterious placeholder mechanics, and coveted Pegasus Feather Cloak drove generations of classic EverQuest players insane."
+description: "Quillmane became legendary not because the fight was hard, but because spawn logic, placeholder myths, open-world competition, and a mandatory epic-class item stacked into a social stress test. The article follows how Rangers, Druids, and guild groups turned South Karana into a collaborative tracking experiment that never fully stabilized into agreed mechanics. It captures the defining uncertainty of early EverQuest: effort could be organized, but outcomes still hinged on contested information and luck."
 ---
 
 # The Ghost of South Karana: How a Flying Horse Broke a Thousand Trackers' Hearts

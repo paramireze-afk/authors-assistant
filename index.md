@@ -33,7 +33,7 @@ A local-first research and writing workspace — podcast notes, book analysis, c
   <tbody>
   {% assign shown = 0 %}
   {% for page in combined %}
-  {% if shown < 12 %}
+  {% if shown < 20 %}
   {% unless page.path contains '/index.md' or page.path contains 'README' %}
     <tr>
       <td><a href="{{ page.url | relative_url }}">{{ page.title | default: page.name | truncatewords: 8, "…" }}</a></td>

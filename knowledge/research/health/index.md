@@ -12,4 +12,4 @@ Browse health-related research notes and issue briefs.
 - [Back to Home]({{ site.baseurl }}{% link index.md %})
 - [Back to Research]({{ site.baseurl }}{% link knowledge/research/index.md %})
 
-- [2026-09-30 The Case Against Fluoridation: What the Critics Argue]({{ site.baseurl }}{% link knowledge/research/health/2026-09-30-cold-showers.md %})
+This section is indexed from the main research page to avoid duplicate entries. Use the research overview to browse the current health notes.

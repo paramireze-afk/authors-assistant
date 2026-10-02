@@ -1,8 +1,9 @@
 ---
 title: "The Liver: The Gut's First Reader"
-subtitle: "Why everything you swallow has to pass inspection before it reaches the rest of you"
+description: "Why everything you swallow has to pass inspection before it reaches the rest of you"
 style_note: "Written in a style inspired by Michael D. Gershon's The Second Brain. Not written by Gershon."
 companion_book: "The Second Brain by Michael D. Gershon (1998)"
+created: 2026-10-01
 topics:
   - liver
   - history of liver science

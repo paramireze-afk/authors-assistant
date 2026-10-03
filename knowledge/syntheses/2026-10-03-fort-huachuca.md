@@ -12,13 +12,17 @@ tags:
 
 # The Military's AI Leaked Its Own Guest List
 
-Hey guys, a crazy story dropped the other day that, unless you're following the Charlie Kirk assassination story closely, you probably missed.
+## The craziest story you will never hear on the news
+
+Hey guys, here's a story you will most certainly never hear on the news. An incredibly embarrassing mistake was made, the kind that would make every IT person cringe, especially when it happens at the highest levels of military intelligence.
 
 First, some background. There's an ongoing controversy over whether Mitch Snow, a former special forces operator, correctly identified key members of Charlie Kirk's security team, as well as Erika Kirk, at Fort Huachuca, the US's premier intelligence base, in the day or days before the assassination.
 
-Why does Fort Huachuca matter? According to researcher Ana Escobar, it comes down to the HADES jet, a new Army spy plane and the flagship program of the recon task force based there. She says that jet flew over Provo twice on the day of the assassination, and again over Tyler Robinson as he turned himself in. Her logic is pretty simple: if HADES is relevant, then the base it came out of is relevant.
+Why does Fort Huachuca matter? According to researcher Ana Escobar, in the days leading up to the assassination, the base's expected visitor list included a strange mix of people: top military officials, the director of the Mossad, the people who run the HADES program, and key members of Charlie Kirk's security team. That's a weird group to have heading to the same Army base in the same handful of days.
 
-So Ana went looking for a way to check who was actually expected on that base. Here's where it gets crazy. She says the military uses an AI tool to automate the security checks on its high-profile guest lists, and over the past few months she's used that to piece together who was expected at Fort Huachuca in the days leading up to the assassination. According to her, that list includes members of Charlie's team, Erika Kirk, and a bunch of military and intelligence officials, all popping up around the same days.
+It also raises another question. Why did the HADES jet, a new Army spy plane and the flagship program of the recon task force at Fort Huachuca, fly over the Provo area twice on the day of the assassination, and again during Tyler Robinson's arrest?
+
+So how did Ana figure out who was expected on that base? Here's where it gets crazy. She says the military uses an AI tool to automate the security checks on its high-profile guest lists, and over the past few months she's used that to piece together who was expected at Fort Huachuca, including Erika Kirk.
 
 So how could anyone outside the base see this? The military's AI software (built on Gemini, Google's AI) runs every expected visitor through Google to make sure it isn't hallucinating. Every one of those checks leaves a digital footprint, which is why Ana and other researchers have been seeing these hits on Google Trends. It basically turns into a public guest list.
 

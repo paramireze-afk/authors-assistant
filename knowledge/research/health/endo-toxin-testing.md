@@ -1,11 +1,10 @@
 ---
 title: "Blue Blood and False Alarms: The LAL Test and Why Endotoxin Testing Is Hard for Cannabis"
-description: >-
-  A plain-language look at the LAL test, the horseshoe crab blood test used
+description: "A plain-language look at the LAL test, the horseshoe crab blood test used
   worldwide to detect bacterial endotoxins. Covers its accidental discovery,
   how it works, its cost to horseshoe crabs, the lab-made alternatives now
   accepted by regulators, the ways the test can be fooled, and why Kevin
-  McKernan says it isn't yet reliable enough to require for cannabis.
+  McKernan says it isn't yet reliable enough to require for cannabis."
 created: 2026-10-04
 status: draft
 related:

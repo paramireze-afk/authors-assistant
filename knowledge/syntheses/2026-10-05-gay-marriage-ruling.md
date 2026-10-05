@@ -1,113 +1,117 @@
 ---
-title: "Settled Law That Never Settled Anything"
-description: "A look at the critics of Obergefell v. Hodges (2015) and the downstream costs they point to: the bypassing of democratic debate, a decade of religious liberty litigation, pressure on businesses and religious institutions, the expansion of judge-made rights, and a culture war that moved to the courts rather than ending."
+title: "The Week Everybody Looked at the Supreme Court"
+description: "A look at what else was happening around Obergefell v. Hodges in June 2015, from TPP and NSA spying revelations to the war in Ukraine's Donbas, who benefited from the public's attention being elsewhere, and the longer-term costs of the ruling for institutions and for divisions among Americans."
 created: "2026-10-05"
 updated: "2026-10-05"
 tags:
-  - supreme-court
+  - geopolitics
+  - ukraine
   - institutions
-  - religion
-  - law
-  - culture
+  - media
+  - supreme-court
 ---
 
-# Settled Law That Never Settled Anything
+# The Week Everybody Looked at the Supreme Court
 
-I had it in my head that gay marriage became federal law in 2014. It didn't. It was June 26, 2015, when the Supreme Court decided *Obergefell v. Hodges* 5 to 4. The reason 2014 sticks is that by the end of that year, after the Court declined to hear several state appeals, same-sex marriage was already legal in most of the country. *Obergefell* finished the job.
+I had it in my head that gay marriage became federal law in 2014. It didn't. *Obergefell v. Hodges* came down on June 26, 2015. The reason 2014 sticks is that by the end of that year most states already had it, after the Supreme Court declined to hear several appeals and let lower court rulings stand. *Obergefell* finished the job.
 
-What interests me isn't really the question of whether gay couples should be able to marry. Most Americans have made up their minds on that, and support sits somewhere around 70 percent. What interests me is the *way* it happened, and what came after. The usual story is that the ruling ended a debate. Looking back from 2026, I'm not sure it ended anything. It seems more like it moved the fight somewhere else.
+I'm not interested here in whether the ruling was right or wrong. That argument has been had a million times. What I started wondering about is something else: what was the rest of the country *not* paying attention to while everyone was either celebrating or furious? And who, in Washington, might have been perfectly happy about that?
 
-## The dissents read differently ten years later
+## What else happened that week
 
-The best place to start is the decision itself, because four justices wrote dissents, and they weren't mainly arguing about gay people. They were arguing about who gets to decide.
+When you line up the dates, late June 2015 was a crowded week.
 
-Chief Justice John Roberts put it about as plainly as a Supreme Court justice ever does:
+- **June 23:** WikiLeaks published documents showing the NSA had spied on three French presidents, Chirac, Sarkozy, and Hollande. Hollande called an emergency defense council meeting. This was two years after the Merkel phone-tapping story, and it wouldn't be the last release that summer.
+- **June 24:** Obama announced that families of Americans held hostage abroad would no longer be threatened with prosecution for paying ransoms. That reversal came after James Foley, Steven Sotloff, Peter Kassig, and Kayla Mueller were killed, and after their families said the government had threatened them and left them on their own.
+- **June 24:** The Senate passed fast-track authority for the Trans-Pacific Partnership, after it had initially been defeated in the House. Fast-track meant Congress could only vote the final trade deal up or down, no amendments. It was opposed by labor, by a big part of the president's own party, and by people on the right.
+- **June 25:** The Court saved the Affordable Care Act subsidies in *King v. Burwell*.
+- **June 26:** *Obergefell*. The same day, there were three terrorist attacks attributed to ISIS or its sympathizers, in Tunisia, Kuwait, and France.
+- **June 27 to 30:** Greece announced a referendum on its bailout, closed its banks, imposed capital controls, and missed a payment to the IMF. Puerto Rico's governor said publicly that the island's debt couldn't be paid. China's stock market was in the middle of losing about a third of its value.
 
-> "If you are among the many Americans, of whatever sexual orientation, who favor expanding same-sex marriage, by all means celebrate today's decision... But do not celebrate the Constitution. It had nothing to do with it."
+On top of that, the government had disclosed earlier in June that the Office of Personnel Management had been hacked. By July it came out that background investigation files on more than 21 million people, many of them security clearance holders, had been stolen, widely attributed to China. That's one of the worst intelligence breaches in American history, and most people I know have never heard of it.
 
-His point was that the country was in the middle of working this out. States were legalizing it through legislatures and ballot measures, others were voting it down, and public opinion was shifting fast. Roberts thought that process would have produced something more durable, because people accept outcomes they had a hand in shaping. Taking it away from them, he argued, would leave a lot of Americans feeling the result had been imposed.
+Now, I want to be careful here. The Supreme Court releases its biggest decisions at the end of June every single year, because that's when its term ends. The Court sets its own calendar and Congress set the TPP schedule. I haven't seen anything showing someone coordinated the timing, and I'm not going to pretend I have.
 
-Scalia went further and called it a threat to American democracy, the idea being that five lawyers had decided a major social question for 320 million people. Thomas argued the majority had redefined "liberty" from freedom *from* government into a right to government recognition. Alito predicted that people holding traditional views would be treated as bigots by government, employers, and schools.
+But you don't need coordination for something to be convenient.
 
-You can agree with the result and still take the procedural argument seriously. That's the part that I think got lost in the celebration.
+## Who benefits from a fight like this
 
-## The religious liberty fight that followed
+This is where I think the more interesting question is. Not "was it planned," but "who had an incentive to be happy that the country was arguing about this instead of other things?"
 
-Roberts noticed something in Justice Kennedy's majority opinion. Kennedy reassured religious people that they could continue to "advocate" and "teach" their views. Roberts pointed out that the First Amendment protects the free *exercise* of religion, and that word wasn't there. Advocating and teaching is what you do in a church. Exercising is what you do in the rest of your life, including at work.
+**Both parties.** For Democrats heading into 2016, it was a win that energized their base. For Republicans, it was a fundraising and mobilization goldmine; every 2016 candidate had a statement ready that day, and outrage raises money. Neither side had much reason to change the subject to trade deals, NSA spying, or a failed program in Syria, because on several of those issues the leadership of both parties was roughly on the same side, and the voters weren't.
 
-That gap is basically where the next decade of litigation lived.
+That's the thing about TPP. The fight over it didn't break down along normal party lines. It was Obama and the Republican leadership against Bernie Sanders, Elizabeth Warren, labor unions, and a good chunk of the populist right. A culture war issue does the opposite. It sorts everyone neatly back into their teams.
 
-An important caveat, and I think it's a real one: most of these cases were brought under *state* anti-discrimination laws, not under *Obergefell* itself, and several started before 2015. But the ruling nationalized the conflict. Once marriage was a constitutional right everywhere, every wedding vendor, adoption agency, and religious school in the country was in the same position.
+**Corporations.** Hundreds of major companies publicly backed same-sex marriage, and corporate America discovered that taking a stand on social issues was good marketing. It cost them nothing. Meanwhile, many of those same companies wanted TPP passed. Supporting the ruling was free. Supporting fast-track was something you'd prefer people didn't look at too closely.
 
-A few of the cases:
+**Media.** A culture war story is cheap to cover, emotional, and endlessly debatable on panel shows. A trade agreement whose text was literally classified, or a breach of federal personnel records, is hard to explain and doesn't rate.
 
-- **Jack Phillips** of Masterpiece Cakeshop in Colorado declined to make a custom wedding cake for a same-sex couple in 2012. He won at the Supreme Court in 2018, but on narrow grounds, because the state commission had shown open hostility to his religion. He was sued again afterward over a different cake, and that case dragged on until 2024. Something like a dozen years of litigation for a baker.
-- **Aaron and Melissa Klein**, who ran Sweet Cakes by Melissa in Oregon, were ordered by the state in 2015 to pay $135,000 in damages. They closed the shop.
-- **Barronelle Stutzman**, a Washington florist in her 70s, fought for most of a decade before settling and retiring after the Supreme Court declined her case.
-- **Kim Davis**, the Kentucky county clerk, spent several days in jail in 2015 for refusing to issue marriage licenses, and a jury later ordered her to pay damages to a couple she turned away. Her petition asking the Court to revisit *Obergefell* was turned down in 2025.
+This isn't a new observation. Thomas Frank made a version of it in *What's the Matter with Kansas?*, arguing that social issues kept working-class voters fighting each other while economic policy went in directions that hurt them. Adolph Reed Jr. has argued for years from the left that identity-focused politics fits comfortably with corporate and financial power, because it asks for recognition without challenging who holds the money. Neither of them was talking about *Obergefell* specifically. But the mechanism they describe doesn't require a plot. It just requires every powerful institution to have its own reasons to prefer that people fight about culture.
 
-The courts eventually carved out some room. In *Fulton v. City of Philadelphia* (2021), the Court unanimously sided with a Catholic foster care agency that Philadelphia had dropped. In *303 Creative v. Elenis* (2023), it ruled that a web designer couldn't be forced to create wedding websites that conflicted with her beliefs.
+## Meanwhile, in Ukraine
 
-But think about what that process looked like. Ordinary small business owners spent years in court, and some of them lost their businesses before the law was clarified. Whatever you think of their views, that's a heavy cost to put on individuals, and it's the kind of thing a legislature might have dealt with up front through exemptions. Courts don't do compromise well. They pick a winner.
+This is the part I remember most from that period, and it's the part that looks worst in hindsight.
 
-## Religious institutions and the tax-exempt question
+By June 2015, a war had been going on in eastern Ukraine for over a year, and most Americans couldn't have told you anything about it.
 
-The moment from the oral arguments that I keep coming back to is an exchange between Justice Alito and the Solicitor General, Donald Verrilli. Alito brought up *Bob Jones University*, which lost its tax-exempt status in 1983 over its ban on interracial dating. He asked whether a religious college that opposed same-sex marriage could face the same thing.
+To back up: in November 2013, Ukraine's president, Viktor Yanukovych, backed away from an association agreement with the European Union. Protests started on the Maidan, Kyiv's main square, and grew through the winter. The US was not exactly a bystander. Victoria Nuland, then Assistant Secretary of State, handed out food to protesters on the square in December 2013, and around the same time gave a speech saying the US had invested more than $5 billion in Ukraine's democratic development since 1991. In February 2014, a recorded phone call between Nuland and the US ambassador, Geoffrey Pyatt, leaked online. The two were discussing who should be in the next Ukrainian government. "Yats is the guy," Nuland said, referring to Arseniy Yatsenyuk. A few weeks later, Yatsenyuk was prime minister.
 
-Verrilli's answer:
+Between February 18 and 20, 2014, around a hundred people, protesters and police, were killed in Kyiv, many of them by snipers. Yanukovych fled the country. At the time, Western governments and media blamed his government's forces.
 
-> "It's certainly going to be an issue. I don't deny that, Justice Alito."
+That narrative has gotten more complicated. Political scientist Ivan Katchanovski has spent years arguing that a significant part of the shooting came from buildings controlled by the Maidan opposition. In October 2023, after a nearly decade-long trial, a Kyiv district court issued its verdict. [Katchanovski's reading](https://link.springer.com/chapter/10.1007/978-3-031-67121-0_8) is that the verdict confirmed that armed activists were in the Hotel Ukraina, that shots were fired from there, and that some protesters were killed from that direction. Critics of Katchanovski point out that the same verdict attributed most of the protester deaths to the Berkut riot police. Both of those things seem to be in the verdict. What's striking is that a Ukrainian court acknowledged shooters in opposition-held territory at all, and that almost nobody in the West reported it.
 
-That wasn't a fringe activist. That was the federal government's lawyer, in the case itself, conceding the question was open.
+After Yanukovych fell, things moved fast. Russia annexed Crimea in March 2014. In April, fighting broke out in the Donbas, the eastern region around Donetsk and Luhansk, between Ukrainian forces and Russian-backed separatists, with Russian regular troops getting involved by late summer. On May 2, 2014, dozens of pro-Russian activists died in a fire at the Trade Unions House in Odesa. In July, Malaysia Airlines Flight 17 was shot down over the Donbas, killing all 298 people on board. Two ceasefire agreements, Minsk I and Minsk II, failed to stop the fighting. By mid-2015, more than 6,000 people had been killed.
 
-It hasn't happened, as far as I know. No religious college has lost its tax exemption over marriage. But there were signs of the pressure. Gordon College in Massachusetts had its accreditation reviewed in 2014 after its president signed a letter asking for a religious exemption, and the city of Salem ended an arrangement with the school. Catholic Charities in Boston, Illinois, and Washington, D.C. had already gotten out of adoption work rather than place children with same-sex couples, and those closures happened before *Obergefell*. Critics would argue that's exactly the pattern: the institutions with traditional views don't get banned, they just get squeezed out of public life one contract and one license at a time.
+And a handful of people were trying to get Americans to pay attention. Dan Carlin was one of them. In February 2015, he put out a *Common Sense* episode called ["Re-heating the Cold War"](https://www.dancarlin.com/product/common-sense-288-re-heating-cold-war/) arguing that the situation was capable of boiling over into a larger conflict between Russia and the West, and laying the blame on hubris and political short-sightedness. The point Carlin kept making, as I remember it, was that the West seemed to be treating this as a morality tale instead of thinking hard about what Russia would see as an existential line, and that nobody seemed to be asking where it was all going.
 
-## Business became political
+That was the background noise in June 2015. Two weeks before *Obergefell*, on June 10, the House unanimously passed an amendment from John Conyers and Ted Yoho banning US training and weapons for the Azov Battalion, a Ukrainian unit with open neo-Nazi ties, and blocking shoulder-fired anti-aircraft missiles from going to Ukraine. The US had started training Ukrainian National Guard units that spring. Then, in December 2015, the Azov ban was [quietly stripped from the final spending bill](https://www.thenation.com/article/politics/congress-has-removed-a-ban-on-funding-neo-nazis-from-its-year-end-spending-bill/) after pressure from the Pentagon, which argued it was redundant.
 
-Something else changed around this time that I don't think gets enough attention. Hundreds of major corporations filed briefs in support of same-sex marriage, and companies started taking public positions on social issues in a way they mostly hadn't before.
+That's exactly the kind of thing that only survives because nobody's looking.
 
-The year before the ruling, Brendan Eich was pushed out as CEO of Mozilla because of a $1,000 donation he'd made in 2008 to California's Proposition 8. That was a private political donation to a ballot measure that passed with a majority of California voters. Six years later it cost him his job.
+History rhymes here in a pretty uncomfortable way. In December 2022, Angela Merkel told the German newspaper *Die Zeit* that the 2014 Minsk agreement had been an attempt to buy Ukraine time, which it used to become stronger. In other words, one of the people who negotiated the ceasefire later described it as something closer to a pause. In February 2022, the war Carlin and others had been warning about arrived in full. A lot of Americans experienced that as something that came out of nowhere. It didn't. It had been going on for eight years, including the summer we were all arguing about wedding cakes.
 
-I'm not claiming *Obergefell* caused corporate activism. But it was a moment when businesses learned that taking a side on a culture-war issue could be good marketing, and that employees and customers on the other side could be punished. That logic eventually ran into its limits. The Bud Light and Target backlashes in 2023 were, in a sense, the same playbook running in reverse, with conservative consumers deciding they could punish companies too. Once business becomes political, it's political for everybody.
+## The rest of the foreign policy picture
 
-## The judge-made rights problem
+Ukraine wasn't the only thing that summer that would have looked bad under a spotlight.
 
-This is where it connects to bigger questions about institutions.
+**Syria.** Congress had approved $500 million to train and arm "moderate" Syrian rebels. In July 2015, Defense Secretary Ash Carter told Congress that about 60 fighters were in training. That first group was attacked by al-Nusra almost as soon as it crossed into Syria. In September, General Lloyd Austin testified that only four or five trained fighters were still in the fight. The program was effectively shut down a few weeks later.
 
-*Obergefell* rested on what lawyers call substantive due process, the idea that the Fourteenth Amendment protects certain rights that aren't written down anywhere. Traditionally the Court had said those rights had to be "deeply rooted" in the nation's history. Kennedy's opinion leaned instead on concepts like dignity and personal autonomy. Critics argued that this meant the Court could now find almost any right it wanted, as long as five justices agreed it mattered enough.
+**Iraq.** Ramadi fell to ISIS in May 2015, with Iraqi forces leaving behind US-supplied equipment, and Carter said publicly that the Iraqi army had shown no will to fight. In June, Obama sent 450 more troops back to Iraq.
 
-Roberts raised one obvious follow-up in his dissent: if marriage is about the dignity of a committed relationship between consenting adults, what's the principled reason to limit it to two people? I'm not raising that to be cute. It was a serious question from the Chief Justice about whether the opinion had any limiting principle.
+**Yemen.** The Saudi-led war in Yemen started in March 2015 with US intelligence, refueling, and weapons support. Civilian deaths were piling up that summer with almost no American coverage.
 
-The irony is that the same kind of reasoning came back around. When the Court overturned *Roe* in *Dobbs* in 2022, Justice Thomas wrote that the Court should reconsider all its substantive due process cases, *Obergefell* included. Suddenly a lot of people who had celebrated judge-made rights in 2015 were discovering that rights handed down by five justices can be taken back by five justices. Congress responded by passing the Respect for Marriage Act in 2022, which, if you think about it, is the legislative process Roberts said should have happened in the first place.
+**Journalists.** On June 12, the Pentagon released a Law of War Manual saying that journalists could in some circumstances be treated as "unprivileged belligerents," the same category used for Guantanamo detainees. Press groups objected, and the language was revised the following year.
 
-History rhymes. A right that rests on a court's say-so is only as secure as the court's next majority.
+Any one of these is a story that could have generated real scrutiny of the people running foreign policy. Put together, they're a picture of a government that had a lot it would rather not explain.
 
-## The culture war didn't end, it moved
+## What the ruling did to institutions
 
-If the argument for *Obergefell* was that it would settle the issue, it's worth asking whether that happened.
+Setting the distraction question aside, there's a separate question about what the ruling did to the country's institutions over the following decade. I think there's a pretty good case that the costs were real, and that they had a lot to do with *how* it was decided.
 
-On marriage itself, mostly yes. But the major advocacy organizations didn't disband. They had money, staff, and momentum, and they turned toward gender identity, which became the much more contentious fight of the 2020s, touching on schools, sports, medicine, and parental rights. You don't have to think that was wrong to notice that institutions built to win a fight rarely shut down once they've won it. They look for the next one. That's just how organizational incentives work.
+**The Court became a political prize.** Chief Justice Roberts said in his dissent that supporters should celebrate, but not celebrate the Constitution, because it had nothing to do with it. His concern was that the country was in the middle of deciding this through legislatures and ballot measures, and that taking it away from voters would make the Court look like a political body. Whatever you think of the result, it's hard to argue the Court looks less political now than it did in 2015. The fight over Merrick Garland's nomination came the next year, then Kavanaugh, then *Dobbs*. Both sides learned that if you control five seats, you don't have to persuade anyone.
 
-And opinion hasn't moved in a straight line. Overall support for same-sex marriage is still high, but Gallup's recent polling shows support among Republicans falling from where it was a few years ago, with the partisan gap at its widest. Something about the last decade pushed a chunk of the country in the other direction, and it's hard not to think the way these fights have been waged is part of it.
+And that cuts both ways. In his *Dobbs* concurrence in 2022, Justice Thomas said the Court should reconsider its substantive due process cases, *Obergefell* included. Rights that come from five justices can be taken away by five justices. Congress responded with the Respect for Marriage Act in 2022, which is basically the legislative process Roberts said should have happened in the first place, just seven years later and under duress.
 
-## The argument about marriage itself
+**Congress got to keep not doing its job.** This one doesn't get talked about much. Every time a court settles a contentious issue, legislators get to avoid voting on it. That's convenient for them. Nobody has to take a recorded position and nobody has to negotiate. But it trains the public to look to courts instead of Congress, and it trains Congress to let them.
 
-The deepest critique comes from people like Robert George, Sherif Girgis, and Ryan Anderson, whose book *Truth Overruled* came out right after the ruling. Their argument wasn't really about gay people. It was that marriage had historically been understood as an institution organized around children, connecting kids to their mother and father. Redefining it as a public recognition of an emotional bond between adults, they argued, would finish a shift that had started with no-fault divorce, and make marriage seem optional and about adult fulfillment.
+**Ordinary people ended up doing the litigating.** Because no legislature worked out where the lines were on religious exemptions, those lines got drawn case by case over the next decade, with small business owners as the test cases. Jack Phillips, the Colorado baker, spent about twelve years in court. A family bakery in Oregon was ordered to pay $135,000 and closed. A Washington florist fought for most of a decade before retiring. The Court eventually carved out protections in *Fulton* (2021) and *303 Creative* (2023), but it took years, and courts don't do compromise. They pick winners.
 
-Rod Dreher took a bleaker view, writing right after the ruling that traditional Christians needed to start thinking of themselves as exiles in their own country, which became his book *The Benedict Option*.
+**Business became political, for everyone.** Once corporations learned that taking public positions on social issues was good for the brand, the door was open both ways. By 2023, with the Bud Light and Target backlashes, consumers on the other side had figured out they could play the same game. Companies that used to try to stay out of politics are now permanent targets in it.
 
-## Where the case gets weaker
+**Advocacy organizations didn't shut down. They pivoted.** This is basic institutional behavior. A movement that wins its main fight still has staff, donors, and budgets, and they need a next fight. The energy moved toward gender identity, which became a far more divisive issue in the 2020s, touching schools, sports, medicine, and parental rights. I'm not saying anything about whether that's right or wrong. I'm saying that organizations built to win a fight rarely dissolve after they win. They find another one.
 
-I want to be honest about where this argument is stronger and where it's thinner, because some of the predictions don't hold up well.
+## The divide
 
-The claim that same-sex marriage would undermine marriage generally is hard to support with data. Marriage rates had been falling for decades before 2015, and the research I'm aware of hasn't found a measurable effect of legalization on opposite-sex marriage or divorce. If marriage has been weakened, there were plenty of other things doing the weakening first. And the worst-case predictions about churches being forced to perform weddings or losing their tax exemptions haven't come true. The Court, if anything, has moved toward more protection for religious objectors in the years since.
+The thing I keep coming back to is that "settled law" was supposed to end something. Instead, the decade after 2015 was one of the most polarized in modern American history. *Obergefell* obviously isn't the only reason, and I'm not going to claim it is. Trump, social media, the 2008 financial crisis and its aftermath, all of that matters more.
 
-Supporters would also say that framing this as "the Court bypassed democracy" skips over the fact that constitutional rights aren't supposed to depend on majority votes, and that the same argument was made about *Loving v. Virginia* in 1967. And a lot of gay couples in states that would have held out for years got real legal protections, around inheritance, hospital visitation, and parental rights, that they didn't have to wait for.
+But it fits a pattern. Gallup's recent polling shows support for same-sex marriage among Republicans falling from where it was a few years ago, with the gap between the parties wider than it's been. That's strange if the issue was supposedly settled. It makes more sense if what people resented wasn't only the outcome, but the feeling that the outcome was handed down rather than decided.
 
-So the stronger case isn't that *Obergefell* broke society. It's more specific than that: that the *method* carried costs. It nationalized a conflict that was being worked out locally, put the burden of sorting out religious exemptions on ordinary people through years of litigation, pulled businesses into culture-war politics, and reinforced the habit on all sides of looking to courts rather than voters to win.
+And the habit it reinforced, on all sides, is the habit of treating politics as a contest over cultural identity, fought through courts and corporations, rather than through persuasion and voting. That's a great habit for anyone who'd rather the public not focus on trade deals, intelligence failures, or a war in Eastern Europe.
 
 ## What I'm still wondering
 
-The question I keep circling is whether the country would actually be less divided if this had been left to the states for another five or ten years. Maybe it would have ended up in roughly the same place with less resentment. Maybe some states would still be holding out today, and that would be its own kind of mess.
+I don't think anyone timed *Obergefell* to bury the Azov amendment or the NSA story or Greek capital controls. I can't show that and I'm not going to claim it.
 
-What seems clear is that "settled law" turned out to be a strange phrase for something that produced a decade of lawsuits, a congressional backstop, and a Supreme Court justice openly calling for it to be revisited. The marriage question got answered. The question of who gets to decide these things, and how, never did.
+What I keep wondering is something a little different. When a country gets into the habit of fighting about culture, does it even matter whether anyone plans it? If both parties, most corporations, and most of the media all have their own reasons to prefer that fight, you get the same result either way. The public spends its attention on the thing that divides it, and the things it actually has the least say over, war, trade, intelligence, money, keep moving along in the background.
+
+In June 2015, there was a war going on in Ukraine that would become the biggest European war since 1945. Some people were trying to warn us. Most of us were looking at the Supreme Court.

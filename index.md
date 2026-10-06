@@ -81,6 +81,7 @@ Notes from interviews, podcasts, and conversations — organized by who is speak
 | [Jiang Xueqin]({{ site.baseurl }}{% link knowledge/research/jiang-xueqin/index.md %}) | China, education |
 | [Mises / Austrian]({{ site.baseurl }}{% link knowledge/research/mises/index.md %}) | Economic theory |
 | [Joel Salatin]({{ site.baseurl }}{% link knowledge/research/salatin/index.md %}) | Agriculture, regulation |
+| [John Campbell]({{ site.baseurl }}{% link knowledge/research/john-campbell/index.md %}) | Public health, biosecurity |
 | [Macroeconomics]({{ site.baseurl }}{% link knowledge/research/macroeconomics/index.md %}) | Debt, oil, yields |
 
 ---

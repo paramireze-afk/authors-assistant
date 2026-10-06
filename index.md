@@ -123,6 +123,19 @@ Notes and summaries on books read.
 
 ---
 
+## Drugs & Pharmacology
+
+Reference on drugs, their mechanisms, effects, and cultural significance.
+
+{% assign drug_pages = site.pages | where_exp: "p", "p.path contains 'knowledge/drugs/'" | where_exp: "p", "p.path contains '.md'" | sort: "title" %}
+{% for page in drug_pages %}
+{% unless page.path contains '/index.md' or page.path contains 'README' %}
+- [{{ page.title | default: page.name }}]({{ page.url | relative_url }})
+{% endunless %}
+{% endfor %}
+
+---
+
 ## Cross-Source Syntheses
 
 Analytical summaries that connect threads across multiple sources.

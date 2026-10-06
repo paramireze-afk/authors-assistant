@@ -29,7 +29,7 @@ A local-first research and writing workspace — podcast notes, book analysis, c
 {% assign combined = all_pages | concat: synth_recent | sort_natural: "created" | reverse %}
 
 <table>
-  <thead><tr><th style="width:28%">Title</th><th>Description</th></tr></thead>
+  <thead><tr><th style="width:28%">Title</th><th>Description</th><th style="width:12%">Created</th></tr></thead>
   <tbody>
   {% assign shown = 0 %}
   {% for page in combined %}
@@ -42,6 +42,7 @@ A local-first research and writing workspace — podcast notes, book analysis, c
       {% assign preview_text = page.excerpt | strip_html | strip_newlines | replace: '  ', ' ' | strip %}
       {% endif %}
       <td>{{ preview_text }}</td>
+      <td>{{ page.created | date: "%Y-%m-%d" }}</td>
     </tr>
     {% assign shown = shown | plus: 1 %}
   {% endunless %}

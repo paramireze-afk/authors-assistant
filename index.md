@@ -26,7 +26,13 @@ A local-first research and writing workspace — podcast notes, book analysis, c
   | where_exp: "p", "p.created"
   | sort_natural: "created"
   | reverse %}
-{% assign combined = all_pages | concat: synth_recent | sort_natural: "created" | reverse %}
+{% assign published_recent = site.pages
+  | where_exp: "p", "p.path contains 'articles/published/'"
+  | where_exp: "p", "p.path contains '.md'"
+  | where_exp: "p", "p.created"
+  | sort_natural: "created"
+  | reverse %}
+{% assign combined = all_pages | concat: synth_recent | concat: published_recent | sort_natural: "created" | reverse %}
 
 <table>
   <thead><tr><th style="width:28%">Title</th><th>Description</th><th style="width:12%">Created</th></tr></thead>
@@ -59,6 +65,19 @@ Structured explainers on specific topics — each one is a standalone deep dive.
 
 {% assign synth_pages = site.pages | where_exp: "p", "p.path contains 'articles/synthesis/'" | where_exp: "p", "p.path contains '.md'" | sort_natural: "created" | reverse %}
 {% for page in synth_pages %}
+{% unless page.path contains '/index.md' %}
+- [{{ page.title | default: page.name }}]({{ page.url | relative_url }})
+{% endunless %}
+{% endfor %}
+
+---
+
+## Published Articles
+
+Final or near-final articles ready to read.
+
+{% assign published_pages = site.pages | where_exp: "p", "p.path contains 'articles/published/'" | where_exp: "p", "p.path contains '.md'" | sort_natural: "created" | reverse %}
+{% for page in published_pages %}
 {% unless page.path contains '/index.md' %}
 - [{{ page.title | default: page.name }}]({{ page.url | relative_url }})
 {% endunless %}

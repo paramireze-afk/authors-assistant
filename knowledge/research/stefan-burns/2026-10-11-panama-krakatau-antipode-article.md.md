@@ -2,6 +2,7 @@
 title: "Panama's M7.7 Earthquake, the Krakatau Antipode, and the Echo of 1882–1883"
 subtitle: "A summary of geophysicist Afon Burns' analysis of a possible antipodal, lunar-phased link between Panama and Krakatau"
 created: 2026-10-11
+description: "A summary of geophysicist Afon Burns' analysis linking Panama's October 9, 2026 M7.7 earthquake to Krakatau through antipodal geometry, new-moon timing, and the 1882–1883 Panama quake and Krakatoa eruption, plus Ben Davidson's October 11, 2026 report on a G3 geomagnetic storm, forecast underestimation, and the solar micronova hypothesis."
 source:
   presenter: "Afon Burns"
   presenter_description: "Geophysicist; Earth Evolution channel"

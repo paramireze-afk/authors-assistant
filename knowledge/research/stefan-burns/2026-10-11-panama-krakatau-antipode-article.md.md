@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Panama's M7.7 Earthquake, the Krakatau Antipode, and the Echo of 1882–1883"
 subtitle: "A summary of geophysicist Afon Burns' analysis of a possible antipodal, lunar-phased link between Panama and Krakatau"
 created: 2026-10-11
@@ -167,6 +166,61 @@ Burns places the Panama quake within a broader sequence of movement around the *
 - An **M7.3 in Mexico** (July 2026)
 
 With this movement "accomplished," and possibly more to come, he argues attention should also turn **north to California**, where he believes the risk "just keeps increasing."
+
+---
+
+## Related Update: Ben Davidson's Space Weather Report (October 11, 2026)
+
+*Source: Ben Davidson, Suspicious0bservers daily update, Sunday, October 11, 2026*
+
+On the same weekend, Ben Davidson reported a strong geomagnetic storm, which he framed as another signal of what he calls the ongoing **pole shift**, meaning the continued weakening of Earth's magnetic field.
+
+### Solar conditions
+
+Over the previous 24 hours the Sun was **moderately active**. There were more flares, but they were less eruptive in Earth's direction. **CMEs** left the departing limb, heading away from Earth, and a **coronal hole** crossed central heliographic longitudes. One sunspot group was rotating off to the right as another rotated in. The incoming group was spread out front to back, which Davidson says inhibits flaring, and he is also watching a smaller developing group to its north. Several **plasma filaments** are very large and tower high into the solar atmosphere. Davidson's comment on them: "Stay strong, big guy. We do not need you over here at Earth."
+
+### The CME impact
+
+The expected **CME shock wave** arrived "with some significant gusto." Davidson described a full draping impact that caught every magnetic vector and compressed it, producing a major initial magnetic jolt that reverberated for several hours. **Geoelectric** activity in the ground began in the very same minute the magnetic field was hit, with no delay. As he says they always do, the central western US states stayed comparatively calm.
+
+Solar wind telemetry showed:
+
+| Parameter | Value |
+|---|---|
+| Plasma speed | Over 800 km/s |
+| Density | Above average |
+| Storm level reached | Level 3 (G3) for most of ~6 hours |
+| Official forecast | G2 / Kp 6 |
+| Current state | Calming somewhat by Sunday morning |
+
+### Forecasts vs. reality
+
+Davidson argues the storm **outperformed the official forecast**, and that this fits a pattern. He presents a chart comparing forecast storm levels with observed ones. According to his chart, forecasters deliberately **over-predicted** for decades, running almost a full Kp point above actual storm strength, on the principle that a false alarm is better than a surprise. He says that pattern has **reversed**, and forecasts now **underestimate** storm power and impact, as happened this weekend.
+
+His explanation: "It's not actually the Sun. It's the Earth being too weak." In his view the forecasters aren't making math errors. They use the same models as before, but those models don't account for a **weakening magnetic shield** and Earth's growing vulnerability.
+
+### Science notes
+
+- **Novae:** Davidson notes that scientists have identified **14 new types of nova events** in the past 20 years, and says AI is now filling in further gaps. He presents this as evidence of how much remains unknown about novae. His conclusion is that "the sun can do it too," that it has done so before, and that it "almost certainly will again soon" (the **solar micronova** hypothesis).
+- **Lunar glass and gamma iron:** China's lunar lander mission found **gamma iron** inside glass micro-tektites. Davidson says these are routinely attributed to meteor impacts, and asks why, if so, they aren't found everywhere on the Moon. He argues a **solar micronova** is an equally valid explanation.
+
+### Preparedness reminder and sponsors
+
+Davidson closed with his weekly reminder to prepare the basics of a physical supplies kit: **food, seeds, water, and medical supplies**. Sponsors **Heaven's Harvest** and **Refuge Medical** offer **10% off with promo code "solar"** at checkout.
+
+### Relevance to this article
+
+Burns' and Davidson's updates cover different hazards, earthquakes and volcanoes on one side and space weather on the other. They share a theme: both argue that standard forecasting frameworks may be missing a changing dynamic. For Burns, that is antipodal and lunar triggering. For Davidson, it is a weakening geomagnetic field.
+
+| Claim (Davidson) | Type |
+|---|---|
+| CME arrived with 800+ km/s wind and G3 conditions for ~6 hours | Observation |
+| Official forecast was G2 / Kp 6 | Observation |
+| Forecasts historically over-predicted and now under-predict | Observation (from his own chart) |
+| Under-prediction is caused by a weakening magnetic field | Interpretation |
+| The field weakening is part of an ongoing "pole shift" | Interpretation / hypothesis |
+| Gamma iron in lunar glass could come from a solar micronova | Hypothesis |
+| The Sun will "almost certainly" micronova "again soon" | Prediction |
 
 ---
 

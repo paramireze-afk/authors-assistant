@@ -1,5 +1,5 @@
 ---
-title: "The Back Door to War: The Revisionist Case on Pearl Harbor"
+title: "The Back Door to War: The Charge on Pearl Harbor"
 description: "How historians, admirals, and a former president built the case that Roosevelt provoked Japan into striking first, kept Hawaii in the dark, and closed out a century of American expansion across the Pacific."
 created: 2026-11-03
 type: article

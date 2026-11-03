@@ -28,7 +28,7 @@ key_documents:
   - Honolulu "bomb plot" message (September 24, 1941)
 ---
 
-# The Back Door to War: The Revisionist Case on Pearl Harbor
+# The Back Door to War: How America Provoked Japan into Striking First at Pearl Harbor
 
 ## The charge
 
